@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="D:\MB\manifest.xml"/>
+<pcToLineNum>
+<entry filename="D:\\MB\\source\\MBDelegate.mc" id="1" lineNum="15" parent="globals/MBDelegate" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBDelegate.mc" id="1" lineNum="16" parent="globals/MBDelegate" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBDelegate.mc" id="2" lineNum="21" parent="globals/MBDelegate" pc="268435479" symbol="onKey"/>
+<entry filename="D:\\MB\\source\\MBDelegate.mc" id="2" lineNum="22" parent="globals/MBDelegate" pc="268435483" symbol="onKey"/>
+<entry filename="D:\\MB\\source\\MBDelegate.mc" id="2" lineNum="24" parent="globals/MBDelegate" pc="268435504" symbol="onKey"/>
+<entry filename="D:\\MB\\source\\MBDelegate.mc" id="3" lineNum="12" parent="globals/MBDelegate" pc="268450499" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBDelegate.mc" id="3" lineNum="12" parent="globals/MBDelegate" pc="268450499" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBBackground.mc" id="5" lineNum="8" parent="globals/Background" pc="268435508" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBBackground.mc" id="5" lineNum="9" parent="globals/Background" pc="268435512" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBBackground.mc" id="5" lineNum="13" parent="globals/Background" pc="268435533" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBBackground.mc" id="6" lineNum="16" parent="globals/Background" pc="268435554" symbol="draw"/>
+<entry filename="D:\\MB\\source\\MBBackground.mc" id="6" lineNum="18" parent="globals/Background" pc="268435558" symbol="draw"/>
+<entry filename="D:\\MB\\source\\MBBackground.mc" id="6" lineNum="19" parent="globals/Background" pc="268435607" symbol="draw"/>
+<entry filename="D:\\MB\\source\\MBBackground.mc" id="7" lineNum="6" parent="globals/Background" pc="268453399" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBBackground.mc" id="7" lineNum="6" parent="globals/Background" pc="268453399" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="35" parent="globals/MBView" pc="268435620" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="36" parent="globals/MBView" pc="268435624" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="37" parent="globals/MBView" pc="268435642" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="38" parent="globals/MBView" pc="268435651" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="39" parent="globals/MBView" pc="268435660" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="40" parent="globals/MBView" pc="268435688" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="42" parent="globals/MBView" pc="268435697" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="43" parent="globals/MBView" pc="268435728" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="44" parent="globals/MBView" pc="268435770" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="46" parent="globals/MBView" pc="268435788" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="9" lineNum="48" parent="globals/MBView" pc="268435834" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="10" lineNum="57" parent="globals/MBView" pc="268435855" symbol="onLayout"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="10" lineNum="58" parent="globals/MBView" pc="268435859" symbol="onLayout"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="10" lineNum="59" parent="globals/MBView" pc="268435896" symbol="onLayout"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="10" lineNum="60" parent="globals/MBView" pc="268435960" symbol="onLayout"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="10" lineNum="61" parent="globals/MBView" pc="268435970" symbol="onLayout"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="10" lineNum="62" parent="globals/MBView" pc="268435988" symbol="onLayout"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="11" lineNum="70" parent="globals/MBView" pc="268436031" symbol="onShow"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="75" parent="globals/MBView" pc="268436036" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="77" parent="globals/MBView" pc="268436040" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="78" parent="globals/MBView" pc="268436047" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="79" parent="globals/MBView" pc="268436064" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="82" parent="globals/MBView" pc="268436074" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="83" parent="globals/MBView" pc="268436099" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="84" parent="globals/MBView" pc="268436110" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="87" parent="globals/MBView" pc="268436126" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="88" parent="globals/MBView" pc="268436154" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="89" parent="globals/MBView" pc="268436161" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="92" parent="globals/MBView" pc="268436182" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="95" parent="globals/MBView" pc="268436247" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="96" parent="globals/MBView" pc="268436271" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="97" parent="globals/MBView" pc="268436308" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="106" parent="globals/MBView" pc="268436322" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="107" parent="globals/MBView" pc="268436335" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="109" parent="globals/MBView" pc="268436354" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="115" parent="globals/MBView" pc="268436364" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="116" parent="globals/MBView" pc="268436371" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="118" parent="globals/MBView" pc="268436394" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="120" parent="globals/MBView" pc="268436423" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="121" parent="globals/MBView" pc="268436461" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="122" parent="globals/MBView" pc="268436479" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="12" lineNum="123" parent="globals/MBView" pc="268436491" symbol="onUpdate"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="13" lineNum="134" parent="globals/MBView" pc="268436534" symbol="onHide"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="14" lineNum="138" parent="globals/MBView" pc="268436539" symbol="onExitSleep"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="15" lineNum="142" parent="globals/MBView" pc="268436544" symbol="onEnterSleep"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="145" parent="globals/MBView" pc="268436549" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="146" parent="globals/MBView" pc="268436553" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="148" parent="globals/MBView" pc="268436573" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="149" parent="globals/MBView" pc="268436621" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="150" parent="globals/MBView" pc="268436631" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="151" parent="globals/MBView" pc="268436641" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="152" parent="globals/MBView" pc="268436660" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="153" parent="globals/MBView" pc="268436679" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="154" parent="globals/MBView" pc="268436696" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="156" parent="globals/MBView" pc="268436706" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="158" parent="globals/MBView" pc="268436731" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="159" parent="globals/MBView" pc="268436807" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="161" parent="globals/MBView" pc="268436886" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="163" parent="globals/MBView" pc="268436911" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="164" parent="globals/MBView" pc="268436987" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="166" parent="globals/MBView" pc="268437066" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="168" parent="globals/MBView" pc="268437091" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="169" parent="globals/MBView" pc="268437167" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="171" parent="globals/MBView" pc="268437246" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="173" parent="globals/MBView" pc="268437271" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="174" parent="globals/MBView" pc="268437347" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="176" parent="globals/MBView" pc="268437426" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="178" parent="globals/MBView" pc="268437437" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="179" parent="globals/MBView" pc="268437513" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="183" parent="globals/MBView" pc="268437592" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="185" parent="globals/MBView" pc="268437603" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="186" parent="globals/MBView" pc="268437671" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="190" parent="globals/MBView" pc="268437750" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="194" parent="globals/MBView" pc="268437826" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="195" parent="globals/MBView" pc="268437902" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="197" parent="globals/MBView" pc="268437978" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="206" parent="globals/MBView" pc="268438031" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="16" lineNum="234" parent="globals/MBView" pc="268438054" symbol="drawBackground"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="268" parent="globals/MBView" pc="268438155" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="270" parent="globals/MBView" pc="268438159" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="272" parent="globals/MBView" pc="268438163" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="273" parent="globals/MBView" pc="268438182" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="275" parent="globals/MBView" pc="268438201" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="277" parent="globals/MBView" pc="268438220" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="278" parent="globals/MBView" pc="268438239" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="280" parent="globals/MBView" pc="268438258" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="281" parent="globals/MBView" pc="268438294" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="282" parent="globals/MBView" pc="268438308" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="283" parent="globals/MBView" pc="268438326" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="285" parent="globals/MBView" pc="268438344" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="287" parent="globals/MBView" pc="268438368" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="290" parent="globals/MBView" pc="268438381" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="291" parent="globals/MBView" pc="268438411" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="17" lineNum="293" parent="globals/MBView" pc="268438441" symbol="creatingSpiral"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="18" lineNum="299" parent="globals/MBView" pc="268438499" symbol="checkRadiuses"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="18" lineNum="301" parent="globals/MBView" pc="268438503" symbol="checkRadiuses"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="18" lineNum="302" parent="globals/MBView" pc="268438520" symbol="checkRadiuses"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="18" lineNum="303" parent="globals/MBView" pc="268438537" symbol="checkRadiuses"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="18" lineNum="305" parent="globals/MBView" pc="268438565" symbol="checkRadiuses"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="18" lineNum="306" parent="globals/MBView" pc="268438582" symbol="checkRadiuses"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="18" lineNum="308" parent="globals/MBView" pc="268438599" symbol="checkRadiuses"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="312" parent="globals/MBView" pc="268438627" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="314" parent="globals/MBView" pc="268438631" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="315" parent="globals/MBView" pc="268438644" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="316" parent="globals/MBView" pc="268438657" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="318" parent="globals/MBView" pc="268438680" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="320" parent="globals/MBView" pc="268438688" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="323" parent="globals/MBView" pc="268438694" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="325" parent="globals/MBView" pc="268438705" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="19" lineNum="328" parent="globals/MBView" pc="268438714" symbol="verifyRadius"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="331" parent="globals/MBView" pc="268438718" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="333" parent="globals/MBView" pc="268438722" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="335" parent="globals/MBView" pc="268438729" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="337" parent="globals/MBView" pc="268438747" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="338" parent="globals/MBView" pc="268438768" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="339" parent="globals/MBView" pc="268438792" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="343" parent="globals/MBView" pc="268438816" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="345" parent="globals/MBView" pc="268438854" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="347" parent="globals/MBView" pc="268438868" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="353" parent="globals/MBView" pc="268439068" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="355" parent="globals/MBView" pc="268439082" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="361" parent="globals/MBView" pc="268439336" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="363" parent="globals/MBView" pc="268439350" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="369" parent="globals/MBView" pc="268439550" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="20" lineNum="371" parent="globals/MBView" pc="268439564" symbol="creatingCorona"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="377" parent="globals/MBView" pc="268439588" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="380" parent="globals/MBView" pc="268439592" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="381" parent="globals/MBView" pc="268439615" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="385" parent="globals/MBView" pc="268439641" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="387" parent="globals/MBView" pc="268439668" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="388" parent="globals/MBView" pc="268439685" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="389" parent="globals/MBView" pc="268439692" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="390" parent="globals/MBView" pc="268439741" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="394" parent="globals/MBView" pc="268439758" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="396" parent="globals/MBView" pc="268439815" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="21" lineNum="401" parent="globals/MBView" pc="268439851" symbol="creatingZodiac"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="405" parent="globals/MBView" pc="268439889" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="407" parent="globals/MBView" pc="268439893" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="409" parent="globals/MBView" pc="268439943" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="410" parent="globals/MBView" pc="268439960" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="413" parent="globals/MBView" pc="268439996" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="414" parent="globals/MBView" pc="268440023" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="415" parent="globals/MBView" pc="268440041" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="416" parent="globals/MBView" pc="268440059" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="420" parent="globals/MBView" pc="268440077" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="422" parent="globals/MBView" pc="268440100" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="423" parent="globals/MBView" pc="268440140" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="424" parent="globals/MBView" pc="268440165" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="425" parent="globals/MBView" pc="268440219" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="426" parent="globals/MBView" pc="268440258" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="430" parent="globals/MBView" pc="268440264" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="431" parent="globals/MBView" pc="268440310" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="432" parent="globals/MBView" pc="268440335" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="433" parent="globals/MBView" pc="268440389" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="436" parent="globals/MBView" pc="268440392" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="437" parent="globals/MBView" pc="268440395" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="441" parent="globals/MBView" pc="268440398" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="442" parent="globals/MBView" pc="268440440" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="444" parent="globals/MBView" pc="268440476" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="445" parent="globals/MBView" pc="268440518" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="447" parent="globals/MBView" pc="268440560" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="448" parent="globals/MBView" pc="268440602" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="450" parent="globals/MBView" pc="268440644" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="452" parent="globals/MBView" pc="268440654" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="454" parent="globals/MBView" pc="268440673" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="456" parent="globals/MBView" pc="268440722" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="458" parent="globals/MBView" pc="268440741" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="460" parent="globals/MBView" pc="268440790" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="462" parent="globals/MBView" pc="268440809" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="464" parent="globals/MBView" pc="268440853" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="466" parent="globals/MBView" pc="268440872" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="468" parent="globals/MBView" pc="268440916" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="470" parent="globals/MBView" pc="268440935" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="472" parent="globals/MBView" pc="268440979" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="474" parent="globals/MBView" pc="268440998" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="476" parent="globals/MBView" pc="268441042" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="478" parent="globals/MBView" pc="268441061" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="22" lineNum="482" parent="globals/MBView" pc="268441105" symbol="creatingPlanet"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="493" parent="globals/MBView" pc="268441148" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="495" parent="globals/MBView" pc="268441152" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="496" parent="globals/MBView" pc="268441202" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="498" parent="globals/MBView" pc="268441258" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="499" parent="globals/MBView" pc="268441275" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="502" parent="globals/MBView" pc="268441311" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="503" parent="globals/MBView" pc="268441338" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="505" parent="globals/MBView" pc="268441345" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="507" parent="globals/MBView" pc="268441359" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="511" parent="globals/MBView" pc="268441402" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="516" parent="globals/MBView" pc="268441448" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="517" parent="globals/MBView" pc="268441490" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="518" parent="globals/MBView" pc="268441529" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="519" parent="globals/MBView" pc="268441571" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="520" parent="globals/MBView" pc="268441610" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="521" parent="globals/MBView" pc="268441652" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="524" parent="globals/MBView" pc="268441691" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="525" parent="globals/MBView" pc="268441733" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="527" parent="globals/MBView" pc="268441769" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="528" parent="globals/MBView" pc="268441811" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="530" parent="globals/MBView" pc="268441853" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="531" parent="globals/MBView" pc="268441895" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="533" parent="globals/MBView" pc="268441937" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="535" parent="globals/MBView" pc="268441947" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="537" parent="globals/MBView" pc="268441993" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="538" parent="globals/MBView" pc="268442026" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="539" parent="globals/MBView" pc="268442052" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="544" parent="globals/MBView" pc="268442105" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="550" parent="globals/MBView" pc="268442153" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="551" parent="globals/MBView" pc="268442195" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="552" parent="globals/MBView" pc="268442234" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="553" parent="globals/MBView" pc="268442276" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="554" parent="globals/MBView" pc="268442315" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="555" parent="globals/MBView" pc="268442357" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="557" parent="globals/MBView" pc="268442396" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="559" parent="globals/MBView" pc="268442437" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="560" parent="globals/MBView" pc="268442479" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="561" parent="globals/MBView" pc="268442518" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="562" parent="globals/MBView" pc="268442560" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="563" parent="globals/MBView" pc="268442599" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="564" parent="globals/MBView" pc="268442641" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="23" lineNum="566" parent="globals/MBView" pc="268442680" symbol="creatingEarthMoon"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="24" lineNum="576" parent="globals/MBView" pc="268442759" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="24" lineNum="578" parent="globals/MBView" pc="268442763" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="24" lineNum="583" parent="globals/MBView" pc="268442799" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="24" lineNum="584" parent="globals/MBView" pc="268442837" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="24" lineNum="585" parent="globals/MBView" pc="268442875" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="24" lineNum="586" parent="globals/MBView" pc="268442895" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="24" lineNum="587" parent="globals/MBView" pc="268442913" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="590" parent="globals/MBView" pc="268442931" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="592" parent="globals/MBView" pc="268442935" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="594" parent="globals/MBView" pc="268442971" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="595" parent="globals/MBView" pc="268442991" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="596" parent="globals/MBView" pc="268443001" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="597" parent="globals/MBView" pc="268443011" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="598" parent="globals/MBView" pc="268443038" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="599" parent="globals/MBView" pc="268443100" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="600" parent="globals/MBView" pc="268443152" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="601" parent="globals/MBView" pc="268443216" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="602" parent="globals/MBView" pc="268443280" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="25" lineNum="603" parent="globals/MBView" pc="268443334" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="606" parent="globals/MBView" pc="268443352" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="608" parent="globals/MBView" pc="268443356" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="610" parent="globals/MBView" pc="268443392" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="611" parent="globals/MBView" pc="268443412" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="612" parent="globals/MBView" pc="268443416" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="613" parent="globals/MBView" pc="268443426" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="614" parent="globals/MBView" pc="268443453" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="615" parent="globals/MBView" pc="268443491" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="26" lineNum="617" parent="globals/MBView" pc="268443541" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="620" parent="globals/MBView" pc="268443559" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="622" parent="globals/MBView" pc="268443563" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="624" parent="globals/MBView" pc="268443599" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="625" parent="globals/MBView" pc="268443619" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="626" parent="globals/MBView" pc="268443623" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="627" parent="globals/MBView" pc="268443633" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="628" parent="globals/MBView" pc="268443660" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="629" parent="globals/MBView" pc="268443698" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="631" parent="globals/MBView" pc="268443748" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="632" parent="globals/MBView" pc="268443788" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="633" parent="globals/MBView" pc="268443840" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="635" parent="globals/MBView" pc="268443884" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="636" parent="globals/MBView" pc="268443924" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="637" parent="globals/MBView" pc="268443976" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="27" lineNum="639" parent="globals/MBView" pc="268444020" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="642" parent="globals/MBView" pc="268444038" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="644" parent="globals/MBView" pc="268444042" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="646" parent="globals/MBView" pc="268444078" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="647" parent="globals/MBView" pc="268444098" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="648" parent="globals/MBView" pc="268444108" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="649" parent="globals/MBView" pc="268444118" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="650" parent="globals/MBView" pc="268444156" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="651" parent="globals/MBView" pc="268444191" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="653" parent="globals/MBView" pc="268444252" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="28" lineNum="655" parent="globals/MBView" pc="268444325" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="658" parent="globals/MBView" pc="268444343" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="660" parent="globals/MBView" pc="268444347" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="662" parent="globals/MBView" pc="268444383" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="663" parent="globals/MBView" pc="268444403" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="664" parent="globals/MBView" pc="268444413" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="665" parent="globals/MBView" pc="268444423" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="666" parent="globals/MBView" pc="268444472" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="667" parent="globals/MBView" pc="268444534" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="669" parent="globals/MBView" pc="268444596" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="29" lineNum="679" parent="globals/MBView" pc="268444640" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="30" lineNum="682" parent="globals/MBView" pc="268444658" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="30" lineNum="684" parent="globals/MBView" pc="268444662" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="30" lineNum="686" parent="globals/MBView" pc="268444698" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="30" lineNum="687" parent="globals/MBView" pc="268444718" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="30" lineNum="688" parent="globals/MBView" pc="268444728" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="30" lineNum="691" parent="globals/MBView" pc="268444732" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="30" lineNum="692" parent="globals/MBView" pc="268444781" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="30" lineNum="696" parent="globals/MBView" pc="268444836" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="699" parent="globals/MBView" pc="268444854" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="701" parent="globals/MBView" pc="268444858" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="703" parent="globals/MBView" pc="268444894" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="704" parent="globals/MBView" pc="268444908" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="705" parent="globals/MBView" pc="268444912" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="707" parent="globals/MBView" pc="268444916" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="711" parent="globals/MBView" pc="268444952" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="713" parent="globals/MBView" pc="268444988" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="715" parent="globals/MBView" pc="268445021" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="717" parent="globals/MBView" pc="268445057" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="719" parent="globals/MBView" pc="268445078" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="721" parent="globals/MBView" pc="268445114" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="723" parent="globals/MBView" pc="268445135" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="725" parent="globals/MBView" pc="268445171" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="727" parent="globals/MBView" pc="268445192" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="729" parent="globals/MBView" pc="268445228" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="31" lineNum="731" parent="globals/MBView" pc="268445249" symbol="creatingSunSymbol"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="32" lineNum="734" parent="globals/MBView" pc="268445267" symbol="createPointFromAngle"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="32" lineNum="736" parent="globals/MBView" pc="268445271" symbol="createPointFromAngle"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="32" lineNum="737" parent="globals/MBView" pc="268445320" symbol="createPointFromAngle"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="32" lineNum="739" parent="globals/MBView" pc="268445369" symbol="createPointFromAngle"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="33" lineNum="742" parent="globals/MBView" pc="268445397" symbol="findHeartColor2"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="33" lineNum="743" parent="globals/MBView" pc="268445401" symbol="findHeartColor2"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="746" parent="globals/MBView" pc="268445415" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="747" parent="globals/MBView" pc="268445419" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="748" parent="globals/MBView" pc="268445433" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="749" parent="globals/MBView" pc="268445449" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="750" parent="globals/MBView" pc="268445463" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="751" parent="globals/MBView" pc="268445479" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="752" parent="globals/MBView" pc="268445493" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="753" parent="globals/MBView" pc="268445509" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="754" parent="globals/MBView" pc="268445523" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="34" lineNum="756" parent="globals/MBView" pc="268445539" symbol="findHeartColor"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="35" lineNum="760" parent="globals/MBView" pc="268445553" symbol="getIterator"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="35" lineNum="762" parent="globals/MBView" pc="268445557" symbol="getIterator"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="35" lineNum="763" parent="globals/MBView" pc="268445600" symbol="getIterator"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="35" lineNum="765" parent="globals/MBView" pc="268445633" symbol="getIterator"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="36" lineNum="769" parent="globals/MBView" pc="268445636" symbol="getLatitude"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="36" lineNum="772" parent="globals/MBView" pc="268445640" symbol="getLatitude"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="37" lineNum="13" parent="globals/MBView" pc="268450261" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="37" lineNum="21" parent="globals/MBView" pc="268450279" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBView.mc" id="37" lineNum="13" parent="globals/MBView" pc="268450261" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="39" lineNum="53" parent="globals/Moon" pc="268445647" symbol="creatingNow"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="39" lineNum="55" parent="globals/Moon" pc="268445659" symbol="creatingNow"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="39" lineNum="56" parent="globals/Moon" pc="268445711" symbol="creatingNow"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="40" lineNum="59" parent="globals/Moon" pc="268445715" symbol="readingMoment"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="40" lineNum="61" parent="globals/Moon" pc="268445727" symbol="readingMoment"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="40" lineNum="68" parent="globals/Moon" pc="268445815" symbol="readingMoment"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="41" lineNum="71" parent="globals/Moon" pc="268445834" symbol="generatingMoment"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="41" lineNum="75" parent="globals/Moon" pc="268445846" symbol="generatingMoment"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="42" lineNum="78" parent="globals/Moon" pc="268445853" symbol="printingMoment"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="42" lineNum="80" parent="globals/Moon" pc="268445865" symbol="printingMoment"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="42" lineNum="82" parent="globals/Moon" pc="268445896" symbol="printingMoment"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="91" parent="globals/Moon" pc="268446089" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="93" parent="globals/Moon" pc="268446101" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="95" parent="globals/Moon" pc="268446123" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="97" parent="globals/Moon" pc="268446153" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="98" parent="globals/Moon" pc="268446171" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="100" parent="globals/Moon" pc="268446195" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="101" parent="globals/Moon" pc="268446217" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="104" parent="globals/Moon" pc="268446239" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="106" parent="globals/Moon" pc="268446252" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="107" parent="globals/Moon" pc="268446276" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="43" lineNum="108" parent="globals/Moon" pc="268446290" symbol="findMoments"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="114" parent="globals/Moon" pc="268446308" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="116" parent="globals/Moon" pc="268446320" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="118" parent="globals/Moon" pc="268446342" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="120" parent="globals/Moon" pc="268446372" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="121" parent="globals/Moon" pc="268446390" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="123" parent="globals/Moon" pc="268446414" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="124" parent="globals/Moon" pc="268446436" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="128" parent="globals/Moon" pc="268446458" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="130" parent="globals/Moon" pc="268446471" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="44" lineNum="134" parent="globals/Moon" pc="268446490" symbol="findLastFullMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="137" parent="globals/Moon" pc="268446497" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="139" parent="globals/Moon" pc="268446509" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="141" parent="globals/Moon" pc="268446531" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="143" parent="globals/Moon" pc="268446561" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="144" parent="globals/Moon" pc="268446579" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="146" parent="globals/Moon" pc="268446603" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="147" parent="globals/Moon" pc="268446625" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="151" parent="globals/Moon" pc="268446647" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="155" parent="globals/Moon" pc="268446660" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="156" parent="globals/Moon" pc="268446685" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="45" lineNum="163" parent="globals/Moon" pc="268446725" symbol="whereMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="46" lineNum="167" parent="globals/Moon" pc="268446732" symbol="getLatitude"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="46" lineNum="170" parent="globals/Moon" pc="268446744" symbol="getLatitude"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="47" lineNum="174" parent="globals/Moon" pc="268446751" symbol="cutCircle"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="47" lineNum="176" parent="globals/Moon" pc="268446763" symbol="cutCircle"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="47" lineNum="178" parent="globals/Moon" pc="268446771" symbol="cutCircle"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="47" lineNum="181" parent="globals/Moon" pc="268446780" symbol="cutCircle"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="47" lineNum="183" parent="globals/Moon" pc="268446808" symbol="cutCircle"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="188" parent="globals/Moon" pc="268446812" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="190" parent="globals/Moon" pc="268446824" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="194" parent="globals/Moon" pc="268446860" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="196" parent="globals/Moon" pc="268446894" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="198" parent="globals/Moon" pc="268446909" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="199" parent="globals/Moon" pc="268446926" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="201" parent="globals/Moon" pc="268446933" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="203" parent="globals/Moon" pc="268446984" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="205" parent="globals/Moon" pc="268447009" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="206" parent="globals/Moon" pc="268447041" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="210" parent="globals/Moon" pc="268447076" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="48" lineNum="211" parent="globals/Moon" pc="268447108" symbol="drawMoon"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="49" lineNum="20" parent="globals/Moon" pc="268450519" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\Moon.mc" id="49" lineNum="15" parent="globals/Moon" pc="268450519" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="19" parent="globals/Zodiac" pc="268447154" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="21" parent="globals/Zodiac" pc="268447166" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="23" parent="globals/Zodiac" pc="268447179" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="25" parent="globals/Zodiac" pc="268447190" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="27" parent="globals/Zodiac" pc="268447199" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="29" parent="globals/Zodiac" pc="268447224" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="31" parent="globals/Zodiac" pc="268447233" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="33" parent="globals/Zodiac" pc="268447258" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="35" parent="globals/Zodiac" pc="268447267" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="37" parent="globals/Zodiac" pc="268447292" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="39" parent="globals/Zodiac" pc="268447301" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="41" parent="globals/Zodiac" pc="268447326" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="43" parent="globals/Zodiac" pc="268447335" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="45" parent="globals/Zodiac" pc="268447360" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="47" parent="globals/Zodiac" pc="268447369" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="49" parent="globals/Zodiac" pc="268447394" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="51" parent="globals/Zodiac" pc="268447403" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="53" parent="globals/Zodiac" pc="268447428" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="55" parent="globals/Zodiac" pc="268447437" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="57" parent="globals/Zodiac" pc="268447462" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="59" parent="globals/Zodiac" pc="268447471" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="61" parent="globals/Zodiac" pc="268447496" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="63" parent="globals/Zodiac" pc="268447505" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="65" parent="globals/Zodiac" pc="268447530" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="67" parent="globals/Zodiac" pc="268447539" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="69" parent="globals/Zodiac" pc="268447564" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="51" lineNum="73" parent="globals/Zodiac" pc="268447573" symbol="whichSign"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="52" lineNum="3" parent="globals/Zodiac" pc="268452904" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\Zodiac.mc" id="52" lineNum="1" parent="globals/Zodiac" pc="268452904" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="54" lineNum="12" parent="globals/Pointers" pc="268447580" symbol="drawPointerHour"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="54" lineNum="13" parent="globals/Pointers" pc="268447592" symbol="drawPointerHour"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="54" lineNum="14" parent="globals/Pointers" pc="268447609" symbol="drawPointerHour"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="54" lineNum="21" parent="globals/Pointers" pc="268447650" symbol="drawPointerHour"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="55" lineNum="24" parent="globals/Pointers" pc="268447654" symbol="drawPointerMin"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="55" lineNum="25" parent="globals/Pointers" pc="268447666" symbol="drawPointerMin"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="55" lineNum="26" parent="globals/Pointers" pc="268447683" symbol="drawPointerMin"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="55" lineNum="32" parent="globals/Pointers" pc="268447705" symbol="drawPointerMin"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="35" parent="globals/Pointers" pc="268447709" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="37" parent="globals/Pointers" pc="268447721" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="38" parent="globals/Pointers" pc="268447742" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="39" parent="globals/Pointers" pc="268447766" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="41" parent="globals/Pointers" pc="268447790" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="43" parent="globals/Pointers" pc="268447804" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="45" parent="globals/Pointers" pc="268447840" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="46" parent="globals/Pointers" pc="268447884" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="47" parent="globals/Pointers" pc="268447928" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="49" parent="globals/Pointers" pc="268447972" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="51" parent="globals/Pointers" pc="268447992" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="53" parent="globals/Pointers" pc="268448028" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="54" parent="globals/Pointers" pc="268448072" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="55" parent="globals/Pointers" pc="268448116" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="57" parent="globals/Pointers" pc="268448160" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="56" lineNum="59" parent="globals/Pointers" pc="268448189" symbol="drawPointer1"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="62" parent="globals/Pointers" pc="268448238" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="64" parent="globals/Pointers" pc="268448250" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="65" parent="globals/Pointers" pc="268448271" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="66" parent="globals/Pointers" pc="268448295" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="68" parent="globals/Pointers" pc="268448319" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="70" parent="globals/Pointers" pc="268448333" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="72" parent="globals/Pointers" pc="268448369" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="73" parent="globals/Pointers" pc="268448413" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="74" parent="globals/Pointers" pc="268448457" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="78" parent="globals/Pointers" pc="268448501" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="57" lineNum="86" parent="globals/Pointers" pc="268448537" symbol="drawPointer2"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="58" lineNum="89" parent="globals/Pointers" pc="268448586" symbol="createPointFromAngle"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="58" lineNum="91" parent="globals/Pointers" pc="268448598" symbol="createPointFromAngle"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="58" lineNum="92" parent="globals/Pointers" pc="268448647" symbol="createPointFromAngle"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="58" lineNum="94" parent="globals/Pointers" pc="268448696" symbol="createPointFromAngle"/>
+<entry filename="D:\\MB\\source\\Pointers.mc" id="59" lineNum="10" parent="globals/Pointers" pc="268450518" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="61" lineNum="7" parent="globals/MBApp" pc="268448724" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="61" lineNum="8" parent="globals/MBApp" pc="268448728" symbol="initialize"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="62" lineNum="12" parent="globals/MBApp" pc="268448747" symbol="onStart"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="63" lineNum="16" parent="globals/MBApp" pc="268448752" symbol="onStop"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="64" lineNum="20" parent="globals/MBApp" pc="268448757" symbol="getInitialView"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="64" lineNum="21" parent="globals/MBApp" pc="268448761" symbol="getInitialView"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="65" lineNum="25" parent="globals/MBApp" pc="268448799" symbol="onSettingsChanged"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="65" lineNum="26" parent="globals/MBApp" pc="268448803" symbol="onSettingsChanged"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="66" lineNum="5" parent="globals/MBApp" pc="268450480" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="66" lineNum="5" parent="globals/MBApp" pc="268450480" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="67" lineNum="31" parent="globals" pc="268448820" symbol="getApp"/>
+<entry filename="D:\\MB\\source\\MBApp.mc" id="67" lineNum="32" parent="globals" pc="268448832" symbol="getApp"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="69" lineNum="37" parent="globals/Planets" pc="268448849" symbol="daysFromStart"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="69" lineNum="39" parent="globals/Planets" pc="268448861" symbol="daysFromStart"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="69" lineNum="40" parent="globals/Planets" pc="268448878" symbol="daysFromStart"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="69" lineNum="43" parent="globals/Planets" pc="268448899" symbol="daysFromStart"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="70" lineNum="46" parent="globals/Planets" pc="268448927" symbol="daysFromStartOnMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="70" lineNum="48" parent="globals/Planets" pc="268448939" symbol="daysFromStartOnMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="70" lineNum="49" parent="globals/Planets" pc="268448943" symbol="daysFromStartOnMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="70" lineNum="52" parent="globals/Planets" pc="268448964" symbol="daysFromStartOnMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="71" lineNum="57" parent="globals/Planets" pc="268448992" symbol="xyPlanet"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="71" lineNum="59" parent="globals/Planets" pc="268449004" symbol="xyPlanet"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="72" lineNum="62" parent="globals/Planets" pc="268449104" symbol="daysFromStart2"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="72" lineNum="64" parent="globals/Planets" pc="268449116" symbol="daysFromStart2"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="72" lineNum="65" parent="globals/Planets" pc="268449142" symbol="daysFromStart2"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="72" lineNum="66" parent="globals/Planets" pc="268449161" symbol="daysFromStart2"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="72" lineNum="67" parent="globals/Planets" pc="268449168" symbol="daysFromStart2"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="73" lineNum="70" parent="globals/Planets" pc="268449187" symbol="currentAngle"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="73" lineNum="72" parent="globals/Planets" pc="268449199" symbol="currentAngle"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="73" lineNum="73" parent="globals/Planets" pc="268449218" symbol="currentAngle"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="73" lineNum="74" parent="globals/Planets" pc="268449225" symbol="currentAngle"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="73" lineNum="75" parent="globals/Planets" pc="268449244" symbol="currentAngle"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="74" lineNum="78" parent="globals/Planets" pc="268449257" symbol="convertToPlus"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="74" lineNum="80" parent="globals/Planets" pc="268449269" symbol="convertToPlus"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="74" lineNum="82" parent="globals/Planets" pc="268449280" symbol="convertToPlus"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="74" lineNum="85" parent="globals/Planets" pc="268449292" symbol="convertToPlus"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="75" lineNum="89" parent="globals/Planets" pc="268449296" symbol="convertToMidnight"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="75" lineNum="91" parent="globals/Planets" pc="268449308" symbol="convertToMidnight"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="75" lineNum="93" parent="globals/Planets" pc="268449319" symbol="convertToMidnight"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="75" lineNum="96" parent="globals/Planets" pc="268449331" symbol="convertToMidnight"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="99" parent="globals/Planets" pc="268449341" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="102" parent="globals/Planets" pc="268449353" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="104" parent="globals/Planets" pc="268449380" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="105" parent="globals/Planets" pc="268449398" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="106" parent="globals/Planets" pc="268449416" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="107" parent="globals/Planets" pc="268449434" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="109" parent="globals/Planets" pc="268449452" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="110" parent="globals/Planets" pc="268449471" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="111" parent="globals/Planets" pc="268449486" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="113" parent="globals/Planets" pc="268449504" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="115" parent="globals/Planets" pc="268449562" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="116" parent="globals/Planets" pc="268449629" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="117" parent="globals/Planets" pc="268449636" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="118" parent="globals/Planets" pc="268449661" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="76" lineNum="120" parent="globals/Planets" pc="268449671" symbol="currentPosition"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="124" parent="globals/Planets" pc="268449686" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="127" parent="globals/Planets" pc="268449698" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="129" parent="globals/Planets" pc="268449725" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="130" parent="globals/Planets" pc="268449743" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="131" parent="globals/Planets" pc="268449761" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="132" parent="globals/Planets" pc="268449779" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="134" parent="globals/Planets" pc="268449797" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="135" parent="globals/Planets" pc="268449818" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="136" parent="globals/Planets" pc="268449833" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="138" parent="globals/Planets" pc="268449851" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="140" parent="globals/Planets" pc="268449909" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="141" parent="globals/Planets" pc="268449976" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="142" parent="globals/Planets" pc="268449983" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="143" parent="globals/Planets" pc="268450008" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="77" lineNum="145" parent="globals/Planets" pc="268450018" symbol="currentPositionForMoment"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="78" lineNum="9" parent="globals/Planets" pc="268453418" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="78" lineNum="19" parent="globals/Planets" pc="268455224" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="78" lineNum="26" parent="globals/Planets" pc="268455344" symbol="&lt;init&gt;"/>
+<entry filename="D:\\MB\\source\\Planets.mc" id="78" lineNum="7" parent="globals/Planets" pc="268453418" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="80" lineNum="2" parent="globals/Rez/Drawables" pc="268450474" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="81" lineNum="25" parent="globals/Rez/Fonts" pc="268450476" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="82" lineNum="27" parent="globals/Rez/JsonData" pc="268450478" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="83" lineNum="36" parent="globals/Rez/Layouts" pc="268450033" symbol="WatchFace"/>
+<entry filename="Rez" id="83" lineNum="38" parent="globals/Rez/Layouts" pc="268450045" symbol="WatchFace"/>
+<entry filename="Rez" id="83" lineNum="39" parent="globals/Rez/Layouts" pc="268450069" symbol="WatchFace"/>
+<entry filename="Rez" id="83" lineNum="41" parent="globals/Rez/Layouts" pc="268450232" symbol="WatchFace"/>
+<entry filename="Rez" id="84" lineNum="29" parent="globals/Rez/Layouts" pc="268450477" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="85" lineNum="46" parent="globals/Rez/Menus" pc="268450475" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="86" lineNum="48" parent="globals/Rez/Strings" pc="268450479" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="87" lineNum="1" parent="globals/Rez" pc="268450450" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="87" lineNum="1" parent="globals/Rez" pc="268450450" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="48" method="true" symbol="findHeartColor"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="100" method="true" symbol="daysFromStartOnMoment"/>
+<entry id="91" method="true" symbol="cutCircle"/>
+<entry id="82" method="true" symbol="drawPointer2"/>
+<entry id="81" method="true" symbol="drawPointer1"/>
+<entry id="38" method="true" symbol="creatingEarthSymbol"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="98" symbol="DAY_IN_SECONDS"/>
+<entry id="101" method="true" symbol="xyPlanet"/>
+<entry id="37" method="true" symbol="creatingEarthMoon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="105" method="true" symbol="convertToMidnight"/>
+<entry id="104" method="true" symbol="convertToPlus"/>
+<entry id="42" method="true" symbol="creatingSaturnSymbol"/>
+<entry field="true" id="71" symbol="ColorRed"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+<entry id="99" method="true" symbol="daysFromStart"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry id="88" method="true" symbol="findMoments"/>
+<entry field="true" id="75" symbol="MilitaryFormatTitle"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="107" method="true" symbol="currentPositionForMoment"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="18" object="true" symbol="MBApp"/>
+<entry id="14" object="true" symbol="MBView"/>
+<entry field="true" id="70" symbol="ColorBlue"/>
+<entry id="92" method="true" symbol="drawMoon"/>
+<entry field="true" id="78" symbol="AppName"/>
+<entry id="8389339" symbol="second"/>
+<entry id="49" method="true" symbol="getIterator"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="87" method="true" symbol="printingMoment"/>
+<entry id="35" method="true" symbol="creatingZodiac"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="79" method="true" symbol="drawPointerHour"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry field="true" id="22" symbol="hr_zones"/>
+<entry id="8389338" symbol="minute"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="36" method="true" symbol="creatingPlanet"/>
+<entry field="true" id="96" symbol="PUPI"/>
+<entry id="16" module="true" symbol="Zodiac"/>
+<entry id="13" object="true" symbol="MBDelegate"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="17" module="true" symbol="Pointers"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="20" symbol="center"/>
+<entry id="86" method="true" symbol="generatingMoment"/>
+<entry id="10" module="true" symbol="globals/Moon"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="64" symbol="saturnusU"/>
+<entry field="true" id="60" symbol="marsU"/>
+<entry id="52" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry field="true" id="65" symbol="saturnusD"/>
+<entry field="true" id="61" symbol="marsD"/>
+<entry field="true" id="74" symbol="ColorDarkGray"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="54" symbol="mercuriusU"/>
+<entry field="true" id="55" symbol="mercuriusD"/>
+<entry field="true" id="24" symbol="mercury"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="95" symbol="planets"/>
+<entry id="31" method="true" symbol="creatingSpiral"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="9" module="true" symbol="globals/Pointers"/>
+<entry id="40" method="true" symbol="creatingVenusSymbol"/>
+<entry id="12" module="true" symbol="globals/Planets"/>
+<entry id="32" method="true" symbol="checkRadiuses"/>
+<entry field="true" id="77" symbol="ColorWhite"/>
+<entry field="true" id="27" symbol="mercuriusUp"/>
+<entry field="true" id="28" symbol="GRAY"/>
+<entry id="45" method="true" symbol="creatingSunSymbol"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry field="true" id="76" symbol="ColorBlack"/>
+<entry id="34" method="true" symbol="creatingCorona"/>
+<entry id="41" method="true" symbol="creatingMercurySymbol"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="84" method="true" symbol="creatingNow"/>
+<entry id="30" method="true" symbol="drawBackground"/>
+<entry id="80" method="true" symbol="drawPointerMin"/>
+<entry id="102" method="true" symbol="daysFromStart2"/>
+<entry field="true" id="29" symbol="VIRALS"/>
+<entry field="true" id="93" symbol="ARCS"/>
+<entry field="true" id="58" symbol="venusU"/>
+<entry field="true" id="59" symbol="venusD"/>
+<entry field="true" id="23" symbol="beatColor"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="25" symbol="mars"/>
+<entry id="15" module="true" symbol="Moon"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="56" symbol="terraU"/>
+<entry field="true" id="57" symbol="terraD"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="50" method="true" symbol="getLatitude"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="90" method="true" symbol="whereMoon"/>
+<entry field="true" id="68" symbol="LauncherIcon"/>
+<entry id="11" module="true" symbol="globals/Zodiac"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="33" method="true" symbol="verifyRadius"/>
+<entry field="true" id="26" symbol="jupiter"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="73" symbol="BackgroundColorTitle"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="46" method="true" symbol="createPointFromAngle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="53" symbol="flagOld"/>
+<entry field="true" id="66" symbol="terraU2"/>
+<entry id="39" method="true" symbol="creatingMarsSymbol"/>
+<entry id="47" method="true" symbol="findHeartColor2"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="62" symbol="iuppiterU"/>
+<entry field="true" id="63" symbol="iuppiterD"/>
+<entry field="true" id="69" symbol="ColorLightGray"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="21" symbol="dcR"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry id="8389781" module="true" symbol="SensorHistory"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry id="103" method="true" symbol="currentAngle"/>
+<entry id="94" method="true" symbol="whichSign"/>
+<entry field="true" id="72" symbol="ForegroundColorTitle"/>
+<entry field="true" id="67" symbol="terraD2"/>
+<entry field="true" id="8388940" symbol="year"/>
+<entry id="51" module="true" symbol="Layouts"/>
+<entry field="true" id="83" symbol="FULLS"/>
+<entry field="true" id="97" symbol="START_MOMENT"/>
+<entry id="19" module="true" symbol="Planets"/>
+<entry id="43" method="true" symbol="creatingJupiterSymbol"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry field="true" id="8389243" symbol="flag"/>
+<entry id="44" method="true" symbol="creatingMoonSymbol"/>
+<entry id="89" method="true" symbol="findLastFullMoon"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="106" method="true" symbol="currentPosition"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry id="85" method="true" symbol="readingMoment"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435552" name="dictionary" stackId="1" startPc="268435512"/>
+<entry arg="true" endPc="268435619" name="dc" stackId="1" startPc="268435554"/>
+<entry endPc="268435833" name="i" stackId="1" startPc="268435788"/>
+<entry arg="true" endPc="268436030" name="dc" stackId="1" startPc="268435855"/>
+<entry endPc="268436532" name="sensorIter" stackId="7" startPc="268436040"/>
+<entry endPc="268436532" name="view" stackId="6" startPc="268436040"/>
+<entry endPc="268436532" name="hours" stackId="4" startPc="268436040"/>
+<entry endPc="268436532" name="currentBeat" stackId="8" startPc="268436040"/>
+<entry endPc="268436532" name="timeString" stackId="5" startPc="268436040"/>
+<entry endPc="268436532" name="clockTime" stackId="3" startPc="268436040"/>
+<entry endPc="268436532" name="timeFormat" stackId="2" startPc="268436040"/>
+<entry arg="true" endPc="268436533" name="dc" stackId="1" startPc="268436036"/>
+<entry endPc="268438153" name="day" stackId="2" startPc="268436553"/>
+<entry endPc="268438153" name="today" stackId="1" startPc="268436553"/>
+<entry endPc="268438153" name="smallRotation" stackId="5" startPc="268436553"/>
+<entry endPc="268438153" name="minutes" stackId="7" startPc="268436553"/>
+<entry endPc="268438153" name="bigRotation" stackId="4" startPc="268436553"/>
+<entry endPc="268438153" name="clockTime" stackId="6" startPc="268436553"/>
+<entry endPc="268438153" name="month" stackId="3" startPc="268436553"/>
+<entry endPc="268438484" name="further" stackId="15" startPc="268438368"/>
+<entry endPc="268438484" name="degree" stackId="13" startPc="268438368"/>
+<entry endPc="268438484" name="closer" stackId="14" startPc="268438368"/>
+<entry endPc="268438497" name="i" stackId="12" startPc="268438368"/>
+<entry endPc="268438497" name="short" stackId="10" startPc="268438159"/>
+<entry endPc="268438497" name="radiuses" stackId="9" startPc="268438159"/>
+<entry endPc="268438497" name="spirals" stackId="6" startPc="268438159"/>
+<entry endPc="268438497" name="long" stackId="11" startPc="268438159"/>
+<entry endPc="268438497" name="axisY" stackId="8" startPc="268438159"/>
+<entry endPc="268438497" name="axisX" stackId="7" startPc="268438159"/>
+<entry arg="true" endPc="268438498" name="shortRadius" stackId="2" startPc="268438155"/>
+<entry arg="true" endPc="268438498" name="pen" stackId="5" startPc="268438155"/>
+<entry arg="true" endPc="268438498" name="dcContext" stackId="1" startPc="268438155"/>
+<entry arg="true" endPc="268438498" name="longRadius" stackId="3" startPc="268438155"/>
+<entry arg="true" endPc="268438498" name="angles" stackId="4" startPc="268438155"/>
+<entry endPc="268438625" name="result" stackId="6" startPc="268438503"/>
+<entry endPc="268438625" name="short" stackId="4" startPc="268438503"/>
+<entry endPc="268438625" name="long" stackId="5" startPc="268438503"/>
+<entry arg="true" endPc="268438626" name="shortRadius" stackId="2" startPc="268438499"/>
+<entry arg="true" endPc="268438626" name="dcContext" stackId="1" startPc="268438499"/>
+<entry arg="true" endPc="268438626" name="longRadius" stackId="3" startPc="268438499"/>
+<entry endPc="268438716" name="height" stackId="4" startPc="268438631"/>
+<entry endPc="268438716" name="width" stackId="3" startPc="268438631"/>
+<entry endPc="268438716" name="maxRadius" stackId="5" startPc="268438631"/>
+<entry arg="true" endPc="268438717" name="radius" stackId="2" startPc="268438627"/>
+<entry arg="true" endPc="268438717" name="dcContext" stackId="1" startPc="268438627"/>
+<entry endPc="268439573" name="pointsToCross" stackId="14" startPc="268438747"/>
+<entry endPc="268439573" name="pointsToTop" stackId="15" startPc="268438747"/>
+<entry endPc="268439573" name="right" stackId="11" startPc="268438747"/>
+<entry endPc="268439573" name="points" stackId="12" startPc="268438747"/>
+<entry endPc="268439573" name="pointsToLeft" stackId="13" startPc="268438747"/>
+<entry endPc="268439573" name="left" stackId="10" startPc="268438747"/>
+<entry endPc="268439573" name="top" stackId="9" startPc="268438747"/>
+<entry endPc="268439586" name="i" stackId="8" startPc="268438747"/>
+<entry endPc="268439586" name="baseAngle" stackId="7" startPc="268438722"/>
+<entry arg="true" endPc="268439587" name="dcContext" stackId="1" startPc="268438718"/>
+<entry arg="true" endPc="268439587" name="base" stackId="6" startPc="268438718"/>
+<entry arg="true" endPc="268439587" name="shortLenght" stackId="5" startPc="268438718"/>
+<entry arg="true" endPc="268439587" name="axisY" stackId="3" startPc="268438718"/>
+<entry arg="true" endPc="268439587" name="axisX" stackId="2" startPc="268438718"/>
+<entry arg="true" endPc="268439587" name="longLenght" stackId="4" startPc="268438718"/>
+<entry endPc="268439887" name="signSpan" stackId="9" startPc="268439592"/>
+<entry endPc="268439887" name="sign" stackId="8" startPc="268439592"/>
+<entry endPc="268439887" name="span" stackId="10" startPc="268439592"/>
+<entry arg="true" endPc="268439888" name="day" stackId="4" startPc="268439588"/>
+<entry arg="true" endPc="268439888" name="dcContext" stackId="1" startPc="268439588"/>
+<entry arg="true" endPc="268439888" name="month" stackId="5" startPc="268439588"/>
+<entry arg="true" endPc="268439888" name="axisY" stackId="3" startPc="268439588"/>
+<entry arg="true" endPc="268439888" name="axisX" stackId="2" startPc="268439588"/>
+<entry arg="true" endPc="268439888" name="graphic" stackId="7" startPc="268439588"/>
+<entry arg="true" endPc="268439888" name="pointingColor" stackId="6" startPc="268439588"/>
+<entry endPc="268440260" name="toDisplay" stackId="14" startPc="268440100"/>
+<entry endPc="268440391" name="toDisplay" stackId="15" startPc="268440264"/>
+<entry endPc="268441146" name="shift" stackId="16" startPc="268439893"/>
+<entry endPc="268441146" name="thisPlanet" stackId="10" startPc="268439893"/>
+<entry endPc="268441146" name="where" stackId="13" startPc="268439893"/>
+<entry endPc="268441146" name="arch" stackId="11" startPc="268439893"/>
+<entry endPc="268441146" name="positionPlanet" stackId="9" startPc="268439893"/>
+<entry endPc="268441146" name="title" stackId="12" startPc="268439893"/>
+<entry arg="true" endPc="268441147" name="radius" stackId="7" startPc="268439889"/>
+<entry arg="true" endPc="268441147" name="planet" stackId="4" startPc="268439889"/>
+<entry arg="true" endPc="268441147" name="graphicSize" stackId="8" startPc="268439889"/>
+<entry arg="true" endPc="268441147" name="lenght" stackId="5" startPc="268439889"/>
+<entry arg="true" endPc="268441147" name="dcContext" stackId="1" startPc="268439889"/>
+<entry arg="true" endPc="268441147" name="axisY" stackId="3" startPc="268439889"/>
+<entry arg="true" endPc="268441147" name="axisX" stackId="2" startPc="268439889"/>
+<entry arg="true" endPc="268441147" name="graphic" stackId="6" startPc="268439889"/>
+<entry endPc="268442757" name="momentFM" stackId="14" startPc="268441152"/>
+<entry endPc="268442757" name="shift" stackId="13" startPc="268441152"/>
+<entry endPc="268442757" name="currentPosition" stackId="16" startPc="268441152"/>
+<entry endPc="268442757" name="positionMoonPhase" stackId="10" startPc="268441152"/>
+<entry endPc="268442757" name="initialPosition" stackId="15" startPc="268441152"/>
+<entry endPc="268442757" name="arch" stackId="12" startPc="268441152"/>
+<entry endPc="268442757" name="positionPlanet" stackId="9" startPc="268441152"/>
+<entry endPc="268442757" name="thisPlanet" stackId="11" startPc="268441152"/>
+<entry endPc="268442757" name="moonPosition" stackId="17" startPc="268441152"/>
+<entry arg="true" endPc="268442758" name="radius" stackId="7" startPc="268441148"/>
+<entry arg="true" endPc="268442758" name="planet" stackId="4" startPc="268441148"/>
+<entry arg="true" endPc="268442758" name="graphicSize" stackId="8" startPc="268441148"/>
+<entry arg="true" endPc="268442758" name="lenght" stackId="5" startPc="268441148"/>
+<entry arg="true" endPc="268442758" name="dcContext" stackId="1" startPc="268441148"/>
+<entry arg="true" endPc="268442758" name="axisY" stackId="3" startPc="268441148"/>
+<entry arg="true" endPc="268442758" name="axisX" stackId="2" startPc="268441148"/>
+<entry arg="true" endPc="268442758" name="graphic" stackId="6" startPc="268441148"/>
+<entry arg="true" endPc="268442930" name="higher" stackId="4" startPc="268442759"/>
+<entry arg="true" endPc="268442930" name="lower" stackId="5" startPc="268442759"/>
+<entry arg="true" endPc="268442930" name="dcContext" stackId="1" startPc="268442759"/>
+<entry arg="true" endPc="268442930" name="axisY" stackId="3" startPc="268442759"/>
+<entry arg="true" endPc="268442930" name="axisX" stackId="2" startPc="268442759"/>
+<entry endPc="268443350" name="third" stackId="9" startPc="268442935"/>
+<entry endPc="268443350" name="second" stackId="8" startPc="268442935"/>
+<entry endPc="268443350" name="first" stackId="7" startPc="268442935"/>
+<entry endPc="268443350" name="middleY" stackId="6" startPc="268442935"/>
+<entry endPc="268443350" name="middleX" stackId="5" startPc="268442935"/>
+<entry arg="true" endPc="268443351" name="pen" stackId="4" startPc="268442931"/>
+<entry arg="true" endPc="268443351" name="dcContext" stackId="1" startPc="268442931"/>
+<entry arg="true" endPc="268443351" name="axisY" stackId="3" startPc="268442931"/>
+<entry arg="true" endPc="268443351" name="axisX" stackId="2" startPc="268442931"/>
+<entry endPc="268443557" name="middleY" stackId="6" startPc="268443356"/>
+<entry endPc="268443557" name="middleX" stackId="5" startPc="268443356"/>
+<entry arg="true" endPc="268443558" name="pen" stackId="4" startPc="268443352"/>
+<entry arg="true" endPc="268443558" name="dcContext" stackId="1" startPc="268443352"/>
+<entry arg="true" endPc="268443558" name="axisY" stackId="3" startPc="268443352"/>
+<entry arg="true" endPc="268443558" name="axisX" stackId="2" startPc="268443352"/>
+<entry endPc="268444036" name="topRightHigher" stackId="10" startPc="268443563"/>
+<entry endPc="268444036" name="topRightLower" stackId="9" startPc="268443563"/>
+<entry endPc="268444036" name="topLeftHigher" stackId="8" startPc="268443563"/>
+<entry endPc="268444036" name="topLeftLower" stackId="7" startPc="268443563"/>
+<entry endPc="268444036" name="middleY" stackId="6" startPc="268443563"/>
+<entry endPc="268444036" name="middleX" stackId="5" startPc="268443563"/>
+<entry arg="true" endPc="268444037" name="pen" stackId="4" startPc="268443559"/>
+<entry arg="true" endPc="268444037" name="dcContext" stackId="1" startPc="268443559"/>
+<entry arg="true" endPc="268444037" name="axisY" stackId="3" startPc="268443559"/>
+<entry arg="true" endPc="268444037" name="axisX" stackId="2" startPc="268443559"/>
+<entry endPc="268444341" name="middleY" stackId="6" startPc="268444042"/>
+<entry endPc="268444341" name="middleX" stackId="5" startPc="268444042"/>
+<entry arg="true" endPc="268444342" name="pen" stackId="4" startPc="268444038"/>
+<entry arg="true" endPc="268444342" name="dcContext" stackId="1" startPc="268444038"/>
+<entry arg="true" endPc="268444342" name="axisY" stackId="3" startPc="268444038"/>
+<entry arg="true" endPc="268444342" name="axisX" stackId="2" startPc="268444038"/>
+<entry endPc="268444656" name="middleY" stackId="6" startPc="268444347"/>
+<entry endPc="268444656" name="middleX" stackId="5" startPc="268444347"/>
+<entry arg="true" endPc="268444657" name="pen" stackId="4" startPc="268444343"/>
+<entry arg="true" endPc="268444657" name="dcContext" stackId="1" startPc="268444343"/>
+<entry arg="true" endPc="268444657" name="axisY" stackId="3" startPc="268444343"/>
+<entry arg="true" endPc="268444657" name="axisX" stackId="2" startPc="268444343"/>
+<entry endPc="268444852" name="middleY" stackId="6" startPc="268444662"/>
+<entry endPc="268444852" name="middleX" stackId="5" startPc="268444662"/>
+<entry arg="true" endPc="268444853" name="pen" stackId="4" startPc="268444658"/>
+<entry arg="true" endPc="268444853" name="dcContext" stackId="1" startPc="268444658"/>
+<entry arg="true" endPc="268444853" name="axisY" stackId="3" startPc="268444658"/>
+<entry arg="true" endPc="268444853" name="axisX" stackId="2" startPc="268444658"/>
+<entry endPc="268445265" name="middleY" stackId="6" startPc="268444858"/>
+<entry endPc="268445265" name="middleX" stackId="5" startPc="268444858"/>
+<entry arg="true" endPc="268445266" name="pen" stackId="4" startPc="268444854"/>
+<entry arg="true" endPc="268445266" name="dcContext" stackId="1" startPc="268444854"/>
+<entry arg="true" endPc="268445266" name="axisY" stackId="3" startPc="268444854"/>
+<entry arg="true" endPc="268445266" name="axisX" stackId="2" startPc="268444854"/>
+<entry endPc="268445395" name="newY" stackId="6" startPc="268445271"/>
+<entry endPc="268445395" name="newX" stackId="5" startPc="268445271"/>
+<entry arg="true" endPc="268445396" name="lenght" stackId="3" startPc="268445267"/>
+<entry arg="true" endPc="268445396" name="rotation" stackId="4" startPc="268445267"/>
+<entry arg="true" endPc="268445396" name="axisY" stackId="2" startPc="268445267"/>
+<entry arg="true" endPc="268445396" name="axisX" stackId="1" startPc="268445267"/>
+<entry arg="true" endPc="268445414" name="zones" stackId="1" startPc="268445397"/>
+<entry arg="true" endPc="268445414" name="heartbeat" stackId="2" startPc="268445397"/>
+<entry arg="true" endPc="268445552" name="zones" stackId="1" startPc="268445415"/>
+<entry arg="true" endPc="268445552" name="heartbeat" stackId="2" startPc="268445415"/>
+<entry endPc="268445713" name="now" stackId="1" startPc="268445659"/>
+<entry endPc="268445832" name="options" stackId="2" startPc="268445727"/>
+<entry arg="true" endPc="268445833" name="moment" stackId="1" startPc="268445715"/>
+<entry endPc="268446087" name="gregory" stackId="2" startPc="268445865"/>
+<entry arg="true" endPc="268446088" name="moment" stackId="1" startPc="268445853"/>
+<entry endPc="268446293" name="second" stackId="5" startPc="268446153"/>
+<entry endPc="268446293" name="condition2" stackId="7" startPc="268446153"/>
+<entry endPc="268446293" name="condition1" stackId="6" startPc="268446153"/>
+<entry endPc="268446293" name="first" stackId="4" startPc="268446153"/>
+<entry endPc="268446306" name="i" stackId="3" startPc="268446153"/>
+<entry endPc="268446306" name="now" stackId="2" startPc="268446101"/>
+<entry arg="true" endPc="268446307" name="moments" stackId="1" startPc="268446089"/>
+<entry endPc="268446476" name="second" stackId="5" startPc="268446372"/>
+<entry endPc="268446476" name="condition2" stackId="7" startPc="268446372"/>
+<entry endPc="268446476" name="condition1" stackId="6" startPc="268446372"/>
+<entry endPc="268446476" name="first" stackId="4" startPc="268446372"/>
+<entry endPc="268446489" name="i" stackId="3" startPc="268446372"/>
+<entry endPc="268446495" name="now" stackId="2" startPc="268446320"/>
+<entry arg="true" endPc="268446496" name="moments" stackId="1" startPc="268446308"/>
+<entry endPc="268446708" name="total" stackId="8" startPc="268446660"/>
+<entry endPc="268446711" name="second" stackId="5" startPc="268446561"/>
+<entry endPc="268446711" name="condition2" stackId="7" startPc="268446561"/>
+<entry endPc="268446711" name="condition1" stackId="6" startPc="268446561"/>
+<entry endPc="268446711" name="first" stackId="4" startPc="268446561"/>
+<entry endPc="268446724" name="i" stackId="3" startPc="268446561"/>
+<entry endPc="268446730" name="now" stackId="2" startPc="268446509"/>
+<entry arg="true" endPc="268446731" name="moments" stackId="1" startPc="268446497"/>
+<entry endPc="268446810" name="result" stackId="3" startPc="268446763"/>
+<entry arg="true" endPc="268446811" name="height" stackId="2" startPc="268446751"/>
+<entry arg="true" endPc="268446811" name="radius" stackId="1" startPc="268446751"/>
+<entry endPc="268447139" name="lenght" stackId="8" startPc="268446909"/>
+<entry endPc="268447139" name="tLenght" stackId="9" startPc="268446909"/>
+<entry endPc="268447152" name="i" stackId="7" startPc="268446909"/>
+<entry endPc="268447152" name="terminator" stackId="6" startPc="268446824"/>
+<entry arg="true" endPc="268447153" name="radius" stackId="4" startPc="268446812"/>
+<entry arg="true" endPc="268447153" name="dcContext" stackId="1" startPc="268446812"/>
+<entry arg="true" endPc="268447153" name="whereMoon" stackId="5" startPc="268446812"/>
+<entry arg="true" endPc="268447153" name="axisY" stackId="3" startPc="268446812"/>
+<entry arg="true" endPc="268447153" name="axisX" stackId="2" startPc="268446812"/>
+<entry endPc="268447578" name="combined" stackId="3" startPc="268447166"/>
+<entry arg="true" endPc="268447579" name="day" stackId="1" startPc="268447154"/>
+<entry arg="true" endPc="268447579" name="month" stackId="2" startPc="268447154"/>
+<entry endPc="268447652" name="clockTime" stackId="1" startPc="268447592"/>
+<entry endPc="268447652" name="degree" stackId="2" startPc="268447592"/>
+<entry endPc="268447707" name="clockTime" stackId="1" startPc="268447666"/>
+<entry endPc="268447707" name="degree" stackId="2" startPc="268447666"/>
+<entry endPc="268448236" name="right" stackId="11" startPc="268447721"/>
+<entry endPc="268448236" name="left" stackId="10" startPc="268447721"/>
+<entry endPc="268448236" name="top" stackId="9" startPc="268447721"/>
+<entry arg="true" endPc="268448237" name="correction" stackId="7" startPc="268447709"/>
+<entry arg="true" endPc="268448237" name="rotation" stackId="6" startPc="268447709"/>
+<entry arg="true" endPc="268448237" name="further" stackId="4" startPc="268447709"/>
+<entry arg="true" endPc="268448237" name="pen" stackId="8" startPc="268447709"/>
+<entry arg="true" endPc="268448237" name="dcContext" stackId="1" startPc="268447709"/>
+<entry arg="true" endPc="268448237" name="axisY" stackId="3" startPc="268447709"/>
+<entry arg="true" endPc="268448237" name="axisX" stackId="2" startPc="268447709"/>
+<entry arg="true" endPc="268448237" name="closer" stackId="5" startPc="268447709"/>
+<entry endPc="268448584" name="right" stackId="11" startPc="268448250"/>
+<entry endPc="268448584" name="left" stackId="10" startPc="268448250"/>
+<entry endPc="268448584" name="top" stackId="9" startPc="268448250"/>
+<entry arg="true" endPc="268448585" name="correction" stackId="7" startPc="268448238"/>
+<entry arg="true" endPc="268448585" name="rotation" stackId="6" startPc="268448238"/>
+<entry arg="true" endPc="268448585" name="further" stackId="4" startPc="268448238"/>
+<entry arg="true" endPc="268448585" name="pen" stackId="8" startPc="268448238"/>
+<entry arg="true" endPc="268448585" name="dcContext" stackId="1" startPc="268448238"/>
+<entry arg="true" endPc="268448585" name="axisY" stackId="3" startPc="268448238"/>
+<entry arg="true" endPc="268448585" name="axisX" stackId="2" startPc="268448238"/>
+<entry arg="true" endPc="268448585" name="closer" stackId="5" startPc="268448238"/>
+<entry endPc="268448722" name="newY" stackId="6" startPc="268448598"/>
+<entry endPc="268448722" name="newX" stackId="5" startPc="268448598"/>
+<entry arg="true" endPc="268448723" name="lenght" stackId="3" startPc="268448586"/>
+<entry arg="true" endPc="268448723" name="rotation" stackId="4" startPc="268448586"/>
+<entry arg="true" endPc="268448723" name="axisY" stackId="2" startPc="268448586"/>
+<entry arg="true" endPc="268448723" name="axisX" stackId="1" startPc="268448586"/>
+<entry arg="true" endPc="268448751" name="state" stackId="1" startPc="268448747"/>
+<entry arg="true" endPc="268448756" name="state" stackId="1" startPc="268448752"/>
+<entry endPc="268448925" name="current" stackId="1" startPc="268448861"/>
+<entry endPc="268448925" name="days" stackId="2" startPc="268448861"/>
+<entry endPc="268448990" name="current" stackId="2" startPc="268448939"/>
+<entry endPc="268448990" name="days" stackId="3" startPc="268448939"/>
+<entry arg="true" endPc="268448991" name="moment" stackId="1" startPc="268448927"/>
+<entry arg="true" endPc="268449103" name="radius" stackId="4" startPc="268448992"/>
+<entry arg="true" endPc="268449103" name="centerY" stackId="2" startPc="268448992"/>
+<entry arg="true" endPc="268449103" name="centerX" stackId="1" startPc="268448992"/>
+<entry arg="true" endPc="268449103" name="angle" stackId="3" startPc="268448992"/>
+<entry endPc="268449185" name="currentMidnight" stackId="1" startPc="268449116"/>
+<entry endPc="268449185" name="days" stackId="3" startPc="268449116"/>
+<entry endPc="268449185" name="beginning" stackId="2" startPc="268449116"/>
+<entry endPc="268449255" name="belowFloor" stackId="3" startPc="268449199"/>
+<entry endPc="268449255" name="floor" stackId="2" startPc="268449199"/>
+<entry endPc="268449255" name="newFloor" stackId="4" startPc="268449199"/>
+<entry arg="true" endPc="268449256" name="angle" stackId="1" startPc="268449187"/>
+<entry arg="true" endPc="268449295" name="angle" stackId="1" startPc="268449257"/>
+<entry arg="true" endPc="268449340" name="angle" stackId="1" startPc="268449296"/>
+<entry endPc="268449684" name="secondCorrection" stackId="11" startPc="268449353"/>
+<entry endPc="268449684" name="initialLongtitude" stackId="3" startPc="268449353"/>
+<entry endPc="268449684" name="meanAnomaly" stackId="9" startPc="268449353"/>
+<entry endPc="268449684" name="precession" stackId="13" startPc="268449353"/>
+<entry endPc="268449684" name="firstCorrection" stackId="10" startPc="268449353"/>
+<entry endPc="268449684" name="e" stackId="6" startPc="268449353"/>
+<entry endPc="268449684" name="totalAngle" stackId="7" startPc="268449353"/>
+<entry endPc="268449684" name="afterCorrections" stackId="14" startPc="268449353"/>
+<entry endPc="268449684" name="dayAngle" stackId="4" startPc="268449353"/>
+<entry endPc="268449684" name="totalAngleNormalized" stackId="8" startPc="268449353"/>
+<entry endPc="268449684" name="perihelionLongtitude" stackId="5" startPc="268449353"/>
+<entry endPc="268449684" name="totalCorrection" stackId="12" startPc="268449353"/>
+<entry endPc="268449684" name="currentPlanet" stackId="2" startPc="268449353"/>
+<entry arg="true" endPc="268449685" name="planet" stackId="1" startPc="268449341"/>
+<entry endPc="268450031" name="secondCorrection" stackId="12" startPc="268449698"/>
+<entry endPc="268450031" name="initialLongtitude" stackId="4" startPc="268449698"/>
+<entry endPc="268450031" name="meanAnomaly" stackId="10" startPc="268449698"/>
+<entry endPc="268450031" name="precession" stackId="14" startPc="268449698"/>
+<entry endPc="268450031" name="firstCorrection" stackId="11" startPc="268449698"/>
+<entry endPc="268450031" name="e" stackId="7" startPc="268449698"/>
+<entry endPc="268450031" name="totalAngle" stackId="8" startPc="268449698"/>
+<entry endPc="268450031" name="afterCorrections" stackId="15" startPc="268449698"/>
+<entry endPc="268450031" name="dayAngle" stackId="5" startPc="268449698"/>
+<entry endPc="268450031" name="totalAngleNormalized" stackId="9" startPc="268449698"/>
+<entry endPc="268450031" name="perihelionLongtitude" stackId="6" startPc="268449698"/>
+<entry endPc="268450031" name="totalCorrection" stackId="13" startPc="268449698"/>
+<entry endPc="268450031" name="currentPlanet" stackId="3" startPc="268449698"/>
+<entry arg="true" endPc="268450032" name="planet" stackId="1" startPc="268449686"/>
+<entry arg="true" endPc="268450032" name="moment" stackId="2" startPc="268449686"/>
+<entry endPc="268450258" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268450045"/>
+<entry endPc="268450258" name="rez_cmp_local_custom_drawable_14051310181226923321" stackId="2" startPc="268450045"/>
+<entry arg="true" endPc="268450259" name="dc" stackId="1" startPc="268450033"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="flagOld"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="flag"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="mercury"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="mars"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="jupiter"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="mercuriusU"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="mercuriusD"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="terraU"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="terraD"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="venusU"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="venusD"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="marsU"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="marsD"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="iuppiterU"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="iuppiterD"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="saturnusU"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="saturnusD"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="terraU2"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="terraD2"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="119" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/MBView" offset="238" parentId="globals" symbolId="MBView" type="class"/>
+<dataEntry label="globals/Rez" offset="589" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="668" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="859" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="890" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="921" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="960" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="991" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/MBApp" offset="1102" parentId="globals" symbolId="MBApp" type="class"/>
+<dataEntry label="globals/MBDelegate" offset="1181" parentId="globals" symbolId="MBDelegate" type="class"/>
+<dataEntry label="globals/Pointers" offset="1236" parentId="globals" symbolId="Pointers" type="module"/>
+<dataEntry label="globals/Moon" offset="1307" parentId="globals" symbolId="Moon" type="module"/>
+<dataEntry label="globals/Zodiac" offset="1426" parentId="globals" symbolId="Zodiac" type="module"/>
+<dataEntry label="globals/Background" offset="1473" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry label="globals/Planets" offset="1528" parentId="globals" symbolId="Planets" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="MBDelegate" startPc="268435456">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435507" name="onKey" parent="MBDelegate" startPc="268435479">
+<documentation><![CDATA[<div class="description"> Handle the select button<br/> <div class="returns">Returns  true if event is handled</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450517" name="&lt;init&gt;" parent="MBDelegate" startPc="268450499">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435553" name="initialize" parent="Background" startPc="268435508">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435619" name="draw" parent="Background" startPc="268435554">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268453417" name="&lt;init&gt;" parent="Background" startPc="268453399">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435854" name="initialize" parent="MBView" startPc="268435620">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436030" name="onLayout" parent="MBView" startPc="268435855">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436035" name="onShow" parent="MBView" startPc="268436031">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436533" name="onUpdate" parent="MBView" startPc="268436036">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436538" name="onHide" parent="MBView" startPc="268436534">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436543" name="onExitSleep" parent="MBView" startPc="268436539">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436548" name="onEnterSleep" parent="MBView" startPc="268436544">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438154" name="drawBackground" parent="MBView" startPc="268436549">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438498" name="creatingSpiral" parent="MBView" startPc="268438155">
+<param id="dcContext"/>
+<param id="shortRadius"/>
+<param id="longRadius"/>
+<param id="angles"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438626" name="checkRadiuses" parent="MBView" startPc="268438499">
+<param id="dcContext"/>
+<param id="shortRadius"/>
+<param id="longRadius"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438717" name="verifyRadius" parent="MBView" startPc="268438627">
+<param id="dcContext"/>
+<param id="radius"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439587" name="creatingCorona" parent="MBView" startPc="268438718">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="longLenght"/>
+<param id="shortLenght"/>
+<param id="base"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439888" name="creatingZodiac" parent="MBView" startPc="268439588">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="day"/>
+<param id="month"/>
+<param id="pointingColor"/>
+<param id="graphic"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441147" name="creatingPlanet" parent="MBView" startPc="268439889">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="planet"/>
+<param id="lenght"/>
+<param id="graphic"/>
+<param id="radius"/>
+<param id="graphicSize"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442758" name="creatingEarthMoon" parent="MBView" startPc="268441148">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="planet"/>
+<param id="lenght"/>
+<param id="graphic"/>
+<param id="radius"/>
+<param id="graphicSize"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442930" name="creatingEarthSymbol" parent="MBView" startPc="268442759">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="higher"/>
+<param id="lower"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443351" name="creatingMarsSymbol" parent="MBView" startPc="268442931">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443558" name="creatingVenusSymbol" parent="MBView" startPc="268443352">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268444037" name="creatingMercurySymbol" parent="MBView" startPc="268443559">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268444342" name="creatingSaturnSymbol" parent="MBView" startPc="268444038">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268444657" name="creatingJupiterSymbol" parent="MBView" startPc="268444343">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268444853" name="creatingMoonSymbol" parent="MBView" startPc="268444658">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445266" name="creatingSunSymbol" parent="MBView" startPc="268444854">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445396" name="createPointFromAngle" parent="MBView" startPc="268445267">
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="lenght"/>
+<param id="rotation"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445414" name="findHeartColor2" parent="MBView" startPc="268445397">
+<param id="zones"/>
+<param id="heartbeat"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445552" name="findHeartColor" parent="MBView" startPc="268445415">
+<param id="zones"/>
+<param id="heartbeat"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445635" name="getIterator" parent="MBView" startPc="268445553">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445646" name="getLatitude" parent="MBView" startPc="268445636">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450449" name="&lt;init&gt;" parent="MBView" startPc="268450261">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445714" name="creatingNow" parent="Moon" startPc="268445647">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445833" name="readingMoment" parent="Moon" startPc="268445715">
+<param id="moment"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445852" name="generatingMoment" parent="Moon" startPc="268445834">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268446088" name="printingMoment" parent="Moon" startPc="268445853">
+<param id="moment"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268446307" name="findMoments" parent="Moon" startPc="268446089">
+<param id="moments"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268446496" name="findLastFullMoon" parent="Moon" startPc="268446308">
+<param id="moments"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268446731" name="whereMoon" parent="Moon" startPc="268446497">
+<param id="moments"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268446750" name="getLatitude" parent="Moon" startPc="268446732">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268446811" name="cutCircle" parent="Moon" startPc="268446751">
+<param id="radius"/>
+<param id="height"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268447153" name="drawMoon" parent="Moon" startPc="268446812">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="radius"/>
+<param id="whereMoon"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268452903" name="&lt;init&gt;" parent="Moon" startPc="268450519">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268447579" name="whichSign" parent="Zodiac" startPc="268447154">
+<param id="day"/>
+<param id="month"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268453398" name="&lt;init&gt;" parent="Zodiac" startPc="268452904">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268447653" name="drawPointerHour" parent="Pointers" startPc="268447580">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268447708" name="drawPointerMin" parent="Pointers" startPc="268447654">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448237" name="drawPointer1" parent="Pointers" startPc="268447709">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="further"/>
+<param id="closer"/>
+<param id="rotation"/>
+<param id="correction"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448585" name="drawPointer2" parent="Pointers" startPc="268448238">
+<param id="dcContext"/>
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="further"/>
+<param id="closer"/>
+<param id="rotation"/>
+<param id="correction"/>
+<param id="pen"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448723" name="createPointFromAngle" parent="Pointers" startPc="268448586">
+<param id="axisX"/>
+<param id="axisY"/>
+<param id="lenght"/>
+<param id="rotation"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450518" name="&lt;init&gt;" parent="Pointers" startPc="268450518">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448746" name="initialize" parent="MBApp" startPc="268448724">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448751" name="onStart" parent="MBApp" startPc="268448747">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448756" name="onStop" parent="MBApp" startPc="268448752">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448798" name="getInitialView" parent="MBApp" startPc="268448757">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448819" name="onSettingsChanged" parent="MBApp" startPc="268448799">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450498" name="&lt;init&gt;" parent="MBApp" startPc="268450480">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448848" name="getApp" startPc="268448820">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448926" name="daysFromStart" parent="Planets" startPc="268448849">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268448991" name="daysFromStartOnMoment" parent="Planets" startPc="268448927">
+<param id="moment"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268449103" name="xyPlanet" parent="Planets" startPc="268448992">
+<param id="centerX"/>
+<param id="centerY"/>
+<param id="angle"/>
+<param id="radius"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268449186" name="daysFromStart2" parent="Planets" startPc="268449104">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268449256" name="currentAngle" parent="Planets" startPc="268449187">
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268449295" name="convertToPlus" parent="Planets" startPc="268449257">
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268449340" name="convertToMidnight" parent="Planets" startPc="268449296">
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268449685" name="currentPosition" parent="Planets" startPc="268449341">
+<param id="planet"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268450032" name="currentPositionForMoment" parent="Planets" startPc="268449686">
+<param id="planet"/>
+<param id="moment"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268455451" name="&lt;init&gt;" parent="Planets" startPc="268453418">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450474" name="&lt;init&gt;" parent="Drawables" startPc="268450474">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450476" name="&lt;init&gt;" parent="Fonts" startPc="268450476">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450478" name="&lt;init&gt;" parent="JsonData" startPc="268450478">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268450259" name="WatchFace" parent="Layouts" startPc="268450033">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450477" name="&lt;init&gt;" parent="Layouts" startPc="268450477">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450475" name="&lt;init&gt;" parent="Menus" startPc="268450475">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450479" name="&lt;init&gt;" parent="Strings" startPc="268450479">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268450473" name="&lt;init&gt;" parent="Rez" startPc="268450450">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

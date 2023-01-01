@@ -1,0 +1,27 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="flagOld" filename="../images/mb256tra.png" />
+    <bitmap id="flag" filename="../images/zodiac6.png" />
+    <bitmap id="mercury" filename="../images/merkury2.png" />
+    <bitmap id="mars" filename="../images/mars1.png" />
+    <bitmap id="jupiter" filename="../images/jupiter1.png" />
+    <bitmap id="mercuriusU" filename="../images/mercuryUp50Big.png" />
+    <bitmap id="mercuriusD" filename="../images/mercuryDown50Big.png" />
+    <bitmap id="terraU" filename="../images/terraUp50.png" />
+    <bitmap id="terraD" filename="../images/terraDown50.png" />
+    <bitmap id="venusU" filename="../images/venusUp50.png" />
+    <bitmap id="venusD" filename="../images/venusDown50.png" />
+    <bitmap id="marsU" filename="../images/marsUp95.png" />
+    <bitmap id="marsD" filename="../images/marsDown95.png" />
+    <bitmap id="iuppiterU" filename="../images/iuppiterUp95.png" />
+    <bitmap id="iuppiterD" filename="../images/iuppiterDown95.png" />
+    <bitmap id="saturnusU" filename="../images/saturnusUp95.png" />
+    <bitmap id="saturnusD" filename="../images/saturnusDown95.png" />
+    <bitmap id="terraU2" filename="../images/terraUp95.png" />
+    <bitmap id="terraD2" filename="../images/terraDown95.png" />
+    <bitmap id="flag1" filename="../images/I.png" />
+    <bitmap id="flag2" filename="../images/II.png" />
+    <bitmap id="flag3" filename="../images/III.png" />
+    <bitmap id="flag4" filename="../images/IV.png" />
+
+</drawables>
