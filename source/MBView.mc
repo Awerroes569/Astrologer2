@@ -4,15 +4,13 @@ import Toybox.Lang;
 import Toybox.System;
 import Toybox.WatchUi;
 import Toybox.Math;
-//import Toybox.Sensor;
 import Toybox.SensorHistory;
-//import Toybox.Attention;
 import Toybox.Time.Gregorian;
 import Toybox.Activity;
 
 class MBView extends WatchUi.WatchFace {
 
-    var background, center, dcR;
+    var  center, dcR; //var background, center, dcR, hr_zones, beatColor, mercury, mars, jupiter,mercuriusUp,zodiacs;
 
     var GRAY=0xaaaaaa;
     
@@ -32,7 +30,7 @@ class MBView extends WatchUi.WatchFace {
     
     function initialize() {
         WatchFace.initialize();
-        background = null;  
+        //background = null;  
     }
 
     // Load your resources here

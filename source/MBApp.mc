@@ -18,7 +18,7 @@ class MBApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() as Array<Views or InputDelegates>? {
-        return [ new MBView() ];// as Array<Views or InputDelegates>;
+        return [ new MBView() ];
     }
 
     // New app settings have been received so trigger a UI update
