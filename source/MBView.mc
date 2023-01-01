@@ -10,7 +10,7 @@ import Toybox.Activity;
 
 class MBView extends WatchUi.WatchFace {
 
-    var  center, dcR; //var background, center, dcR, hr_zones, beatColor, mercury, mars, jupiter,mercuriusUp,zodiacs;
+    var  center, dcR, zodiacs; //var background, center, dcR, hr_zones, beatColor, mercury, mars, jupiter,mercuriusUp,zodiacs;
 
     var GRAY=0xaaaaaa;
     
@@ -27,10 +27,12 @@ class MBView extends WatchUi.WatchFace {
     			320.6, //10
     			350.2 //11
     			];
-    
+
+
     function initialize() {
         WatchFace.initialize();
-        //background = null;  
+        //background = null; 
+        zodiacs=[Rez.Drawables.flag1,Rez.Drawables.flag2,Rez.Drawables.flag3,Rez.Drawables.flag4]; 
     }
 
     // Load your resources here
@@ -80,7 +82,7 @@ class MBView extends WatchUi.WatchFace {
         var bigRotation=Pointers.drawPointerHour();
         var smallRotation=Pointers.drawPointerMin();
         var clockTime = System.getClockTime();
-        var minutes=clockTime.min;  
+        var minutes=28;//clockTime.min;  
 
         if(minutes>5 and minutes<12)
         {
@@ -111,7 +113,7 @@ class MBView extends WatchUi.WatchFace {
         {
             if(minutes<31)
             {
-                creatingZodiac(dcR,center[0],center[1],day,month,GRAY,background);
+                creatingZodiac(dcR,center[0],center[1],day,month,GRAY);
                 creatingPlanet(dcR,center[0],center[1],"Earth",50,18,15);
             }
             else 
@@ -232,7 +234,7 @@ class MBView extends WatchUi.WatchFace {
     	}
     }
 
-    function creatingZodiac(dcContext,axisX,axisY,day,month,pointingColor,graphic)
+    function creatingZodiac(dcContext,axisX,axisY,day,month,pointingColor)
     {
         // 1 POINT CURRENT SIGN
         var sign=Zodiac.whichSign(day, month);
