@@ -115,7 +115,6 @@ function findMoments(moments)
 
         if(condition1 and condition2)
         {
-            System.println(i+"  Solution:  ");
             printingMoment(first);
             return;
         }
@@ -197,8 +196,6 @@ function drawMoon(dcContext,axisX,axisY,radius,whereMoon)
     {
         var lenght=cutCircle(radius,i);
         var tLenght=terminator*lenght;
-
-        System.println("terminator:   "+terminator+"   where: "+whereMoon+"  lenght: "+lenght+"   tLenght:   "+tLenght);
 
         if(whereMoon>0&&whereMoon<180)
         {

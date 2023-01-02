@@ -6,16 +6,16 @@
 <entry filename="D:\\Astrologer2\\source\\MBDelegate.mc" id="1" lineNum="16" parent="globals/MBDelegate" pc="268435460" symbol="initialize"/>
 <entry filename="D:\\Astrologer2\\source\\MBDelegate.mc" id="2" lineNum="21" parent="globals/MBDelegate" pc="268435479" symbol="onKey"/>
 <entry filename="D:\\Astrologer2\\source\\MBDelegate.mc" id="2" lineNum="22" parent="globals/MBDelegate" pc="268435483" symbol="onKey"/>
-<entry filename="D:\\Astrologer2\\source\\MBDelegate.mc" id="3" lineNum="12" parent="globals/MBDelegate" pc="268449420" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\MBDelegate.mc" id="3" lineNum="12" parent="globals/MBDelegate" pc="268449420" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBDelegate.mc" id="3" lineNum="12" parent="globals/MBDelegate" pc="268449752" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBDelegate.mc" id="3" lineNum="12" parent="globals/MBDelegate" pc="268449752" symbol="&lt;init&gt;"/>
 <entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="5" lineNum="8" parent="globals/Background" pc="268435487" symbol="initialize"/>
 <entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="5" lineNum="9" parent="globals/Background" pc="268435491" symbol="initialize"/>
 <entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="5" lineNum="13" parent="globals/Background" pc="268435512" symbol="initialize"/>
 <entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="6" lineNum="16" parent="globals/Background" pc="268435533" symbol="draw"/>
 <entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="6" lineNum="18" parent="globals/Background" pc="268435537" symbol="draw"/>
 <entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="6" lineNum="19" parent="globals/Background" pc="268435586" symbol="draw"/>
-<entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="7" lineNum="6" parent="globals/Background" pc="268454295" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="7" lineNum="6" parent="globals/Background" pc="268454295" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="7" lineNum="6" parent="globals/Background" pc="268454627" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBBackground.mc" id="7" lineNum="6" parent="globals/Background" pc="268454627" symbol="&lt;init&gt;"/>
 <entry filename="D:\\Astrologer2\\source\\Pointers.mc" id="9" lineNum="12" parent="globals/Pointers" pc="268435599" symbol="drawPointerHour"/>
 <entry filename="D:\\Astrologer2\\source\\Pointers.mc" id="9" lineNum="13" parent="globals/Pointers" pc="268435611" symbol="drawPointerHour"/>
 <entry filename="D:\\Astrologer2\\source\\Pointers.mc" id="9" lineNum="14" parent="globals/Pointers" pc="268435628" symbol="drawPointerHour"/>
@@ -55,7 +55,7 @@
 <entry filename="D:\\Astrologer2\\source\\Pointers.mc" id="13" lineNum="74" parent="globals/Pointers" pc="268436617" symbol="createPointFromAngle"/>
 <entry filename="D:\\Astrologer2\\source\\Pointers.mc" id="13" lineNum="75" parent="globals/Pointers" pc="268436666" symbol="createPointFromAngle"/>
 <entry filename="D:\\Astrologer2\\source\\Pointers.mc" id="13" lineNum="77" parent="globals/Pointers" pc="268436715" symbol="createPointFromAngle"/>
-<entry filename="D:\\Astrologer2\\source\\Pointers.mc" id="14" lineNum="10" parent="globals/Pointers" pc="268449439" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\Pointers.mc" id="14" lineNum="10" parent="globals/Pointers" pc="268449771" symbol="&lt;init&gt;"/>
 <entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="16" lineNum="19" parent="globals/Zodiac" pc="268436743" symbol="whichSign"/>
 <entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="16" lineNum="21" parent="globals/Zodiac" pc="268436755" symbol="whichSign"/>
 <entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="16" lineNum="23" parent="globals/Zodiac" pc="268436768" symbol="whichSign"/>
@@ -83,70 +83,69 @@
 <entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="16" lineNum="67" parent="globals/Zodiac" pc="268437128" symbol="whichSign"/>
 <entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="16" lineNum="69" parent="globals/Zodiac" pc="268437153" symbol="whichSign"/>
 <entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="16" lineNum="73" parent="globals/Zodiac" pc="268437162" symbol="whichSign"/>
-<entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="17" lineNum="3" parent="globals/Zodiac" pc="268453800" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="17" lineNum="1" parent="globals/Zodiac" pc="268453800" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="19" lineNum="37" parent="globals/Planets" pc="268437169" symbol="daysFromStart"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="19" lineNum="39" parent="globals/Planets" pc="268437181" symbol="daysFromStart"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="19" lineNum="40" parent="globals/Planets" pc="268437198" symbol="daysFromStart"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="19" lineNum="42" parent="globals/Planets" pc="268437219" symbol="daysFromStart"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="20" lineNum="45" parent="globals/Planets" pc="268437247" symbol="daysFromStartOnMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="20" lineNum="47" parent="globals/Planets" pc="268437259" symbol="daysFromStartOnMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="20" lineNum="48" parent="globals/Planets" pc="268437263" symbol="daysFromStartOnMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="20" lineNum="50" parent="globals/Planets" pc="268437284" symbol="daysFromStartOnMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="21" lineNum="53" parent="globals/Planets" pc="268437312" symbol="xyPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="21" lineNum="55" parent="globals/Planets" pc="268437324" symbol="xyPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="58" parent="globals/Planets" pc="268437424" symbol="daysFromStart2"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="60" parent="globals/Planets" pc="268437436" symbol="daysFromStart2"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="61" parent="globals/Planets" pc="268437462" symbol="daysFromStart2"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="62" parent="globals/Planets" pc="268437481" symbol="daysFromStart2"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="64" parent="globals/Planets" pc="268437488" symbol="daysFromStart2"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="67" parent="globals/Planets" pc="268437507" symbol="currentAngle"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="69" parent="globals/Planets" pc="268437519" symbol="currentAngle"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="70" parent="globals/Planets" pc="268437538" symbol="currentAngle"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="71" parent="globals/Planets" pc="268437545" symbol="currentAngle"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="73" parent="globals/Planets" pc="268437564" symbol="currentAngle"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="24" lineNum="76" parent="globals/Planets" pc="268437577" symbol="convertToPlus"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="24" lineNum="78" parent="globals/Planets" pc="268437589" symbol="convertToPlus"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="24" lineNum="80" parent="globals/Planets" pc="268437600" symbol="convertToPlus"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="24" lineNum="83" parent="globals/Planets" pc="268437612" symbol="convertToPlus"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="25" lineNum="86" parent="globals/Planets" pc="268437616" symbol="convertToMidnight"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="25" lineNum="88" parent="globals/Planets" pc="268437628" symbol="convertToMidnight"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="25" lineNum="90" parent="globals/Planets" pc="268437639" symbol="convertToMidnight"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="25" lineNum="93" parent="globals/Planets" pc="268437651" symbol="convertToMidnight"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="96" parent="globals/Planets" pc="268437661" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="99" parent="globals/Planets" pc="268437673" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="101" parent="globals/Planets" pc="268437700" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="102" parent="globals/Planets" pc="268437718" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="103" parent="globals/Planets" pc="268437736" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="104" parent="globals/Planets" pc="268437754" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="106" parent="globals/Planets" pc="268437772" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="107" parent="globals/Planets" pc="268437791" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="108" parent="globals/Planets" pc="268437806" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="110" parent="globals/Planets" pc="268437824" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="112" parent="globals/Planets" pc="268437882" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="113" parent="globals/Planets" pc="268437949" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="114" parent="globals/Planets" pc="268437956" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="115" parent="globals/Planets" pc="268437981" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="117" parent="globals/Planets" pc="268437991" symbol="currentPosition"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="121" parent="globals/Planets" pc="268438006" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="124" parent="globals/Planets" pc="268438018" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="126" parent="globals/Planets" pc="268438045" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="127" parent="globals/Planets" pc="268438063" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="128" parent="globals/Planets" pc="268438081" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="129" parent="globals/Planets" pc="268438099" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="131" parent="globals/Planets" pc="268438117" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="132" parent="globals/Planets" pc="268438138" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="133" parent="globals/Planets" pc="268438153" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="135" parent="globals/Planets" pc="268438171" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="137" parent="globals/Planets" pc="268438229" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="138" parent="globals/Planets" pc="268438296" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="139" parent="globals/Planets" pc="268438303" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="140" parent="globals/Planets" pc="268438328" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="142" parent="globals/Planets" pc="268438338" symbol="currentPositionForMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="28" lineNum="9" parent="globals/Planets" pc="268454314" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="28" lineNum="19" parent="globals/Planets" pc="268456120" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="28" lineNum="26" parent="globals/Planets" pc="268456240" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="28" lineNum="7" parent="globals/Planets" pc="268454314" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="17" lineNum="3" parent="globals/Zodiac" pc="268454132" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\Zodiac.mc" id="17" lineNum="1" parent="globals/Zodiac" pc="268454132" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="19" lineNum="30" parent="globals/Planets" pc="268437169" symbol="daysFromStart"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="19" lineNum="32" parent="globals/Planets" pc="268437181" symbol="daysFromStart"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="19" lineNum="33" parent="globals/Planets" pc="268437198" symbol="daysFromStart"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="19" lineNum="35" parent="globals/Planets" pc="268437219" symbol="daysFromStart"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="20" lineNum="38" parent="globals/Planets" pc="268437247" symbol="daysFromStartOnMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="20" lineNum="40" parent="globals/Planets" pc="268437259" symbol="daysFromStartOnMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="20" lineNum="41" parent="globals/Planets" pc="268437263" symbol="daysFromStartOnMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="20" lineNum="43" parent="globals/Planets" pc="268437284" symbol="daysFromStartOnMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="21" lineNum="46" parent="globals/Planets" pc="268437312" symbol="xyPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="21" lineNum="48" parent="globals/Planets" pc="268437324" symbol="xyPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="51" parent="globals/Planets" pc="268437424" symbol="daysFromStart2"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="53" parent="globals/Planets" pc="268437436" symbol="daysFromStart2"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="54" parent="globals/Planets" pc="268437462" symbol="daysFromStart2"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="55" parent="globals/Planets" pc="268437481" symbol="daysFromStart2"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="22" lineNum="57" parent="globals/Planets" pc="268437488" symbol="daysFromStart2"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="60" parent="globals/Planets" pc="268437507" symbol="currentAngle"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="62" parent="globals/Planets" pc="268437519" symbol="currentAngle"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="63" parent="globals/Planets" pc="268437538" symbol="currentAngle"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="64" parent="globals/Planets" pc="268437545" symbol="currentAngle"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="23" lineNum="66" parent="globals/Planets" pc="268437564" symbol="currentAngle"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="24" lineNum="69" parent="globals/Planets" pc="268437577" symbol="convertToPlus"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="24" lineNum="71" parent="globals/Planets" pc="268437589" symbol="convertToPlus"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="24" lineNum="73" parent="globals/Planets" pc="268437600" symbol="convertToPlus"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="24" lineNum="76" parent="globals/Planets" pc="268437612" symbol="convertToPlus"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="25" lineNum="79" parent="globals/Planets" pc="268437616" symbol="convertToMidnight"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="25" lineNum="81" parent="globals/Planets" pc="268437628" symbol="convertToMidnight"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="25" lineNum="83" parent="globals/Planets" pc="268437639" symbol="convertToMidnight"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="25" lineNum="86" parent="globals/Planets" pc="268437651" symbol="convertToMidnight"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="89" parent="globals/Planets" pc="268437661" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="92" parent="globals/Planets" pc="268437673" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="94" parent="globals/Planets" pc="268437700" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="95" parent="globals/Planets" pc="268437718" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="96" parent="globals/Planets" pc="268437736" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="97" parent="globals/Planets" pc="268437754" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="99" parent="globals/Planets" pc="268437772" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="100" parent="globals/Planets" pc="268437791" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="101" parent="globals/Planets" pc="268437806" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="103" parent="globals/Planets" pc="268437824" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="105" parent="globals/Planets" pc="268437882" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="106" parent="globals/Planets" pc="268437949" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="107" parent="globals/Planets" pc="268437956" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="108" parent="globals/Planets" pc="268437981" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="26" lineNum="110" parent="globals/Planets" pc="268437991" symbol="currentPosition"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="114" parent="globals/Planets" pc="268438006" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="117" parent="globals/Planets" pc="268438018" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="119" parent="globals/Planets" pc="268438045" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="120" parent="globals/Planets" pc="268438063" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="121" parent="globals/Planets" pc="268438081" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="122" parent="globals/Planets" pc="268438099" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="124" parent="globals/Planets" pc="268438117" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="125" parent="globals/Planets" pc="268438138" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="126" parent="globals/Planets" pc="268438153" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="128" parent="globals/Planets" pc="268438171" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="130" parent="globals/Planets" pc="268438229" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="131" parent="globals/Planets" pc="268438296" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="132" parent="globals/Planets" pc="268438303" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="133" parent="globals/Planets" pc="268438328" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="27" lineNum="135" parent="globals/Planets" pc="268438338" symbol="currentPositionForMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="28" lineNum="9" parent="globals/Planets" pc="268454646" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="28" lineNum="19" parent="globals/Planets" pc="268456452" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\Planets.mc" id="28" lineNum="7" parent="globals/Planets" pc="268454646" symbol="&lt;init&gt;"/>
 <entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="30" lineNum="7" parent="globals/MBApp" pc="268438353" symbol="initialize"/>
 <entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="30" lineNum="8" parent="globals/MBApp" pc="268438357" symbol="initialize"/>
 <entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="31" lineNum="12" parent="globals/MBApp" pc="268438376" symbol="onStart"/>
@@ -155,414 +154,422 @@
 <entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="33" lineNum="21" parent="globals/MBApp" pc="268438390" symbol="getInitialView"/>
 <entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="34" lineNum="25" parent="globals/MBApp" pc="268438428" symbol="onSettingsChanged"/>
 <entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="34" lineNum="26" parent="globals/MBApp" pc="268438432" symbol="onSettingsChanged"/>
-<entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="35" lineNum="5" parent="globals/MBApp" pc="268449401" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="35" lineNum="5" parent="globals/MBApp" pc="268449401" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="35" lineNum="5" parent="globals/MBApp" pc="268449733" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="35" lineNum="5" parent="globals/MBApp" pc="268449733" symbol="&lt;init&gt;"/>
 <entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="36" lineNum="31" parent="globals" pc="268438449" symbol="getApp"/>
 <entry filename="D:\\Astrologer2\\source\\MBApp.mc" id="36" lineNum="32" parent="globals" pc="268438461" symbol="getApp"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="38" lineNum="32" parent="globals/MBView" pc="268438478" symbol="initialize"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="38" lineNum="33" parent="globals/MBView" pc="268438482" symbol="initialize"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="38" lineNum="33" parent="globals/MBView" pc="268438478" symbol="initialize"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="38" lineNum="34" parent="globals/MBView" pc="268438482" symbol="initialize"/>
 <entry filename="D:\\Astrologer2\\source\\MBView.mc" id="38" lineNum="35" parent="globals/MBView" pc="268438500" symbol="initialize"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="39" parent="globals/MBView" pc="268438627" symbol="onLayout"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="40" parent="globals/MBView" pc="268438631" symbol="onLayout"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="41" parent="globals/MBView" pc="268438668" symbol="onLayout"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="42" parent="globals/MBView" pc="268438732" symbol="onLayout"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="43" parent="globals/MBView" pc="268438742" symbol="onLayout"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="44" parent="globals/MBView" pc="268438760" symbol="onLayout"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="40" lineNum="50" parent="globals/MBView" pc="268438803" symbol="onShow"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="54" parent="globals/MBView" pc="268438808" symbol="onUpdate"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="55" parent="globals/MBView" pc="268438812" symbol="onUpdate"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="56" parent="globals/MBView" pc="268438854" symbol="onUpdate"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="57" parent="globals/MBView" pc="268438872" symbol="onUpdate"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="58" parent="globals/MBView" pc="268438884" symbol="onUpdate"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="42" lineNum="64" parent="globals/MBView" pc="268438927" symbol="onHide"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="43" lineNum="68" parent="globals/MBView" pc="268438932" symbol="onExitSleep"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="44" lineNum="72" parent="globals/MBView" pc="268438937" symbol="onEnterSleep"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="75" parent="globals/MBView" pc="268438942" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="77" parent="globals/MBView" pc="268438946" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="79" parent="globals/MBView" pc="268438966" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="80" parent="globals/MBView" pc="268439014" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="81" parent="globals/MBView" pc="268439024" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="82" parent="globals/MBView" pc="268439034" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="83" parent="globals/MBView" pc="268439053" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="84" parent="globals/MBView" pc="268439072" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="85" parent="globals/MBView" pc="268439089" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="87" parent="globals/MBView" pc="268439096" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="89" parent="globals/MBView" pc="268439121" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="90" parent="globals/MBView" pc="268439189" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="92" parent="globals/MBView" pc="268439260" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="94" parent="globals/MBView" pc="268439285" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="95" parent="globals/MBView" pc="268439353" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="97" parent="globals/MBView" pc="268439424" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="99" parent="globals/MBView" pc="268439449" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="100" parent="globals/MBView" pc="268439517" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="102" parent="globals/MBView" pc="268439588" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="104" parent="globals/MBView" pc="268439613" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="105" parent="globals/MBView" pc="268439681" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="107" parent="globals/MBView" pc="268439752" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="109" parent="globals/MBView" pc="268439763" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="110" parent="globals/MBView" pc="268439831" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="114" parent="globals/MBView" pc="268439902" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="116" parent="globals/MBView" pc="268439913" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="117" parent="globals/MBView" pc="268439973" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="121" parent="globals/MBView" pc="268440044" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="125" parent="globals/MBView" pc="268440112" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="126" parent="globals/MBView" pc="268440188" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="128" parent="globals/MBView" pc="268440264" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="130" parent="globals/MBView" pc="268440317" symbol="drawBackground"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="134" parent="globals/MBView" pc="268440341" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="136" parent="globals/MBView" pc="268440345" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="138" parent="globals/MBView" pc="268440349" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="139" parent="globals/MBView" pc="268440368" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="141" parent="globals/MBView" pc="268440387" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="143" parent="globals/MBView" pc="268440406" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="144" parent="globals/MBView" pc="268440425" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="146" parent="globals/MBView" pc="268440444" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="147" parent="globals/MBView" pc="268440480" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="148" parent="globals/MBView" pc="268440494" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="149" parent="globals/MBView" pc="268440512" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="151" parent="globals/MBView" pc="268440530" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="153" parent="globals/MBView" pc="268440554" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="154" parent="globals/MBView" pc="268440567" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="155" parent="globals/MBView" pc="268440597" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="156" parent="globals/MBView" pc="268440627" symbol="creatingSpiral"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="162" parent="globals/MBView" pc="268440685" symbol="checkRadiuses"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="164" parent="globals/MBView" pc="268440689" symbol="checkRadiuses"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="165" parent="globals/MBView" pc="268440706" symbol="checkRadiuses"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="166" parent="globals/MBView" pc="268440723" symbol="checkRadiuses"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="168" parent="globals/MBView" pc="268440751" symbol="checkRadiuses"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="169" parent="globals/MBView" pc="268440768" symbol="checkRadiuses"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="171" parent="globals/MBView" pc="268440785" symbol="checkRadiuses"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="175" parent="globals/MBView" pc="268440813" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="177" parent="globals/MBView" pc="268440817" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="178" parent="globals/MBView" pc="268440830" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="179" parent="globals/MBView" pc="268440843" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="181" parent="globals/MBView" pc="268440866" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="183" parent="globals/MBView" pc="268440874" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="186" parent="globals/MBView" pc="268440880" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="188" parent="globals/MBView" pc="268440891" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="191" parent="globals/MBView" pc="268440900" symbol="verifyRadius"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="194" parent="globals/MBView" pc="268440904" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="196" parent="globals/MBView" pc="268440908" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="198" parent="globals/MBView" pc="268440915" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="200" parent="globals/MBView" pc="268440933" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="201" parent="globals/MBView" pc="268440954" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="202" parent="globals/MBView" pc="268440978" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="203" parent="globals/MBView" pc="268441002" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="205" parent="globals/MBView" pc="268441040" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="207" parent="globals/MBView" pc="268441054" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="213" parent="globals/MBView" pc="268441254" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="215" parent="globals/MBView" pc="268441268" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="221" parent="globals/MBView" pc="268441522" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="223" parent="globals/MBView" pc="268441536" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="229" parent="globals/MBView" pc="268441736" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="231" parent="globals/MBView" pc="268441750" symbol="creatingCorona"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="237" parent="globals/MBView" pc="268441774" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="240" parent="globals/MBView" pc="268441778" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="241" parent="globals/MBView" pc="268441801" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="242" parent="globals/MBView" pc="268441827" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="244" parent="globals/MBView" pc="268441854" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="245" parent="globals/MBView" pc="268441871" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="246" parent="globals/MBView" pc="268441878" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="247" parent="globals/MBView" pc="268441927" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="250" parent="globals/MBView" pc="268441944" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="252" parent="globals/MBView" pc="268442001" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="255" parent="globals/MBView" pc="268442037" symbol="creatingZodiac"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="259" parent="globals/MBView" pc="268442075" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="261" parent="globals/MBView" pc="268442079" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="263" parent="globals/MBView" pc="268442129" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="264" parent="globals/MBView" pc="268442146" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="266" parent="globals/MBView" pc="268442182" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="267" parent="globals/MBView" pc="268442209" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="268" parent="globals/MBView" pc="268442227" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="269" parent="globals/MBView" pc="268442245" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="271" parent="globals/MBView" pc="268442263" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="273" parent="globals/MBView" pc="268442286" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="274" parent="globals/MBView" pc="268442326" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="275" parent="globals/MBView" pc="268442351" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="276" parent="globals/MBView" pc="268442405" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="280" parent="globals/MBView" pc="268442411" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="281" parent="globals/MBView" pc="268442457" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="282" parent="globals/MBView" pc="268442482" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="283" parent="globals/MBView" pc="268442536" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="286" parent="globals/MBView" pc="268442539" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="287" parent="globals/MBView" pc="268442542" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="291" parent="globals/MBView" pc="268442545" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="292" parent="globals/MBView" pc="268442587" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="294" parent="globals/MBView" pc="268442623" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="295" parent="globals/MBView" pc="268442665" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="297" parent="globals/MBView" pc="268442707" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="298" parent="globals/MBView" pc="268442749" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="300" parent="globals/MBView" pc="268442791" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="302" parent="globals/MBView" pc="268442801" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="304" parent="globals/MBView" pc="268442820" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="306" parent="globals/MBView" pc="268442869" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="308" parent="globals/MBView" pc="268442888" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="310" parent="globals/MBView" pc="268442937" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="312" parent="globals/MBView" pc="268442956" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="314" parent="globals/MBView" pc="268443000" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="316" parent="globals/MBView" pc="268443019" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="318" parent="globals/MBView" pc="268443063" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="320" parent="globals/MBView" pc="268443082" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="322" parent="globals/MBView" pc="268443126" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="324" parent="globals/MBView" pc="268443145" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="326" parent="globals/MBView" pc="268443189" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="328" parent="globals/MBView" pc="268443208" symbol="creatingPlanet"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="332" parent="globals/MBView" pc="268443253" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="334" parent="globals/MBView" pc="268443257" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="335" parent="globals/MBView" pc="268443307" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="337" parent="globals/MBView" pc="268443363" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="338" parent="globals/MBView" pc="268443380" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="340" parent="globals/MBView" pc="268443416" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="341" parent="globals/MBView" pc="268443443" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="343" parent="globals/MBView" pc="268443450" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="345" parent="globals/MBView" pc="268443464" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="349" parent="globals/MBView" pc="268443507" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="354" parent="globals/MBView" pc="268443553" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="355" parent="globals/MBView" pc="268443595" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="356" parent="globals/MBView" pc="268443634" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="357" parent="globals/MBView" pc="268443676" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="358" parent="globals/MBView" pc="268443715" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="359" parent="globals/MBView" pc="268443757" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="362" parent="globals/MBView" pc="268443796" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="363" parent="globals/MBView" pc="268443838" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="365" parent="globals/MBView" pc="268443874" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="366" parent="globals/MBView" pc="268443916" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="368" parent="globals/MBView" pc="268443958" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="369" parent="globals/MBView" pc="268444000" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="371" parent="globals/MBView" pc="268444042" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="373" parent="globals/MBView" pc="268444052" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="375" parent="globals/MBView" pc="268444098" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="376" parent="globals/MBView" pc="268444131" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="377" parent="globals/MBView" pc="268444157" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="379" parent="globals/MBView" pc="268444210" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="381" parent="globals/MBView" pc="268444258" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="382" parent="globals/MBView" pc="268444300" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="383" parent="globals/MBView" pc="268444339" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="384" parent="globals/MBView" pc="268444381" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="385" parent="globals/MBView" pc="268444420" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="386" parent="globals/MBView" pc="268444462" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="388" parent="globals/MBView" pc="268444501" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="390" parent="globals/MBView" pc="268444542" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="391" parent="globals/MBView" pc="268444584" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="392" parent="globals/MBView" pc="268444623" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="393" parent="globals/MBView" pc="268444665" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="394" parent="globals/MBView" pc="268444704" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="395" parent="globals/MBView" pc="268444746" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="397" parent="globals/MBView" pc="268444785" symbol="creatingEarthMoon"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="400" parent="globals/MBView" pc="268444864" symbol="creatingEarthSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="402" parent="globals/MBView" pc="268444868" symbol="creatingEarthSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="404" parent="globals/MBView" pc="268444904" symbol="creatingEarthSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="405" parent="globals/MBView" pc="268444942" symbol="creatingEarthSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="406" parent="globals/MBView" pc="268444980" symbol="creatingEarthSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="407" parent="globals/MBView" pc="268445000" symbol="creatingEarthSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="408" parent="globals/MBView" pc="268445018" symbol="creatingEarthSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="411" parent="globals/MBView" pc="268445036" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="413" parent="globals/MBView" pc="268445040" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="415" parent="globals/MBView" pc="268445076" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="416" parent="globals/MBView" pc="268445096" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="417" parent="globals/MBView" pc="268445106" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="418" parent="globals/MBView" pc="268445116" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="419" parent="globals/MBView" pc="268445143" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="420" parent="globals/MBView" pc="268445205" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="421" parent="globals/MBView" pc="268445257" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="422" parent="globals/MBView" pc="268445321" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="423" parent="globals/MBView" pc="268445385" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="424" parent="globals/MBView" pc="268445439" symbol="creatingMarsSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="427" parent="globals/MBView" pc="268445457" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="429" parent="globals/MBView" pc="268445461" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="431" parent="globals/MBView" pc="268445497" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="432" parent="globals/MBView" pc="268445517" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="433" parent="globals/MBView" pc="268445521" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="434" parent="globals/MBView" pc="268445531" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="435" parent="globals/MBView" pc="268445558" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="436" parent="globals/MBView" pc="268445596" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="438" parent="globals/MBView" pc="268445646" symbol="creatingVenusSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="441" parent="globals/MBView" pc="268445664" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="443" parent="globals/MBView" pc="268445668" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="445" parent="globals/MBView" pc="268445704" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="446" parent="globals/MBView" pc="268445724" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="447" parent="globals/MBView" pc="268445728" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="448" parent="globals/MBView" pc="268445738" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="449" parent="globals/MBView" pc="268445765" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="450" parent="globals/MBView" pc="268445803" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="452" parent="globals/MBView" pc="268445853" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="453" parent="globals/MBView" pc="268445893" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="454" parent="globals/MBView" pc="268445945" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="456" parent="globals/MBView" pc="268445989" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="457" parent="globals/MBView" pc="268446029" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="458" parent="globals/MBView" pc="268446081" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="460" parent="globals/MBView" pc="268446125" symbol="creatingMercurySymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="463" parent="globals/MBView" pc="268446143" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="465" parent="globals/MBView" pc="268446147" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="467" parent="globals/MBView" pc="268446183" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="468" parent="globals/MBView" pc="268446203" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="469" parent="globals/MBView" pc="268446213" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="470" parent="globals/MBView" pc="268446223" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="471" parent="globals/MBView" pc="268446261" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="472" parent="globals/MBView" pc="268446296" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="473" parent="globals/MBView" pc="268446357" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="475" parent="globals/MBView" pc="268446430" symbol="creatingSaturnSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="478" parent="globals/MBView" pc="268446448" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="480" parent="globals/MBView" pc="268446452" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="482" parent="globals/MBView" pc="268446488" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="483" parent="globals/MBView" pc="268446508" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="484" parent="globals/MBView" pc="268446518" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="485" parent="globals/MBView" pc="268446528" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="486" parent="globals/MBView" pc="268446577" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="487" parent="globals/MBView" pc="268446639" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="488" parent="globals/MBView" pc="268446701" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="490" parent="globals/MBView" pc="268446745" symbol="creatingJupiterSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="493" parent="globals/MBView" pc="268446763" symbol="creatingMoonSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="495" parent="globals/MBView" pc="268446767" symbol="creatingMoonSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="497" parent="globals/MBView" pc="268446803" symbol="creatingMoonSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="498" parent="globals/MBView" pc="268446823" symbol="creatingMoonSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="499" parent="globals/MBView" pc="268446833" symbol="creatingMoonSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="500" parent="globals/MBView" pc="268446837" symbol="creatingMoonSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="501" parent="globals/MBView" pc="268446886" symbol="creatingMoonSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="503" parent="globals/MBView" pc="268446941" symbol="creatingMoonSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="506" parent="globals/MBView" pc="268446959" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="508" parent="globals/MBView" pc="268446963" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="510" parent="globals/MBView" pc="268446999" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="511" parent="globals/MBView" pc="268447013" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="512" parent="globals/MBView" pc="268447017" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="514" parent="globals/MBView" pc="268447021" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="515" parent="globals/MBView" pc="268447057" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="517" parent="globals/MBView" pc="268447090" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="518" parent="globals/MBView" pc="268447126" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="520" parent="globals/MBView" pc="268447147" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="521" parent="globals/MBView" pc="268447183" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="523" parent="globals/MBView" pc="268447204" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="524" parent="globals/MBView" pc="268447240" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="526" parent="globals/MBView" pc="268447261" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="527" parent="globals/MBView" pc="268447297" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="529" parent="globals/MBView" pc="268447318" symbol="creatingSunSymbol"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="532" parent="globals/MBView" pc="268447336" symbol="createPointFromAngle"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="534" parent="globals/MBView" pc="268447340" symbol="createPointFromAngle"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="535" parent="globals/MBView" pc="268447389" symbol="createPointFromAngle"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="537" parent="globals/MBView" pc="268447438" symbol="createPointFromAngle"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="62" lineNum="11" parent="globals/MBView" pc="268449182" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="62" lineNum="17" parent="globals/MBView" pc="268449200" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="62" lineNum="11" parent="globals/MBView" pc="268449182" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="64" lineNum="72" parent="globals/Moon" pc="268447466" symbol="creatingNow"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="64" lineNum="74" parent="globals/Moon" pc="268447478" symbol="creatingNow"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="64" lineNum="75" parent="globals/Moon" pc="268447530" symbol="creatingNow"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="65" lineNum="78" parent="globals/Moon" pc="268447534" symbol="readingMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="65" lineNum="80" parent="globals/Moon" pc="268447546" symbol="readingMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="65" lineNum="87" parent="globals/Moon" pc="268447634" symbol="readingMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="66" lineNum="90" parent="globals/Moon" pc="268447653" symbol="printingMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="66" lineNum="92" parent="globals/Moon" pc="268447665" symbol="printingMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="66" lineNum="94" parent="globals/Moon" pc="268447696" symbol="printingMoment"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="103" parent="globals/Moon" pc="268447889" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="105" parent="globals/Moon" pc="268447901" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="107" parent="globals/Moon" pc="268447923" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="109" parent="globals/Moon" pc="268447953" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="110" parent="globals/Moon" pc="268447971" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="112" parent="globals/Moon" pc="268447995" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="113" parent="globals/Moon" pc="268448017" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="116" parent="globals/Moon" pc="268448039" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="118" parent="globals/Moon" pc="268448052" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="119" parent="globals/Moon" pc="268448076" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="120" parent="globals/Moon" pc="268448090" symbol="findMoments"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="126" parent="globals/Moon" pc="268448108" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="128" parent="globals/Moon" pc="268448120" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="130" parent="globals/Moon" pc="268448142" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="132" parent="globals/Moon" pc="268448172" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="133" parent="globals/Moon" pc="268448190" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="135" parent="globals/Moon" pc="268448214" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="136" parent="globals/Moon" pc="268448236" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="138" parent="globals/Moon" pc="268448258" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="140" parent="globals/Moon" pc="268448271" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="144" parent="globals/Moon" pc="268448290" symbol="findLastFullMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="147" parent="globals/Moon" pc="268448297" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="149" parent="globals/Moon" pc="268448309" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="151" parent="globals/Moon" pc="268448331" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="153" parent="globals/Moon" pc="268448361" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="154" parent="globals/Moon" pc="268448379" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="156" parent="globals/Moon" pc="268448403" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="157" parent="globals/Moon" pc="268448425" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="159" parent="globals/Moon" pc="268448447" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="161" parent="globals/Moon" pc="268448460" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="162" parent="globals/Moon" pc="268448485" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="167" parent="globals/Moon" pc="268448525" symbol="whereMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="171" parent="globals/Moon" pc="268448532" symbol="getLatitude"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="174" parent="globals/Moon" pc="268448544" symbol="getLatitude"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="71" lineNum="178" parent="globals/Moon" pc="268448551" symbol="cutCircle"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="71" lineNum="180" parent="globals/Moon" pc="268448563" symbol="cutCircle"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="71" lineNum="182" parent="globals/Moon" pc="268448571" symbol="cutCircle"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="71" lineNum="185" parent="globals/Moon" pc="268448580" symbol="cutCircle"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="71" lineNum="187" parent="globals/Moon" pc="268448608" symbol="cutCircle"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="190" parent="globals/Moon" pc="268448612" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="192" parent="globals/Moon" pc="268448624" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="194" parent="globals/Moon" pc="268448660" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="196" parent="globals/Moon" pc="268448694" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="198" parent="globals/Moon" pc="268448709" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="199" parent="globals/Moon" pc="268448726" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="201" parent="globals/Moon" pc="268448733" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="203" parent="globals/Moon" pc="268448784" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="205" parent="globals/Moon" pc="268448809" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="206" parent="globals/Moon" pc="268448841" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="210" parent="globals/Moon" pc="268448876" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="211" parent="globals/Moon" pc="268448908" symbol="drawMoon"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="15" parent="globals/Moon" pc="268449440" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="13" parent="globals/Moon" pc="268449440" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="75" lineNum="2" parent="globals/Rez/Drawables" pc="268449395" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="76" lineNum="29" parent="globals/Rez/Fonts" pc="268449397" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="77" lineNum="31" parent="globals/Rez/JsonData" pc="268449399" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="78" lineNum="40" parent="globals/Rez/Layouts" pc="268448954" symbol="WatchFace"/>
-<entry filename="Rez" id="78" lineNum="42" parent="globals/Rez/Layouts" pc="268448966" symbol="WatchFace"/>
-<entry filename="Rez" id="78" lineNum="43" parent="globals/Rez/Layouts" pc="268448990" symbol="WatchFace"/>
-<entry filename="Rez" id="78" lineNum="45" parent="globals/Rez/Layouts" pc="268449153" symbol="WatchFace"/>
-<entry filename="Rez" id="79" lineNum="33" parent="globals/Rez/Layouts" pc="268449398" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="80" lineNum="50" parent="globals/Rez/Menus" pc="268449396" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="81" lineNum="52" parent="globals/Rez/Strings" pc="268449400" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="82" lineNum="1" parent="globals/Rez" pc="268449371" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="82" lineNum="1" parent="globals/Rez" pc="268449371" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="38" lineNum="36" parent="globals/MBView" pc="268438626" symbol="initialize"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="38" lineNum="37" parent="globals/MBView" pc="268438655" symbol="initialize"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="41" parent="globals/MBView" pc="268438720" symbol="onLayout"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="42" parent="globals/MBView" pc="268438724" symbol="onLayout"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="43" parent="globals/MBView" pc="268438761" symbol="onLayout"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="44" parent="globals/MBView" pc="268438825" symbol="onLayout"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="45" parent="globals/MBView" pc="268438835" symbol="onLayout"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="46" parent="globals/MBView" pc="268438853" symbol="onLayout"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="47" parent="globals/MBView" pc="268438895" symbol="onLayout"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="39" lineNum="49" parent="globals/MBView" pc="268438915" symbol="onLayout"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="40" lineNum="56" parent="globals/MBView" pc="268438939" symbol="onShow"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="60" parent="globals/MBView" pc="268438944" symbol="onUpdate"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="61" parent="globals/MBView" pc="268438948" symbol="onUpdate"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="62" parent="globals/MBView" pc="268438990" symbol="onUpdate"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="63" parent="globals/MBView" pc="268439008" symbol="onUpdate"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="41" lineNum="64" parent="globals/MBView" pc="268439020" symbol="onUpdate"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="42" lineNum="70" parent="globals/MBView" pc="268439063" symbol="onHide"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="43" lineNum="74" parent="globals/MBView" pc="268439068" symbol="onExitSleep"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="44" lineNum="78" parent="globals/MBView" pc="268439073" symbol="onEnterSleep"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="81" parent="globals/MBView" pc="268439078" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="82" parent="globals/MBView" pc="268439082" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="83" parent="globals/MBView" pc="268439130" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="84" parent="globals/MBView" pc="268439140" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="85" parent="globals/MBView" pc="268439150" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="86" parent="globals/MBView" pc="268439169" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="87" parent="globals/MBView" pc="268439188" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="88" parent="globals/MBView" pc="268439205" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="90" parent="globals/MBView" pc="268439215" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="92" parent="globals/MBView" pc="268439240" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="93" parent="globals/MBView" pc="268439308" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="95" parent="globals/MBView" pc="268439379" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="97" parent="globals/MBView" pc="268439404" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="98" parent="globals/MBView" pc="268439472" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="100" parent="globals/MBView" pc="268439543" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="102" parent="globals/MBView" pc="268439568" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="103" parent="globals/MBView" pc="268439636" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="105" parent="globals/MBView" pc="268439707" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="107" parent="globals/MBView" pc="268439732" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="108" parent="globals/MBView" pc="268439800" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="110" parent="globals/MBView" pc="268439871" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="112" parent="globals/MBView" pc="268439882" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="113" parent="globals/MBView" pc="268439950" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="117" parent="globals/MBView" pc="268440021" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="119" parent="globals/MBView" pc="268440032" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="120" parent="globals/MBView" pc="268440092" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="124" parent="globals/MBView" pc="268440163" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="128" parent="globals/MBView" pc="268440231" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="129" parent="globals/MBView" pc="268440307" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="131" parent="globals/MBView" pc="268440383" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="45" lineNum="133" parent="globals/MBView" pc="268440436" symbol="drawBackground"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="137" parent="globals/MBView" pc="268440460" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="139" parent="globals/MBView" pc="268440464" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="141" parent="globals/MBView" pc="268440468" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="142" parent="globals/MBView" pc="268440487" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="144" parent="globals/MBView" pc="268440506" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="146" parent="globals/MBView" pc="268440525" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="147" parent="globals/MBView" pc="268440544" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="149" parent="globals/MBView" pc="268440563" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="150" parent="globals/MBView" pc="268440599" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="151" parent="globals/MBView" pc="268440613" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="152" parent="globals/MBView" pc="268440631" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="154" parent="globals/MBView" pc="268440649" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="156" parent="globals/MBView" pc="268440673" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="157" parent="globals/MBView" pc="268440686" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="158" parent="globals/MBView" pc="268440716" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="46" lineNum="159" parent="globals/MBView" pc="268440746" symbol="creatingSpiral"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="165" parent="globals/MBView" pc="268440804" symbol="checkRadiuses"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="167" parent="globals/MBView" pc="268440808" symbol="checkRadiuses"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="168" parent="globals/MBView" pc="268440825" symbol="checkRadiuses"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="169" parent="globals/MBView" pc="268440842" symbol="checkRadiuses"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="171" parent="globals/MBView" pc="268440870" symbol="checkRadiuses"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="172" parent="globals/MBView" pc="268440887" symbol="checkRadiuses"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="47" lineNum="174" parent="globals/MBView" pc="268440904" symbol="checkRadiuses"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="178" parent="globals/MBView" pc="268440932" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="180" parent="globals/MBView" pc="268440936" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="181" parent="globals/MBView" pc="268440949" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="182" parent="globals/MBView" pc="268440962" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="184" parent="globals/MBView" pc="268440985" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="186" parent="globals/MBView" pc="268440993" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="189" parent="globals/MBView" pc="268440999" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="191" parent="globals/MBView" pc="268441010" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="48" lineNum="194" parent="globals/MBView" pc="268441019" symbol="verifyRadius"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="197" parent="globals/MBView" pc="268441023" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="199" parent="globals/MBView" pc="268441027" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="201" parent="globals/MBView" pc="268441034" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="203" parent="globals/MBView" pc="268441052" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="204" parent="globals/MBView" pc="268441073" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="205" parent="globals/MBView" pc="268441097" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="206" parent="globals/MBView" pc="268441121" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="208" parent="globals/MBView" pc="268441159" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="210" parent="globals/MBView" pc="268441173" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="216" parent="globals/MBView" pc="268441373" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="218" parent="globals/MBView" pc="268441387" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="224" parent="globals/MBView" pc="268441641" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="226" parent="globals/MBView" pc="268441655" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="232" parent="globals/MBView" pc="268441855" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="49" lineNum="234" parent="globals/MBView" pc="268441869" symbol="creatingCorona"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="240" parent="globals/MBView" pc="268441893" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="243" parent="globals/MBView" pc="268441897" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="244" parent="globals/MBView" pc="268441920" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="245" parent="globals/MBView" pc="268441946" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="247" parent="globals/MBView" pc="268441973" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="248" parent="globals/MBView" pc="268441990" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="249" parent="globals/MBView" pc="268441997" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="250" parent="globals/MBView" pc="268442046" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="253" parent="globals/MBView" pc="268442063" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="255" parent="globals/MBView" pc="268442085" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="50" lineNum="262" parent="globals/MBView" pc="268442121" symbol="creatingZodiac"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="266" parent="globals/MBView" pc="268442159" symbol="drawZodiacGraphic"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="268" parent="globals/MBView" pc="268442163" symbol="drawZodiacGraphic"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="269" parent="globals/MBView" pc="268442197" symbol="drawZodiacGraphic"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="271" parent="globals/MBView" pc="268442365" symbol="drawZodiacGraphic"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="273" parent="globals/MBView" pc="268442389" symbol="drawZodiacGraphic"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="274" parent="globals/MBView" pc="268442411" symbol="drawZodiacGraphic"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="51" lineNum="275" parent="globals/MBView" pc="268442465" symbol="drawZodiacGraphic"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="280" parent="globals/MBView" pc="268442482" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="282" parent="globals/MBView" pc="268442486" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="284" parent="globals/MBView" pc="268442536" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="285" parent="globals/MBView" pc="268442553" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="287" parent="globals/MBView" pc="268442589" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="288" parent="globals/MBView" pc="268442616" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="289" parent="globals/MBView" pc="268442634" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="290" parent="globals/MBView" pc="268442652" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="292" parent="globals/MBView" pc="268442670" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="294" parent="globals/MBView" pc="268442693" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="295" parent="globals/MBView" pc="268442733" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="296" parent="globals/MBView" pc="268442758" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="297" parent="globals/MBView" pc="268442812" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="301" parent="globals/MBView" pc="268442818" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="302" parent="globals/MBView" pc="268442864" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="303" parent="globals/MBView" pc="268442889" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="304" parent="globals/MBView" pc="268442943" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="307" parent="globals/MBView" pc="268442946" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="308" parent="globals/MBView" pc="268442949" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="312" parent="globals/MBView" pc="268442952" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="313" parent="globals/MBView" pc="268442994" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="315" parent="globals/MBView" pc="268443030" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="316" parent="globals/MBView" pc="268443072" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="318" parent="globals/MBView" pc="268443114" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="319" parent="globals/MBView" pc="268443156" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="321" parent="globals/MBView" pc="268443198" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="323" parent="globals/MBView" pc="268443208" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="325" parent="globals/MBView" pc="268443227" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="327" parent="globals/MBView" pc="268443276" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="329" parent="globals/MBView" pc="268443295" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="331" parent="globals/MBView" pc="268443344" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="333" parent="globals/MBView" pc="268443363" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="335" parent="globals/MBView" pc="268443407" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="337" parent="globals/MBView" pc="268443426" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="339" parent="globals/MBView" pc="268443470" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="341" parent="globals/MBView" pc="268443489" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="343" parent="globals/MBView" pc="268443533" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="345" parent="globals/MBView" pc="268443552" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="347" parent="globals/MBView" pc="268443596" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="52" lineNum="349" parent="globals/MBView" pc="268443615" symbol="creatingPlanet"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="353" parent="globals/MBView" pc="268443660" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="355" parent="globals/MBView" pc="268443664" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="356" parent="globals/MBView" pc="268443714" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="358" parent="globals/MBView" pc="268443770" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="359" parent="globals/MBView" pc="268443787" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="361" parent="globals/MBView" pc="268443823" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="362" parent="globals/MBView" pc="268443850" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="364" parent="globals/MBView" pc="268443857" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="366" parent="globals/MBView" pc="268443871" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="370" parent="globals/MBView" pc="268443914" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="373" parent="globals/MBView" pc="268443960" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="374" parent="globals/MBView" pc="268444002" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="375" parent="globals/MBView" pc="268444041" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="376" parent="globals/MBView" pc="268444083" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="377" parent="globals/MBView" pc="268444122" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="378" parent="globals/MBView" pc="268444164" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="380" parent="globals/MBView" pc="268444203" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="381" parent="globals/MBView" pc="268444245" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="383" parent="globals/MBView" pc="268444281" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="384" parent="globals/MBView" pc="268444323" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="386" parent="globals/MBView" pc="268444365" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="387" parent="globals/MBView" pc="268444407" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="389" parent="globals/MBView" pc="268444449" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="391" parent="globals/MBView" pc="268444459" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="393" parent="globals/MBView" pc="268444505" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="394" parent="globals/MBView" pc="268444538" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="395" parent="globals/MBView" pc="268444564" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="397" parent="globals/MBView" pc="268444617" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="399" parent="globals/MBView" pc="268444665" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="400" parent="globals/MBView" pc="268444707" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="401" parent="globals/MBView" pc="268444746" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="402" parent="globals/MBView" pc="268444788" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="403" parent="globals/MBView" pc="268444827" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="404" parent="globals/MBView" pc="268444869" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="406" parent="globals/MBView" pc="268444908" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="408" parent="globals/MBView" pc="268444949" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="409" parent="globals/MBView" pc="268444991" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="410" parent="globals/MBView" pc="268445030" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="411" parent="globals/MBView" pc="268445072" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="412" parent="globals/MBView" pc="268445111" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="413" parent="globals/MBView" pc="268445153" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="53" lineNum="415" parent="globals/MBView" pc="268445192" symbol="creatingEarthMoon"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="418" parent="globals/MBView" pc="268445271" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="420" parent="globals/MBView" pc="268445275" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="422" parent="globals/MBView" pc="268445311" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="423" parent="globals/MBView" pc="268445349" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="424" parent="globals/MBView" pc="268445387" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="425" parent="globals/MBView" pc="268445407" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="54" lineNum="426" parent="globals/MBView" pc="268445425" symbol="creatingEarthSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="429" parent="globals/MBView" pc="268445443" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="431" parent="globals/MBView" pc="268445447" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="433" parent="globals/MBView" pc="268445483" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="434" parent="globals/MBView" pc="268445503" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="435" parent="globals/MBView" pc="268445513" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="436" parent="globals/MBView" pc="268445523" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="437" parent="globals/MBView" pc="268445550" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="438" parent="globals/MBView" pc="268445612" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="439" parent="globals/MBView" pc="268445664" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="440" parent="globals/MBView" pc="268445728" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="441" parent="globals/MBView" pc="268445792" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="55" lineNum="442" parent="globals/MBView" pc="268445846" symbol="creatingMarsSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="445" parent="globals/MBView" pc="268445864" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="447" parent="globals/MBView" pc="268445868" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="449" parent="globals/MBView" pc="268445904" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="450" parent="globals/MBView" pc="268445924" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="451" parent="globals/MBView" pc="268445928" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="452" parent="globals/MBView" pc="268445938" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="453" parent="globals/MBView" pc="268445965" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="454" parent="globals/MBView" pc="268446003" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="56" lineNum="456" parent="globals/MBView" pc="268446053" symbol="creatingVenusSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="459" parent="globals/MBView" pc="268446071" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="461" parent="globals/MBView" pc="268446075" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="463" parent="globals/MBView" pc="268446111" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="464" parent="globals/MBView" pc="268446131" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="465" parent="globals/MBView" pc="268446135" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="466" parent="globals/MBView" pc="268446145" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="467" parent="globals/MBView" pc="268446172" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="468" parent="globals/MBView" pc="268446210" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="470" parent="globals/MBView" pc="268446260" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="471" parent="globals/MBView" pc="268446300" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="472" parent="globals/MBView" pc="268446352" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="474" parent="globals/MBView" pc="268446396" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="475" parent="globals/MBView" pc="268446436" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="476" parent="globals/MBView" pc="268446488" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="57" lineNum="478" parent="globals/MBView" pc="268446532" symbol="creatingMercurySymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="481" parent="globals/MBView" pc="268446550" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="483" parent="globals/MBView" pc="268446554" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="485" parent="globals/MBView" pc="268446590" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="486" parent="globals/MBView" pc="268446610" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="487" parent="globals/MBView" pc="268446620" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="488" parent="globals/MBView" pc="268446630" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="489" parent="globals/MBView" pc="268446668" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="490" parent="globals/MBView" pc="268446703" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="491" parent="globals/MBView" pc="268446764" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="58" lineNum="493" parent="globals/MBView" pc="268446837" symbol="creatingSaturnSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="496" parent="globals/MBView" pc="268446855" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="498" parent="globals/MBView" pc="268446859" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="500" parent="globals/MBView" pc="268446895" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="501" parent="globals/MBView" pc="268446915" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="502" parent="globals/MBView" pc="268446925" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="503" parent="globals/MBView" pc="268446935" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="504" parent="globals/MBView" pc="268446984" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="505" parent="globals/MBView" pc="268447046" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="506" parent="globals/MBView" pc="268447108" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="59" lineNum="508" parent="globals/MBView" pc="268447152" symbol="creatingJupiterSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="511" parent="globals/MBView" pc="268447170" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="513" parent="globals/MBView" pc="268447174" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="515" parent="globals/MBView" pc="268447210" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="516" parent="globals/MBView" pc="268447230" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="517" parent="globals/MBView" pc="268447240" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="518" parent="globals/MBView" pc="268447244" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="519" parent="globals/MBView" pc="268447293" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="60" lineNum="521" parent="globals/MBView" pc="268447348" symbol="creatingMoonSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="524" parent="globals/MBView" pc="268447366" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="526" parent="globals/MBView" pc="268447370" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="528" parent="globals/MBView" pc="268447406" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="529" parent="globals/MBView" pc="268447420" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="530" parent="globals/MBView" pc="268447424" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="532" parent="globals/MBView" pc="268447428" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="533" parent="globals/MBView" pc="268447464" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="535" parent="globals/MBView" pc="268447497" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="536" parent="globals/MBView" pc="268447533" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="538" parent="globals/MBView" pc="268447554" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="539" parent="globals/MBView" pc="268447590" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="541" parent="globals/MBView" pc="268447611" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="542" parent="globals/MBView" pc="268447647" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="544" parent="globals/MBView" pc="268447668" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="545" parent="globals/MBView" pc="268447704" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="61" lineNum="547" parent="globals/MBView" pc="268447725" symbol="creatingSunSymbol"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="62" lineNum="550" parent="globals/MBView" pc="268447743" symbol="createPointFromAngle"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="62" lineNum="552" parent="globals/MBView" pc="268447747" symbol="createPointFromAngle"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="62" lineNum="553" parent="globals/MBView" pc="268447796" symbol="createPointFromAngle"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="62" lineNum="555" parent="globals/MBView" pc="268447845" symbol="createPointFromAngle"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="63" lineNum="11" parent="globals/MBView" pc="268449514" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="63" lineNum="17" parent="globals/MBView" pc="268449532" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\MBView.mc" id="63" lineNum="11" parent="globals/MBView" pc="268449514" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="65" lineNum="72" parent="globals/Moon" pc="268447873" symbol="creatingNow"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="65" lineNum="74" parent="globals/Moon" pc="268447885" symbol="creatingNow"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="65" lineNum="75" parent="globals/Moon" pc="268447937" symbol="creatingNow"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="66" lineNum="78" parent="globals/Moon" pc="268447941" symbol="readingMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="66" lineNum="80" parent="globals/Moon" pc="268447953" symbol="readingMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="66" lineNum="87" parent="globals/Moon" pc="268448041" symbol="readingMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="90" parent="globals/Moon" pc="268448060" symbol="printingMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="92" parent="globals/Moon" pc="268448072" symbol="printingMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="67" lineNum="94" parent="globals/Moon" pc="268448103" symbol="printingMoment"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="103" parent="globals/Moon" pc="268448296" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="105" parent="globals/Moon" pc="268448308" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="107" parent="globals/Moon" pc="268448330" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="109" parent="globals/Moon" pc="268448360" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="110" parent="globals/Moon" pc="268448378" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="112" parent="globals/Moon" pc="268448402" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="113" parent="globals/Moon" pc="268448424" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="116" parent="globals/Moon" pc="268448446" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="118" parent="globals/Moon" pc="268448459" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="68" lineNum="119" parent="globals/Moon" pc="268448473" symbol="findMoments"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="125" parent="globals/Moon" pc="268448491" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="127" parent="globals/Moon" pc="268448503" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="129" parent="globals/Moon" pc="268448525" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="131" parent="globals/Moon" pc="268448555" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="132" parent="globals/Moon" pc="268448573" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="134" parent="globals/Moon" pc="268448597" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="135" parent="globals/Moon" pc="268448619" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="137" parent="globals/Moon" pc="268448641" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="139" parent="globals/Moon" pc="268448654" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="69" lineNum="143" parent="globals/Moon" pc="268448673" symbol="findLastFullMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="146" parent="globals/Moon" pc="268448680" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="148" parent="globals/Moon" pc="268448692" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="150" parent="globals/Moon" pc="268448714" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="152" parent="globals/Moon" pc="268448744" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="153" parent="globals/Moon" pc="268448762" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="155" parent="globals/Moon" pc="268448786" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="156" parent="globals/Moon" pc="268448808" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="158" parent="globals/Moon" pc="268448830" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="160" parent="globals/Moon" pc="268448843" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="161" parent="globals/Moon" pc="268448868" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="70" lineNum="166" parent="globals/Moon" pc="268448908" symbol="whereMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="71" lineNum="170" parent="globals/Moon" pc="268448915" symbol="getLatitude"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="71" lineNum="173" parent="globals/Moon" pc="268448927" symbol="getLatitude"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="177" parent="globals/Moon" pc="268448934" symbol="cutCircle"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="179" parent="globals/Moon" pc="268448946" symbol="cutCircle"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="181" parent="globals/Moon" pc="268448954" symbol="cutCircle"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="184" parent="globals/Moon" pc="268448963" symbol="cutCircle"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="72" lineNum="186" parent="globals/Moon" pc="268448991" symbol="cutCircle"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="189" parent="globals/Moon" pc="268448995" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="191" parent="globals/Moon" pc="268449007" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="193" parent="globals/Moon" pc="268449043" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="195" parent="globals/Moon" pc="268449077" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="197" parent="globals/Moon" pc="268449092" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="198" parent="globals/Moon" pc="268449109" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="200" parent="globals/Moon" pc="268449116" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="202" parent="globals/Moon" pc="268449141" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="203" parent="globals/Moon" pc="268449173" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="207" parent="globals/Moon" pc="268449208" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="73" lineNum="208" parent="globals/Moon" pc="268449240" symbol="drawMoon"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="74" lineNum="15" parent="globals/Moon" pc="268449772" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Astrologer2\\source\\Moon.mc" id="74" lineNum="13" parent="globals/Moon" pc="268449772" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="76" lineNum="2" parent="globals/Rez/Drawables" pc="268449727" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="77" lineNum="29" parent="globals/Rez/Fonts" pc="268449729" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="78" lineNum="31" parent="globals/Rez/JsonData" pc="268449731" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="79" lineNum="40" parent="globals/Rez/Layouts" pc="268449286" symbol="WatchFace"/>
+<entry filename="Rez" id="79" lineNum="42" parent="globals/Rez/Layouts" pc="268449298" symbol="WatchFace"/>
+<entry filename="Rez" id="79" lineNum="43" parent="globals/Rez/Layouts" pc="268449322" symbol="WatchFace"/>
+<entry filename="Rez" id="79" lineNum="45" parent="globals/Rez/Layouts" pc="268449485" symbol="WatchFace"/>
+<entry filename="Rez" id="80" lineNum="33" parent="globals/Rez/Layouts" pc="268449730" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="81" lineNum="50" parent="globals/Rez/Menus" pc="268449728" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="82" lineNum="52" parent="globals/Rez/Strings" pc="268449732" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="83" lineNum="1" parent="globals/Rez" pc="268449703" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="83" lineNum="1" parent="globals/Rez" pc="268449703" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
-<entry id="98" method="true" symbol="daysFromStartOnMoment"/>
-<entry id="89" method="true" symbol="cutCircle"/>
-<entry id="80" method="true" symbol="drawPointer2"/>
-<entry id="79" method="true" symbol="drawPointer1"/>
-<entry id="33" method="true" symbol="creatingEarthSymbol"/>
+<entry id="100" method="true" symbol="daysFromStartOnMoment"/>
+<entry id="92" method="true" symbol="cutCircle"/>
+<entry id="83" method="true" symbol="drawPointer2"/>
+<entry id="82" method="true" symbol="drawPointer1"/>
+<entry id="36" method="true" symbol="creatingEarthSymbol"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-<entry field="true" id="96" symbol="DAY_IN_SECONDS"/>
-<entry id="99" method="true" symbol="xyPlanet"/>
-<entry id="32" method="true" symbol="creatingEarthMoon"/>
+<entry field="true" id="98" symbol="DAY_IN_SECONDS"/>
+<entry id="101" method="true" symbol="xyPlanet"/>
+<entry id="35" method="true" symbol="creatingEarthMoon"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-<entry id="103" method="true" symbol="convertToMidnight"/>
-<entry id="102" method="true" symbol="convertToPlus"/>
-<entry id="37" method="true" symbol="creatingSaturnSymbol"/>
-<entry field="true" id="69" symbol="ColorRed"/>
+<entry id="105" method="true" symbol="convertToMidnight"/>
+<entry id="104" method="true" symbol="convertToPlus"/>
+<entry id="40" method="true" symbol="creatingSaturnSymbol"/>
+<entry field="true" id="72" symbol="ColorRed"/>
 <entry field="true" id="22" symbol="zodiacs"/>
-<entry id="97" method="true" symbol="daysFromStart"/>
+<entry id="99" method="true" symbol="daysFromStart"/>
 <entry field="true" id="8388938" symbol="month"/>
-<entry field="true" id="65" symbol="flag4"/>
-<entry field="true" id="64" symbol="flag3"/>
-<entry field="true" id="63" symbol="flag2"/>
-<entry field="true" id="62" symbol="flag1"/>
-<entry id="85" method="true" symbol="findMoments"/>
-<entry field="true" id="73" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="68" symbol="flag4"/>
+<entry field="true" id="67" symbol="flag3"/>
+<entry field="true" id="66" symbol="flag2"/>
+<entry field="true" id="65" symbol="flag1"/>
+<entry id="88" method="true" symbol="findMoments"/>
+<entry field="true" id="76" symbol="MilitaryFormatTitle"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
-<entry id="105" method="true" symbol="currentPositionForMoment"/>
+<entry id="107" method="true" symbol="currentPositionForMoment"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="17" object="true" symbol="MBApp"/>
 <entry id="18" object="true" symbol="MBView"/>
-<entry field="true" id="68" symbol="ColorBlue"/>
-<entry id="90" method="true" symbol="drawMoon"/>
-<entry field="true" id="76" symbol="AppName"/>
+<entry field="true" id="71" symbol="ColorBlue"/>
+<entry id="33" method="true" symbol="drawZodiacGraphic"/>
+<entry id="93" method="true" symbol="drawMoon"/>
+<entry field="true" id="79" symbol="AppName"/>
 <entry id="8389339" symbol="second"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
-<entry id="84" method="true" symbol="printingMoment"/>
-<entry id="30" method="true" symbol="creatingZodiac"/>
+<entry id="87" method="true" symbol="printingMoment"/>
+<entry id="32" method="true" symbol="creatingZodiac"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry id="77" method="true" symbol="drawPointerHour"/>
+<entry id="80" method="true" symbol="drawPointerHour"/>
 <entry id="8388631" module="true" symbol="Activity"/>
 <entry id="8389338" symbol="minute"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
-<entry id="31" method="true" symbol="creatingPlanet"/>
-<entry field="true" id="94" symbol="PUPI"/>
+<entry id="34" method="true" symbol="creatingPlanet"/>
 <entry id="15" module="true" symbol="Zodiac"/>
 <entry id="13" object="true" symbol="MBDelegate"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
@@ -575,77 +582,79 @@
 <entry id="10" module="true" symbol="globals/Moon"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry field="true" id="58" symbol="saturnusU"/>
-<entry field="true" id="54" symbol="marsU"/>
-<entry id="43" module="true" symbol="Menus"/>
+<entry field="true" id="61" symbol="saturnusU"/>
+<entry field="true" id="57" symbol="marsU"/>
+<entry id="46" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
-<entry field="true" id="59" symbol="saturnusD"/>
-<entry field="true" id="55" symbol="marsD"/>
-<entry field="true" id="72" symbol="ColorDarkGray"/>
+<entry field="true" id="62" symbol="saturnusD"/>
+<entry field="true" id="58" symbol="marsD"/>
+<entry field="true" id="75" symbol="ColorDarkGray"/>
 <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
-<entry field="true" id="48" symbol="mercuriusU"/>
-<entry field="true" id="49" symbol="mercuriusD"/>
-<entry field="true" id="45" symbol="mercury"/>
+<entry field="true" id="51" symbol="mercuriusU"/>
+<entry field="true" id="52" symbol="mercuriusD"/>
+<entry field="true" id="48" symbol="mercury"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="93" symbol="planets"/>
-<entry id="26" method="true" symbol="creatingSpiral"/>
+<entry field="true" id="96" symbol="planets"/>
+<entry id="28" method="true" symbol="creatingSpiral"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
 <entry id="9" module="true" symbol="globals/Pointers"/>
-<entry id="35" method="true" symbol="creatingVenusSymbol"/>
+<entry id="38" method="true" symbol="creatingVenusSymbol"/>
 <entry id="12" module="true" symbol="globals/Planets"/>
-<entry id="27" method="true" symbol="checkRadiuses"/>
-<entry field="true" id="75" symbol="ColorWhite"/>
-<entry field="true" id="23" symbol="GRAY"/>
-<entry id="40" method="true" symbol="creatingSunSymbol"/>
+<entry id="29" method="true" symbol="checkRadiuses"/>
+<entry field="true" id="78" symbol="ColorWhite"/>
+<entry field="true" id="24" symbol="GRAY"/>
+<entry id="43" method="true" symbol="creatingSunSymbol"/>
 <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-<entry field="true" id="74" symbol="ColorBlack"/>
-<entry id="29" method="true" symbol="creatingCorona"/>
-<entry id="36" method="true" symbol="creatingMercurySymbol"/>
+<entry field="true" id="77" symbol="ColorBlack"/>
+<entry id="31" method="true" symbol="creatingCorona"/>
+<entry id="39" method="true" symbol="creatingMercurySymbol"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-<entry id="82" method="true" symbol="creatingNow"/>
-<entry id="25" method="true" symbol="drawBackground"/>
-<entry id="78" method="true" symbol="drawPointerMin"/>
-<entry id="100" method="true" symbol="daysFromStart2"/>
-<entry field="true" id="24" symbol="VIRALS"/>
-<entry field="true" id="91" symbol="ARCS"/>
-<entry field="true" id="52" symbol="venusU"/>
-<entry field="true" id="53" symbol="venusD"/>
+<entry id="85" method="true" symbol="creatingNow"/>
+<entry id="27" method="true" symbol="drawBackground"/>
+<entry id="81" method="true" symbol="drawPointerMin"/>
+<entry id="102" method="true" symbol="daysFromStart2"/>
+<entry field="true" id="25" symbol="VIRALS"/>
+<entry field="true" id="94" symbol="ARCS"/>
+<entry field="true" id="55" symbol="venusU"/>
+<entry field="true" id="56" symbol="venusD"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
-<entry field="true" id="46" symbol="mars"/>
+<entry field="true" id="49" symbol="mars"/>
 <entry id="19" module="true" symbol="Moon"/>
 <entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry field="true" id="50" symbol="terraU"/>
-<entry field="true" id="51" symbol="terraD"/>
+<entry field="true" id="53" symbol="terraU"/>
+<entry field="true" id="54" symbol="terraD"/>
 <entry field="true" id="8388720" symbol="hour"/>
 <entry id="8388640" module="true" symbol="Lang"/>
-<entry id="88" method="true" symbol="getLatitude"/>
+<entry id="91" method="true" symbol="getLatitude"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry id="87" method="true" symbol="whereMoon"/>
-<entry field="true" id="66" symbol="LauncherIcon"/>
+<entry id="90" method="true" symbol="whereMoon"/>
+<entry field="true" id="69" symbol="LauncherIcon"/>
+<entry field="true" id="26" symbol="ALIAS_VERSION"/>
 <entry id="11" module="true" symbol="globals/Zodiac"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="28" method="true" symbol="verifyRadius"/>
-<entry field="true" id="47" symbol="jupiter"/>
+<entry id="30" method="true" symbol="verifyRadius"/>
+<entry field="true" id="50" symbol="jupiter"/>
 <entry id="8389350" module="true" symbol="globals"/>
-<entry field="true" id="71" symbol="BackgroundColorTitle"/>
+<entry field="true" id="74" symbol="BackgroundColorTitle"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry id="41" method="true" symbol="createPointFromAngle"/>
+<entry id="44" method="true" symbol="createPointFromAngle"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="44" symbol="flagOld"/>
-<entry field="true" id="60" symbol="terraU2"/>
-<entry id="34" method="true" symbol="creatingMarsSymbol"/>
+<entry field="true" id="47" symbol="flagOld"/>
+<entry field="true" id="63" symbol="terraU2"/>
+<entry id="37" method="true" symbol="creatingMarsSymbol"/>
 <entry id="8388641" module="true" symbol="Math"/>
-<entry field="true" id="56" symbol="iuppiterU"/>
-<entry field="true" id="57" symbol="iuppiterD"/>
-<entry field="true" id="67" symbol="ColorLightGray"/>
+<entry field="true" id="23" symbol="version"/>
+<entry field="true" id="59" symbol="iuppiterU"/>
+<entry field="true" id="60" symbol="iuppiterD"/>
+<entry field="true" id="70" symbol="ColorLightGray"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="21" symbol="dcR"/>
@@ -653,24 +662,24 @@
 <entry field="true" id="8388939" symbol="day"/>
 <entry id="8389781" module="true" symbol="SensorHistory"/>
 <entry id="8389097" method="true" symbol="onKey"/>
-<entry id="101" method="true" symbol="currentAngle"/>
-<entry id="92" method="true" symbol="whichSign"/>
-<entry field="true" id="70" symbol="ForegroundColorTitle"/>
-<entry field="true" id="61" symbol="terraD2"/>
+<entry id="103" method="true" symbol="currentAngle"/>
+<entry id="95" method="true" symbol="whichSign"/>
+<entry field="true" id="73" symbol="ForegroundColorTitle"/>
+<entry field="true" id="64" symbol="terraD2"/>
 <entry field="true" id="8388940" symbol="year"/>
-<entry id="42" module="true" symbol="Layouts"/>
-<entry field="true" id="81" symbol="FULLS"/>
-<entry field="true" id="95" symbol="START_MOMENT"/>
+<entry id="45" module="true" symbol="Layouts"/>
+<entry field="true" id="84" symbol="FULLS"/>
+<entry field="true" id="97" symbol="START_MOMENT"/>
 <entry id="16" module="true" symbol="Planets"/>
-<entry id="38" method="true" symbol="creatingJupiterSymbol"/>
+<entry id="41" method="true" symbol="creatingJupiterSymbol"/>
 <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
 <entry field="true" id="8389243" symbol="flag"/>
-<entry id="39" method="true" symbol="creatingMoonSymbol"/>
-<entry id="86" method="true" symbol="findLastFullMoon"/>
+<entry id="42" method="true" symbol="creatingMoonSymbol"/>
+<entry id="89" method="true" symbol="findLastFullMoon"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry id="104" method="true" symbol="currentPosition"/>
+<entry id="106" method="true" symbol="currentPosition"/>
 <entry id="8388635" module="true" symbol="Application"/>
-<entry id="83" method="true" symbol="readingMoment"/>
+<entry id="86" method="true" symbol="readingMoment"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435531" name="dictionary" stackId="1" startPc="268435491"/>
@@ -759,198 +768,204 @@
 <entry arg="true" endPc="268438352" name="moment" stackId="2" startPc="268438006"/>
 <entry arg="true" endPc="268438380" name="state" stackId="1" startPc="268438376"/>
 <entry arg="true" endPc="268438385" name="state" stackId="1" startPc="268438381"/>
-<entry arg="true" endPc="268438802" name="dc" stackId="1" startPc="268438627"/>
-<entry arg="true" endPc="268438926" name="dc" stackId="1" startPc="268438808"/>
-<entry endPc="268440339" name="day" stackId="2" startPc="268438946"/>
-<entry endPc="268440339" name="today" stackId="1" startPc="268438946"/>
-<entry endPc="268440339" name="smallRotation" stackId="5" startPc="268438946"/>
-<entry endPc="268440339" name="minutes" stackId="7" startPc="268438946"/>
-<entry endPc="268440339" name="bigRotation" stackId="4" startPc="268438946"/>
-<entry endPc="268440339" name="clockTime" stackId="6" startPc="268438946"/>
-<entry endPc="268440339" name="month" stackId="3" startPc="268438946"/>
-<entry endPc="268440670" name="further" stackId="15" startPc="268440554"/>
-<entry endPc="268440670" name="degree" stackId="13" startPc="268440554"/>
-<entry endPc="268440670" name="closer" stackId="14" startPc="268440554"/>
-<entry endPc="268440683" name="i" stackId="12" startPc="268440554"/>
-<entry endPc="268440683" name="short" stackId="10" startPc="268440345"/>
-<entry endPc="268440683" name="radiuses" stackId="9" startPc="268440345"/>
-<entry endPc="268440683" name="spirals" stackId="6" startPc="268440345"/>
-<entry endPc="268440683" name="long" stackId="11" startPc="268440345"/>
-<entry endPc="268440683" name="axisY" stackId="8" startPc="268440345"/>
-<entry endPc="268440683" name="axisX" stackId="7" startPc="268440345"/>
-<entry arg="true" endPc="268440684" name="shortRadius" stackId="2" startPc="268440341"/>
-<entry arg="true" endPc="268440684" name="pen" stackId="5" startPc="268440341"/>
-<entry arg="true" endPc="268440684" name="dcContext" stackId="1" startPc="268440341"/>
-<entry arg="true" endPc="268440684" name="longRadius" stackId="3" startPc="268440341"/>
-<entry arg="true" endPc="268440684" name="angles" stackId="4" startPc="268440341"/>
-<entry endPc="268440811" name="result" stackId="6" startPc="268440689"/>
-<entry endPc="268440811" name="short" stackId="4" startPc="268440689"/>
-<entry endPc="268440811" name="long" stackId="5" startPc="268440689"/>
-<entry arg="true" endPc="268440812" name="shortRadius" stackId="2" startPc="268440685"/>
-<entry arg="true" endPc="268440812" name="dcContext" stackId="1" startPc="268440685"/>
-<entry arg="true" endPc="268440812" name="longRadius" stackId="3" startPc="268440685"/>
-<entry endPc="268440902" name="height" stackId="4" startPc="268440817"/>
-<entry endPc="268440902" name="width" stackId="3" startPc="268440817"/>
-<entry endPc="268440902" name="maxRadius" stackId="5" startPc="268440817"/>
-<entry arg="true" endPc="268440903" name="radius" stackId="2" startPc="268440813"/>
-<entry arg="true" endPc="268440903" name="dcContext" stackId="1" startPc="268440813"/>
-<entry endPc="268441759" name="pointsToCross" stackId="14" startPc="268440933"/>
-<entry endPc="268441759" name="pointsToTop" stackId="15" startPc="268440933"/>
-<entry endPc="268441759" name="right" stackId="11" startPc="268440933"/>
-<entry endPc="268441759" name="points" stackId="12" startPc="268440933"/>
-<entry endPc="268441759" name="pointsToLeft" stackId="13" startPc="268440933"/>
-<entry endPc="268441759" name="left" stackId="10" startPc="268440933"/>
-<entry endPc="268441759" name="top" stackId="9" startPc="268440933"/>
-<entry endPc="268441772" name="i" stackId="8" startPc="268440933"/>
-<entry endPc="268441772" name="baseAngle" stackId="7" startPc="268440908"/>
-<entry arg="true" endPc="268441773" name="dcContext" stackId="1" startPc="268440904"/>
-<entry arg="true" endPc="268441773" name="base" stackId="6" startPc="268440904"/>
-<entry arg="true" endPc="268441773" name="shortLenght" stackId="5" startPc="268440904"/>
-<entry arg="true" endPc="268441773" name="axisY" stackId="3" startPc="268440904"/>
-<entry arg="true" endPc="268441773" name="axisX" stackId="2" startPc="268440904"/>
-<entry arg="true" endPc="268441773" name="longLenght" stackId="4" startPc="268440904"/>
-<entry endPc="268442073" name="signSpan" stackId="8" startPc="268441778"/>
-<entry endPc="268442073" name="sign" stackId="7" startPc="268441778"/>
-<entry endPc="268442073" name="span" stackId="9" startPc="268441778"/>
-<entry arg="true" endPc="268442074" name="day" stackId="4" startPc="268441774"/>
-<entry arg="true" endPc="268442074" name="dcContext" stackId="1" startPc="268441774"/>
-<entry arg="true" endPc="268442074" name="month" stackId="5" startPc="268441774"/>
-<entry arg="true" endPc="268442074" name="axisY" stackId="3" startPc="268441774"/>
-<entry arg="true" endPc="268442074" name="axisX" stackId="2" startPc="268441774"/>
-<entry arg="true" endPc="268442074" name="pointingColor" stackId="6" startPc="268441774"/>
-<entry endPc="268442407" name="toDisplay" stackId="13" startPc="268442286"/>
-<entry endPc="268442538" name="toDisplay" stackId="14" startPc="268442411"/>
-<entry endPc="268443251" name="shift" stackId="15" startPc="268442079"/>
-<entry endPc="268443251" name="thisPlanet" stackId="9" startPc="268442079"/>
-<entry endPc="268443251" name="where" stackId="12" startPc="268442079"/>
-<entry endPc="268443251" name="arch" stackId="10" startPc="268442079"/>
-<entry endPc="268443251" name="positionPlanet" stackId="8" startPc="268442079"/>
-<entry endPc="268443251" name="title" stackId="11" startPc="268442079"/>
-<entry arg="true" endPc="268443252" name="radius" stackId="6" startPc="268442075"/>
-<entry arg="true" endPc="268443252" name="planet" stackId="4" startPc="268442075"/>
-<entry arg="true" endPc="268443252" name="graphicSize" stackId="7" startPc="268442075"/>
-<entry arg="true" endPc="268443252" name="lenght" stackId="5" startPc="268442075"/>
-<entry arg="true" endPc="268443252" name="dcContext" stackId="1" startPc="268442075"/>
-<entry arg="true" endPc="268443252" name="axisY" stackId="3" startPc="268442075"/>
-<entry arg="true" endPc="268443252" name="axisX" stackId="2" startPc="268442075"/>
-<entry endPc="268444862" name="momentFM" stackId="13" startPc="268443257"/>
-<entry endPc="268444862" name="shift" stackId="12" startPc="268443257"/>
-<entry endPc="268444862" name="currentPosition" stackId="15" startPc="268443257"/>
-<entry endPc="268444862" name="positionMoonPhase" stackId="9" startPc="268443257"/>
-<entry endPc="268444862" name="initialPosition" stackId="14" startPc="268443257"/>
-<entry endPc="268444862" name="arch" stackId="11" startPc="268443257"/>
-<entry endPc="268444862" name="positionPlanet" stackId="8" startPc="268443257"/>
-<entry endPc="268444862" name="thisPlanet" stackId="10" startPc="268443257"/>
-<entry endPc="268444862" name="moonPosition" stackId="16" startPc="268443257"/>
-<entry arg="true" endPc="268444863" name="radius" stackId="6" startPc="268443253"/>
-<entry arg="true" endPc="268444863" name="planet" stackId="4" startPc="268443253"/>
-<entry arg="true" endPc="268444863" name="graphicSize" stackId="7" startPc="268443253"/>
-<entry arg="true" endPc="268444863" name="lenght" stackId="5" startPc="268443253"/>
-<entry arg="true" endPc="268444863" name="dcContext" stackId="1" startPc="268443253"/>
-<entry arg="true" endPc="268444863" name="axisY" stackId="3" startPc="268443253"/>
-<entry arg="true" endPc="268444863" name="axisX" stackId="2" startPc="268443253"/>
-<entry arg="true" endPc="268445035" name="higher" stackId="4" startPc="268444864"/>
-<entry arg="true" endPc="268445035" name="lower" stackId="5" startPc="268444864"/>
-<entry arg="true" endPc="268445035" name="dcContext" stackId="1" startPc="268444864"/>
-<entry arg="true" endPc="268445035" name="axisY" stackId="3" startPc="268444864"/>
-<entry arg="true" endPc="268445035" name="axisX" stackId="2" startPc="268444864"/>
-<entry endPc="268445455" name="third" stackId="9" startPc="268445040"/>
-<entry endPc="268445455" name="second" stackId="8" startPc="268445040"/>
-<entry endPc="268445455" name="first" stackId="7" startPc="268445040"/>
-<entry endPc="268445455" name="middleY" stackId="6" startPc="268445040"/>
-<entry endPc="268445455" name="middleX" stackId="5" startPc="268445040"/>
-<entry arg="true" endPc="268445456" name="pen" stackId="4" startPc="268445036"/>
-<entry arg="true" endPc="268445456" name="dcContext" stackId="1" startPc="268445036"/>
-<entry arg="true" endPc="268445456" name="axisY" stackId="3" startPc="268445036"/>
-<entry arg="true" endPc="268445456" name="axisX" stackId="2" startPc="268445036"/>
-<entry endPc="268445662" name="middleY" stackId="6" startPc="268445461"/>
-<entry endPc="268445662" name="middleX" stackId="5" startPc="268445461"/>
-<entry arg="true" endPc="268445663" name="pen" stackId="4" startPc="268445457"/>
-<entry arg="true" endPc="268445663" name="dcContext" stackId="1" startPc="268445457"/>
-<entry arg="true" endPc="268445663" name="axisY" stackId="3" startPc="268445457"/>
-<entry arg="true" endPc="268445663" name="axisX" stackId="2" startPc="268445457"/>
-<entry endPc="268446141" name="topRightHigher" stackId="10" startPc="268445668"/>
-<entry endPc="268446141" name="topRightLower" stackId="9" startPc="268445668"/>
-<entry endPc="268446141" name="topLeftHigher" stackId="8" startPc="268445668"/>
-<entry endPc="268446141" name="topLeftLower" stackId="7" startPc="268445668"/>
-<entry endPc="268446141" name="middleY" stackId="6" startPc="268445668"/>
-<entry endPc="268446141" name="middleX" stackId="5" startPc="268445668"/>
-<entry arg="true" endPc="268446142" name="pen" stackId="4" startPc="268445664"/>
-<entry arg="true" endPc="268446142" name="dcContext" stackId="1" startPc="268445664"/>
-<entry arg="true" endPc="268446142" name="axisY" stackId="3" startPc="268445664"/>
-<entry arg="true" endPc="268446142" name="axisX" stackId="2" startPc="268445664"/>
-<entry endPc="268446446" name="middleY" stackId="6" startPc="268446147"/>
-<entry endPc="268446446" name="middleX" stackId="5" startPc="268446147"/>
-<entry arg="true" endPc="268446447" name="pen" stackId="4" startPc="268446143"/>
-<entry arg="true" endPc="268446447" name="dcContext" stackId="1" startPc="268446143"/>
-<entry arg="true" endPc="268446447" name="axisY" stackId="3" startPc="268446143"/>
-<entry arg="true" endPc="268446447" name="axisX" stackId="2" startPc="268446143"/>
-<entry endPc="268446761" name="middleY" stackId="6" startPc="268446452"/>
-<entry endPc="268446761" name="middleX" stackId="5" startPc="268446452"/>
-<entry arg="true" endPc="268446762" name="pen" stackId="4" startPc="268446448"/>
-<entry arg="true" endPc="268446762" name="dcContext" stackId="1" startPc="268446448"/>
-<entry arg="true" endPc="268446762" name="axisY" stackId="3" startPc="268446448"/>
-<entry arg="true" endPc="268446762" name="axisX" stackId="2" startPc="268446448"/>
-<entry endPc="268446957" name="middleY" stackId="6" startPc="268446767"/>
-<entry endPc="268446957" name="middleX" stackId="5" startPc="268446767"/>
-<entry arg="true" endPc="268446958" name="pen" stackId="4" startPc="268446763"/>
-<entry arg="true" endPc="268446958" name="dcContext" stackId="1" startPc="268446763"/>
-<entry arg="true" endPc="268446958" name="axisY" stackId="3" startPc="268446763"/>
-<entry arg="true" endPc="268446958" name="axisX" stackId="2" startPc="268446763"/>
-<entry endPc="268447334" name="middleY" stackId="6" startPc="268446963"/>
-<entry endPc="268447334" name="middleX" stackId="5" startPc="268446963"/>
-<entry arg="true" endPc="268447335" name="pen" stackId="4" startPc="268446959"/>
-<entry arg="true" endPc="268447335" name="dcContext" stackId="1" startPc="268446959"/>
-<entry arg="true" endPc="268447335" name="axisY" stackId="3" startPc="268446959"/>
-<entry arg="true" endPc="268447335" name="axisX" stackId="2" startPc="268446959"/>
-<entry endPc="268447464" name="newY" stackId="6" startPc="268447340"/>
-<entry endPc="268447464" name="newX" stackId="5" startPc="268447340"/>
-<entry arg="true" endPc="268447465" name="lenght" stackId="3" startPc="268447336"/>
-<entry arg="true" endPc="268447465" name="rotation" stackId="4" startPc="268447336"/>
-<entry arg="true" endPc="268447465" name="axisY" stackId="2" startPc="268447336"/>
-<entry arg="true" endPc="268447465" name="axisX" stackId="1" startPc="268447336"/>
-<entry endPc="268447532" name="now" stackId="1" startPc="268447478"/>
-<entry endPc="268447651" name="options" stackId="2" startPc="268447546"/>
-<entry arg="true" endPc="268447652" name="moment" stackId="1" startPc="268447534"/>
-<entry endPc="268447887" name="gregory" stackId="2" startPc="268447665"/>
-<entry arg="true" endPc="268447888" name="moment" stackId="1" startPc="268447653"/>
-<entry endPc="268448093" name="second" stackId="5" startPc="268447953"/>
-<entry endPc="268448093" name="condition2" stackId="7" startPc="268447953"/>
-<entry endPc="268448093" name="condition1" stackId="6" startPc="268447953"/>
-<entry endPc="268448093" name="first" stackId="4" startPc="268447953"/>
-<entry endPc="268448106" name="i" stackId="3" startPc="268447953"/>
-<entry endPc="268448106" name="now" stackId="2" startPc="268447901"/>
-<entry arg="true" endPc="268448107" name="moments" stackId="1" startPc="268447889"/>
-<entry endPc="268448276" name="second" stackId="5" startPc="268448172"/>
-<entry endPc="268448276" name="condition2" stackId="7" startPc="268448172"/>
-<entry endPc="268448276" name="condition1" stackId="6" startPc="268448172"/>
-<entry endPc="268448276" name="first" stackId="4" startPc="268448172"/>
-<entry endPc="268448289" name="i" stackId="3" startPc="268448172"/>
-<entry endPc="268448295" name="now" stackId="2" startPc="268448120"/>
-<entry arg="true" endPc="268448296" name="moments" stackId="1" startPc="268448108"/>
-<entry endPc="268448508" name="total" stackId="8" startPc="268448460"/>
-<entry endPc="268448511" name="second" stackId="5" startPc="268448361"/>
-<entry endPc="268448511" name="condition2" stackId="7" startPc="268448361"/>
-<entry endPc="268448511" name="condition1" stackId="6" startPc="268448361"/>
-<entry endPc="268448511" name="first" stackId="4" startPc="268448361"/>
-<entry endPc="268448524" name="i" stackId="3" startPc="268448361"/>
-<entry endPc="268448530" name="now" stackId="2" startPc="268448309"/>
-<entry arg="true" endPc="268448531" name="moments" stackId="1" startPc="268448297"/>
-<entry endPc="268448610" name="result" stackId="3" startPc="268448563"/>
-<entry arg="true" endPc="268448611" name="height" stackId="2" startPc="268448551"/>
-<entry arg="true" endPc="268448611" name="radius" stackId="1" startPc="268448551"/>
-<entry endPc="268448939" name="lenght" stackId="8" startPc="268448709"/>
-<entry endPc="268448939" name="tLenght" stackId="9" startPc="268448709"/>
-<entry endPc="268448952" name="i" stackId="7" startPc="268448709"/>
-<entry endPc="268448952" name="terminator" stackId="6" startPc="268448624"/>
-<entry arg="true" endPc="268448953" name="radius" stackId="4" startPc="268448612"/>
-<entry arg="true" endPc="268448953" name="dcContext" stackId="1" startPc="268448612"/>
-<entry arg="true" endPc="268448953" name="whereMoon" stackId="5" startPc="268448612"/>
-<entry arg="true" endPc="268448953" name="axisY" stackId="3" startPc="268448612"/>
-<entry arg="true" endPc="268448953" name="axisX" stackId="2" startPc="268448612"/>
-<entry endPc="268449179" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268448966"/>
-<entry endPc="268449179" name="rez_cmp_local_custom_drawable_19300607302695951023" stackId="2" startPc="268448966"/>
-<entry arg="true" endPc="268449180" name="dc" stackId="1" startPc="268448954"/>
+<entry arg="true" endPc="268438938" name="dc" stackId="1" startPc="268438720"/>
+<entry arg="true" endPc="268439062" name="dc" stackId="1" startPc="268438944"/>
+<entry endPc="268440458" name="day" stackId="2" startPc="268439082"/>
+<entry endPc="268440458" name="today" stackId="1" startPc="268439082"/>
+<entry endPc="268440458" name="smallRotation" stackId="5" startPc="268439082"/>
+<entry endPc="268440458" name="minutes" stackId="7" startPc="268439082"/>
+<entry endPc="268440458" name="bigRotation" stackId="4" startPc="268439082"/>
+<entry endPc="268440458" name="clockTime" stackId="6" startPc="268439082"/>
+<entry endPc="268440458" name="month" stackId="3" startPc="268439082"/>
+<entry endPc="268440789" name="further" stackId="15" startPc="268440673"/>
+<entry endPc="268440789" name="degree" stackId="13" startPc="268440673"/>
+<entry endPc="268440789" name="closer" stackId="14" startPc="268440673"/>
+<entry endPc="268440802" name="i" stackId="12" startPc="268440673"/>
+<entry endPc="268440802" name="short" stackId="10" startPc="268440464"/>
+<entry endPc="268440802" name="radiuses" stackId="9" startPc="268440464"/>
+<entry endPc="268440802" name="spirals" stackId="6" startPc="268440464"/>
+<entry endPc="268440802" name="long" stackId="11" startPc="268440464"/>
+<entry endPc="268440802" name="axisY" stackId="8" startPc="268440464"/>
+<entry endPc="268440802" name="axisX" stackId="7" startPc="268440464"/>
+<entry arg="true" endPc="268440803" name="shortRadius" stackId="2" startPc="268440460"/>
+<entry arg="true" endPc="268440803" name="pen" stackId="5" startPc="268440460"/>
+<entry arg="true" endPc="268440803" name="dcContext" stackId="1" startPc="268440460"/>
+<entry arg="true" endPc="268440803" name="longRadius" stackId="3" startPc="268440460"/>
+<entry arg="true" endPc="268440803" name="angles" stackId="4" startPc="268440460"/>
+<entry endPc="268440930" name="result" stackId="6" startPc="268440808"/>
+<entry endPc="268440930" name="short" stackId="4" startPc="268440808"/>
+<entry endPc="268440930" name="long" stackId="5" startPc="268440808"/>
+<entry arg="true" endPc="268440931" name="shortRadius" stackId="2" startPc="268440804"/>
+<entry arg="true" endPc="268440931" name="dcContext" stackId="1" startPc="268440804"/>
+<entry arg="true" endPc="268440931" name="longRadius" stackId="3" startPc="268440804"/>
+<entry endPc="268441021" name="height" stackId="4" startPc="268440936"/>
+<entry endPc="268441021" name="width" stackId="3" startPc="268440936"/>
+<entry endPc="268441021" name="maxRadius" stackId="5" startPc="268440936"/>
+<entry arg="true" endPc="268441022" name="radius" stackId="2" startPc="268440932"/>
+<entry arg="true" endPc="268441022" name="dcContext" stackId="1" startPc="268440932"/>
+<entry endPc="268441878" name="pointsToCross" stackId="14" startPc="268441052"/>
+<entry endPc="268441878" name="pointsToTop" stackId="15" startPc="268441052"/>
+<entry endPc="268441878" name="right" stackId="11" startPc="268441052"/>
+<entry endPc="268441878" name="points" stackId="12" startPc="268441052"/>
+<entry endPc="268441878" name="pointsToLeft" stackId="13" startPc="268441052"/>
+<entry endPc="268441878" name="left" stackId="10" startPc="268441052"/>
+<entry endPc="268441878" name="top" stackId="9" startPc="268441052"/>
+<entry endPc="268441891" name="i" stackId="8" startPc="268441052"/>
+<entry endPc="268441891" name="baseAngle" stackId="7" startPc="268441027"/>
+<entry arg="true" endPc="268441892" name="dcContext" stackId="1" startPc="268441023"/>
+<entry arg="true" endPc="268441892" name="base" stackId="6" startPc="268441023"/>
+<entry arg="true" endPc="268441892" name="shortLenght" stackId="5" startPc="268441023"/>
+<entry arg="true" endPc="268441892" name="axisY" stackId="3" startPc="268441023"/>
+<entry arg="true" endPc="268441892" name="axisX" stackId="2" startPc="268441023"/>
+<entry arg="true" endPc="268441892" name="longLenght" stackId="4" startPc="268441023"/>
+<entry endPc="268442157" name="signSpan" stackId="8" startPc="268441897"/>
+<entry endPc="268442157" name="sign" stackId="7" startPc="268441897"/>
+<entry endPc="268442157" name="span" stackId="9" startPc="268441897"/>
+<entry arg="true" endPc="268442158" name="day" stackId="4" startPc="268441893"/>
+<entry arg="true" endPc="268442158" name="dcContext" stackId="1" startPc="268441893"/>
+<entry arg="true" endPc="268442158" name="month" stackId="5" startPc="268441893"/>
+<entry arg="true" endPc="268442158" name="axisY" stackId="3" startPc="268441893"/>
+<entry arg="true" endPc="268442158" name="axisX" stackId="2" startPc="268441893"/>
+<entry arg="true" endPc="268442158" name="pointingColor" stackId="6" startPc="268441893"/>
+<entry endPc="268442467" name="toLoad" stackId="6" startPc="268442389"/>
+<entry endPc="268442480" name="i" stackId="5" startPc="268442389"/>
+<entry endPc="268442480" name="corrections" stackId="4" startPc="268442163"/>
+<entry endPc="268442480" name="bigCorrection" stackId="3" startPc="268442163"/>
+<entry arg="true" endPc="268442481" name="graphics" stackId="2" startPc="268442159"/>
+<entry arg="true" endPc="268442481" name="dcContext" stackId="1" startPc="268442159"/>
+<entry endPc="268442814" name="toDisplay" stackId="13" startPc="268442693"/>
+<entry endPc="268442945" name="toDisplay" stackId="14" startPc="268442818"/>
+<entry endPc="268443658" name="shift" stackId="15" startPc="268442486"/>
+<entry endPc="268443658" name="thisPlanet" stackId="9" startPc="268442486"/>
+<entry endPc="268443658" name="where" stackId="12" startPc="268442486"/>
+<entry endPc="268443658" name="arch" stackId="10" startPc="268442486"/>
+<entry endPc="268443658" name="positionPlanet" stackId="8" startPc="268442486"/>
+<entry endPc="268443658" name="title" stackId="11" startPc="268442486"/>
+<entry arg="true" endPc="268443659" name="radius" stackId="6" startPc="268442482"/>
+<entry arg="true" endPc="268443659" name="planet" stackId="4" startPc="268442482"/>
+<entry arg="true" endPc="268443659" name="graphicSize" stackId="7" startPc="268442482"/>
+<entry arg="true" endPc="268443659" name="lenght" stackId="5" startPc="268442482"/>
+<entry arg="true" endPc="268443659" name="dcContext" stackId="1" startPc="268442482"/>
+<entry arg="true" endPc="268443659" name="axisY" stackId="3" startPc="268442482"/>
+<entry arg="true" endPc="268443659" name="axisX" stackId="2" startPc="268442482"/>
+<entry endPc="268445269" name="momentFM" stackId="13" startPc="268443664"/>
+<entry endPc="268445269" name="shift" stackId="12" startPc="268443664"/>
+<entry endPc="268445269" name="currentPosition" stackId="15" startPc="268443664"/>
+<entry endPc="268445269" name="positionMoonPhase" stackId="9" startPc="268443664"/>
+<entry endPc="268445269" name="initialPosition" stackId="14" startPc="268443664"/>
+<entry endPc="268445269" name="arch" stackId="11" startPc="268443664"/>
+<entry endPc="268445269" name="positionPlanet" stackId="8" startPc="268443664"/>
+<entry endPc="268445269" name="thisPlanet" stackId="10" startPc="268443664"/>
+<entry endPc="268445269" name="moonPosition" stackId="16" startPc="268443664"/>
+<entry arg="true" endPc="268445270" name="radius" stackId="6" startPc="268443660"/>
+<entry arg="true" endPc="268445270" name="planet" stackId="4" startPc="268443660"/>
+<entry arg="true" endPc="268445270" name="graphicSize" stackId="7" startPc="268443660"/>
+<entry arg="true" endPc="268445270" name="lenght" stackId="5" startPc="268443660"/>
+<entry arg="true" endPc="268445270" name="dcContext" stackId="1" startPc="268443660"/>
+<entry arg="true" endPc="268445270" name="axisY" stackId="3" startPc="268443660"/>
+<entry arg="true" endPc="268445270" name="axisX" stackId="2" startPc="268443660"/>
+<entry arg="true" endPc="268445442" name="higher" stackId="4" startPc="268445271"/>
+<entry arg="true" endPc="268445442" name="lower" stackId="5" startPc="268445271"/>
+<entry arg="true" endPc="268445442" name="dcContext" stackId="1" startPc="268445271"/>
+<entry arg="true" endPc="268445442" name="axisY" stackId="3" startPc="268445271"/>
+<entry arg="true" endPc="268445442" name="axisX" stackId="2" startPc="268445271"/>
+<entry endPc="268445862" name="third" stackId="9" startPc="268445447"/>
+<entry endPc="268445862" name="second" stackId="8" startPc="268445447"/>
+<entry endPc="268445862" name="first" stackId="7" startPc="268445447"/>
+<entry endPc="268445862" name="middleY" stackId="6" startPc="268445447"/>
+<entry endPc="268445862" name="middleX" stackId="5" startPc="268445447"/>
+<entry arg="true" endPc="268445863" name="pen" stackId="4" startPc="268445443"/>
+<entry arg="true" endPc="268445863" name="dcContext" stackId="1" startPc="268445443"/>
+<entry arg="true" endPc="268445863" name="axisY" stackId="3" startPc="268445443"/>
+<entry arg="true" endPc="268445863" name="axisX" stackId="2" startPc="268445443"/>
+<entry endPc="268446069" name="middleY" stackId="6" startPc="268445868"/>
+<entry endPc="268446069" name="middleX" stackId="5" startPc="268445868"/>
+<entry arg="true" endPc="268446070" name="pen" stackId="4" startPc="268445864"/>
+<entry arg="true" endPc="268446070" name="dcContext" stackId="1" startPc="268445864"/>
+<entry arg="true" endPc="268446070" name="axisY" stackId="3" startPc="268445864"/>
+<entry arg="true" endPc="268446070" name="axisX" stackId="2" startPc="268445864"/>
+<entry endPc="268446548" name="topRightHigher" stackId="10" startPc="268446075"/>
+<entry endPc="268446548" name="topRightLower" stackId="9" startPc="268446075"/>
+<entry endPc="268446548" name="topLeftHigher" stackId="8" startPc="268446075"/>
+<entry endPc="268446548" name="topLeftLower" stackId="7" startPc="268446075"/>
+<entry endPc="268446548" name="middleY" stackId="6" startPc="268446075"/>
+<entry endPc="268446548" name="middleX" stackId="5" startPc="268446075"/>
+<entry arg="true" endPc="268446549" name="pen" stackId="4" startPc="268446071"/>
+<entry arg="true" endPc="268446549" name="dcContext" stackId="1" startPc="268446071"/>
+<entry arg="true" endPc="268446549" name="axisY" stackId="3" startPc="268446071"/>
+<entry arg="true" endPc="268446549" name="axisX" stackId="2" startPc="268446071"/>
+<entry endPc="268446853" name="middleY" stackId="6" startPc="268446554"/>
+<entry endPc="268446853" name="middleX" stackId="5" startPc="268446554"/>
+<entry arg="true" endPc="268446854" name="pen" stackId="4" startPc="268446550"/>
+<entry arg="true" endPc="268446854" name="dcContext" stackId="1" startPc="268446550"/>
+<entry arg="true" endPc="268446854" name="axisY" stackId="3" startPc="268446550"/>
+<entry arg="true" endPc="268446854" name="axisX" stackId="2" startPc="268446550"/>
+<entry endPc="268447168" name="middleY" stackId="6" startPc="268446859"/>
+<entry endPc="268447168" name="middleX" stackId="5" startPc="268446859"/>
+<entry arg="true" endPc="268447169" name="pen" stackId="4" startPc="268446855"/>
+<entry arg="true" endPc="268447169" name="dcContext" stackId="1" startPc="268446855"/>
+<entry arg="true" endPc="268447169" name="axisY" stackId="3" startPc="268446855"/>
+<entry arg="true" endPc="268447169" name="axisX" stackId="2" startPc="268446855"/>
+<entry endPc="268447364" name="middleY" stackId="6" startPc="268447174"/>
+<entry endPc="268447364" name="middleX" stackId="5" startPc="268447174"/>
+<entry arg="true" endPc="268447365" name="pen" stackId="4" startPc="268447170"/>
+<entry arg="true" endPc="268447365" name="dcContext" stackId="1" startPc="268447170"/>
+<entry arg="true" endPc="268447365" name="axisY" stackId="3" startPc="268447170"/>
+<entry arg="true" endPc="268447365" name="axisX" stackId="2" startPc="268447170"/>
+<entry endPc="268447741" name="middleY" stackId="6" startPc="268447370"/>
+<entry endPc="268447741" name="middleX" stackId="5" startPc="268447370"/>
+<entry arg="true" endPc="268447742" name="pen" stackId="4" startPc="268447366"/>
+<entry arg="true" endPc="268447742" name="dcContext" stackId="1" startPc="268447366"/>
+<entry arg="true" endPc="268447742" name="axisY" stackId="3" startPc="268447366"/>
+<entry arg="true" endPc="268447742" name="axisX" stackId="2" startPc="268447366"/>
+<entry endPc="268447871" name="newY" stackId="6" startPc="268447747"/>
+<entry endPc="268447871" name="newX" stackId="5" startPc="268447747"/>
+<entry arg="true" endPc="268447872" name="lenght" stackId="3" startPc="268447743"/>
+<entry arg="true" endPc="268447872" name="rotation" stackId="4" startPc="268447743"/>
+<entry arg="true" endPc="268447872" name="axisY" stackId="2" startPc="268447743"/>
+<entry arg="true" endPc="268447872" name="axisX" stackId="1" startPc="268447743"/>
+<entry endPc="268447939" name="now" stackId="1" startPc="268447885"/>
+<entry endPc="268448058" name="options" stackId="2" startPc="268447953"/>
+<entry arg="true" endPc="268448059" name="moment" stackId="1" startPc="268447941"/>
+<entry endPc="268448294" name="gregory" stackId="2" startPc="268448072"/>
+<entry arg="true" endPc="268448295" name="moment" stackId="1" startPc="268448060"/>
+<entry endPc="268448476" name="second" stackId="5" startPc="268448360"/>
+<entry endPc="268448476" name="condition2" stackId="7" startPc="268448360"/>
+<entry endPc="268448476" name="condition1" stackId="6" startPc="268448360"/>
+<entry endPc="268448476" name="first" stackId="4" startPc="268448360"/>
+<entry endPc="268448489" name="i" stackId="3" startPc="268448360"/>
+<entry endPc="268448489" name="now" stackId="2" startPc="268448308"/>
+<entry arg="true" endPc="268448490" name="moments" stackId="1" startPc="268448296"/>
+<entry endPc="268448659" name="second" stackId="5" startPc="268448555"/>
+<entry endPc="268448659" name="condition2" stackId="7" startPc="268448555"/>
+<entry endPc="268448659" name="condition1" stackId="6" startPc="268448555"/>
+<entry endPc="268448659" name="first" stackId="4" startPc="268448555"/>
+<entry endPc="268448672" name="i" stackId="3" startPc="268448555"/>
+<entry endPc="268448678" name="now" stackId="2" startPc="268448503"/>
+<entry arg="true" endPc="268448679" name="moments" stackId="1" startPc="268448491"/>
+<entry endPc="268448891" name="total" stackId="8" startPc="268448843"/>
+<entry endPc="268448894" name="second" stackId="5" startPc="268448744"/>
+<entry endPc="268448894" name="condition2" stackId="7" startPc="268448744"/>
+<entry endPc="268448894" name="condition1" stackId="6" startPc="268448744"/>
+<entry endPc="268448894" name="first" stackId="4" startPc="268448744"/>
+<entry endPc="268448907" name="i" stackId="3" startPc="268448744"/>
+<entry endPc="268448913" name="now" stackId="2" startPc="268448692"/>
+<entry arg="true" endPc="268448914" name="moments" stackId="1" startPc="268448680"/>
+<entry endPc="268448993" name="result" stackId="3" startPc="268448946"/>
+<entry arg="true" endPc="268448994" name="height" stackId="2" startPc="268448934"/>
+<entry arg="true" endPc="268448994" name="radius" stackId="1" startPc="268448934"/>
+<entry endPc="268449271" name="lenght" stackId="8" startPc="268449092"/>
+<entry endPc="268449271" name="tLenght" stackId="9" startPc="268449092"/>
+<entry endPc="268449284" name="i" stackId="7" startPc="268449092"/>
+<entry endPc="268449284" name="terminator" stackId="6" startPc="268449007"/>
+<entry arg="true" endPc="268449285" name="radius" stackId="4" startPc="268448995"/>
+<entry arg="true" endPc="268449285" name="dcContext" stackId="1" startPc="268448995"/>
+<entry arg="true" endPc="268449285" name="whereMoon" stackId="5" startPc="268448995"/>
+<entry arg="true" endPc="268449285" name="axisY" stackId="3" startPc="268448995"/>
+<entry arg="true" endPc="268449285" name="axisX" stackId="2" startPc="268448995"/>
+<entry endPc="268449511" name="rez_cmp_local_custom_drawable_10344468029262418655" stackId="2" startPc="268449298"/>
+<entry endPc="268449511" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268449298"/>
+<entry arg="true" endPc="268449512" name="dc" stackId="1" startPc="268449286"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="flagOld"/>
@@ -991,20 +1006,20 @@
 <dataEntryOffsetMappings>
 <dataEntry label="globals" offset="119" parentId="" symbolId="globals" type="module"/>
 <dataEntry label="globals/MBView" offset="238" parentId="globals" symbolId="MBView" type="class"/>
-<dataEntry label="globals/Rez" offset="509" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/Rez/Drawables" offset="588" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="811" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="842" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="873" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="912" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="943" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/MBApp" offset="1054" parentId="globals" symbolId="MBApp" type="class"/>
-<dataEntry label="globals/MBDelegate" offset="1133" parentId="globals" symbolId="MBDelegate" type="class"/>
-<dataEntry label="globals/Pointers" offset="1188" parentId="globals" symbolId="Pointers" type="module"/>
-<dataEntry label="globals/Moon" offset="1259" parentId="globals" symbolId="Moon" type="module"/>
-<dataEntry label="globals/Zodiac" offset="1370" parentId="globals" symbolId="Zodiac" type="module"/>
-<dataEntry label="globals/Background" offset="1417" parentId="globals" symbolId="Background" type="class"/>
-<dataEntry label="globals/Planets" offset="1472" parentId="globals" symbolId="Planets" type="module"/>
+<dataEntry label="globals/Rez" offset="533" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="612" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="835" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="866" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="897" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="936" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="967" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/MBApp" offset="1078" parentId="globals" symbolId="MBApp" type="class"/>
+<dataEntry label="globals/MBDelegate" offset="1157" parentId="globals" symbolId="MBDelegate" type="class"/>
+<dataEntry label="globals/Pointers" offset="1212" parentId="globals" symbolId="Pointers" type="module"/>
+<dataEntry label="globals/Moon" offset="1283" parentId="globals" symbolId="Moon" type="module"/>
+<dataEntry label="globals/Zodiac" offset="1394" parentId="globals" symbolId="Zodiac" type="module"/>
+<dataEntry label="globals/Background" offset="1441" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry label="globals/Planets" offset="1496" parentId="globals" symbolId="Planets" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="MBDelegate" startPc="268435456">
@@ -1013,7 +1028,7 @@
 <functionEntry accessMode="public" endPc="268435486" name="onKey" parent="MBDelegate" startPc="268435479">
 <documentation><![CDATA[<div class="description"> Handle the select button<br/> <div class="returns">Returns  true if event is handled</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449438" name="&lt;init&gt;" parent="MBDelegate" startPc="268449420">
+<functionEntry accessMode="protected" endPc="268449770" name="&lt;init&gt;" parent="MBDelegate" startPc="268449752">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268435532" name="initialize" parent="Background" startPc="268435487">
@@ -1023,7 +1038,7 @@
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268454313" name="&lt;init&gt;" parent="Background" startPc="268454295">
+<functionEntry accessMode="protected" endPc="268454645" name="&lt;init&gt;" parent="Background" startPc="268454627">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268435672" name="drawPointerHour" parent="Pointers" startPc="268435599">
@@ -1061,7 +1076,7 @@
 <param id="rotation"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449439" name="&lt;init&gt;" parent="Pointers" startPc="268449439">
+<functionEntry accessMode="protected" endPc="268449771" name="&lt;init&gt;" parent="Pointers" startPc="268449771">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268437168" name="whichSign" parent="Zodiac" startPc="268436743">
@@ -1069,7 +1084,7 @@
 <param id="month"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268454294" name="&lt;init&gt;" parent="Zodiac" startPc="268453800">
+<functionEntry accessMode="protected" endPc="268454626" name="&lt;init&gt;" parent="Zodiac" startPc="268454132">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268437246" name="daysFromStart" parent="Planets" startPc="268437169">
@@ -1110,7 +1125,7 @@
 <param id="moment"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268456347" name="&lt;init&gt;" parent="Planets" startPc="268454314">
+<functionEntry accessMode="protected" endPc="268456559" name="&lt;init&gt;" parent="Planets" startPc="268454646">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268438375" name="initialize" parent="MBApp" startPc="268438353">
@@ -1130,39 +1145,39 @@
 <functionEntry accessMode="public" endPc="268438448" name="onSettingsChanged" parent="MBApp" startPc="268438428">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449419" name="&lt;init&gt;" parent="MBApp" startPc="268449401">
+<functionEntry accessMode="protected" endPc="268449751" name="&lt;init&gt;" parent="MBApp" startPc="268449733">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268438477" name="getApp" startPc="268438449">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438626" name="initialize" parent="MBView" startPc="268438478">
+<functionEntry accessMode="public" endPc="268438719" name="initialize" parent="MBView" startPc="268438478">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438802" name="onLayout" parent="MBView" startPc="268438627">
+<functionEntry accessMode="public" endPc="268438938" name="onLayout" parent="MBView" startPc="268438720">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438807" name="onShow" parent="MBView" startPc="268438803">
+<functionEntry accessMode="public" endPc="268438943" name="onShow" parent="MBView" startPc="268438939">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438926" name="onUpdate" parent="MBView" startPc="268438808">
+<functionEntry accessMode="public" endPc="268439062" name="onUpdate" parent="MBView" startPc="268438944">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438931" name="onHide" parent="MBView" startPc="268438927">
+<functionEntry accessMode="public" endPc="268439067" name="onHide" parent="MBView" startPc="268439063">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438936" name="onExitSleep" parent="MBView" startPc="268438932">
+<functionEntry accessMode="public" endPc="268439072" name="onExitSleep" parent="MBView" startPc="268439068">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438941" name="onEnterSleep" parent="MBView" startPc="268438937">
+<functionEntry accessMode="public" endPc="268439077" name="onEnterSleep" parent="MBView" startPc="268439073">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440340" name="drawBackground" parent="MBView" startPc="268438942">
+<functionEntry accessMode="public" endPc="268440459" name="drawBackground" parent="MBView" startPc="268439078">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440684" name="creatingSpiral" parent="MBView" startPc="268440341">
+<functionEntry accessMode="public" endPc="268440803" name="creatingSpiral" parent="MBView" startPc="268440460">
 <param id="dcContext"/>
 <param id="shortRadius"/>
 <param id="longRadius"/>
@@ -1170,18 +1185,18 @@
 <param id="pen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440812" name="checkRadiuses" parent="MBView" startPc="268440685">
+<functionEntry accessMode="public" endPc="268440931" name="checkRadiuses" parent="MBView" startPc="268440804">
 <param id="dcContext"/>
 <param id="shortRadius"/>
 <param id="longRadius"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440903" name="verifyRadius" parent="MBView" startPc="268440813">
+<functionEntry accessMode="public" endPc="268441022" name="verifyRadius" parent="MBView" startPc="268440932">
 <param id="dcContext"/>
 <param id="radius"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268441773" name="creatingCorona" parent="MBView" startPc="268440904">
+<functionEntry accessMode="public" endPc="268441892" name="creatingCorona" parent="MBView" startPc="268441023">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
@@ -1190,7 +1205,7 @@
 <param id="base"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268442074" name="creatingZodiac" parent="MBView" startPc="268441774">
+<functionEntry accessMode="public" endPc="268442158" name="creatingZodiac" parent="MBView" startPc="268441893">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
@@ -1199,7 +1214,12 @@
 <param id="pointingColor"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268443252" name="creatingPlanet" parent="MBView" startPc="268442075">
+<functionEntry accessMode="public" endPc="268442481" name="drawZodiacGraphic" parent="MBView" startPc="268442159">
+<param id="dcContext"/>
+<param id="graphics"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443659" name="creatingPlanet" parent="MBView" startPc="268442482">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
@@ -1209,7 +1229,7 @@
 <param id="graphicSize"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268444863" name="creatingEarthMoon" parent="MBView" startPc="268443253">
+<functionEntry accessMode="public" endPc="268445270" name="creatingEarthMoon" parent="MBView" startPc="268443660">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
@@ -1219,7 +1239,7 @@
 <param id="graphicSize"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268445035" name="creatingEarthSymbol" parent="MBView" startPc="268444864">
+<functionEntry accessMode="public" endPc="268445442" name="creatingEarthSymbol" parent="MBView" startPc="268445271">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
@@ -1227,97 +1247,97 @@
 <param id="lower"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268445456" name="creatingMarsSymbol" parent="MBView" startPc="268445036">
+<functionEntry accessMode="public" endPc="268445863" name="creatingMarsSymbol" parent="MBView" startPc="268445443">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
 <param id="pen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268445663" name="creatingVenusSymbol" parent="MBView" startPc="268445457">
+<functionEntry accessMode="public" endPc="268446070" name="creatingVenusSymbol" parent="MBView" startPc="268445864">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
 <param id="pen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268446142" name="creatingMercurySymbol" parent="MBView" startPc="268445664">
+<functionEntry accessMode="public" endPc="268446549" name="creatingMercurySymbol" parent="MBView" startPc="268446071">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
 <param id="pen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268446447" name="creatingSaturnSymbol" parent="MBView" startPc="268446143">
+<functionEntry accessMode="public" endPc="268446854" name="creatingSaturnSymbol" parent="MBView" startPc="268446550">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
 <param id="pen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268446762" name="creatingJupiterSymbol" parent="MBView" startPc="268446448">
+<functionEntry accessMode="public" endPc="268447169" name="creatingJupiterSymbol" parent="MBView" startPc="268446855">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
 <param id="pen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268446958" name="creatingMoonSymbol" parent="MBView" startPc="268446763">
+<functionEntry accessMode="public" endPc="268447365" name="creatingMoonSymbol" parent="MBView" startPc="268447170">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
 <param id="pen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268447335" name="creatingSunSymbol" parent="MBView" startPc="268446959">
+<functionEntry accessMode="public" endPc="268447742" name="creatingSunSymbol" parent="MBView" startPc="268447366">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
 <param id="pen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268447465" name="createPointFromAngle" parent="MBView" startPc="268447336">
+<functionEntry accessMode="public" endPc="268447872" name="createPointFromAngle" parent="MBView" startPc="268447743">
 <param id="axisX"/>
 <param id="axisY"/>
 <param id="lenght"/>
 <param id="rotation"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449370" name="&lt;init&gt;" parent="MBView" startPc="268449182">
+<functionEntry accessMode="protected" endPc="268449702" name="&lt;init&gt;" parent="MBView" startPc="268449514">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268447533" name="creatingNow" parent="Moon" startPc="268447466">
+<functionEntry accessMode="public" endPc="268447940" name="creatingNow" parent="Moon" startPc="268447873">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268447652" name="readingMoment" parent="Moon" startPc="268447534">
+<functionEntry accessMode="public" endPc="268448059" name="readingMoment" parent="Moon" startPc="268447941">
 <param id="moment"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268447888" name="printingMoment" parent="Moon" startPc="268447653">
+<functionEntry accessMode="public" endPc="268448295" name="printingMoment" parent="Moon" startPc="268448060">
 <param id="moment"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268448107" name="findMoments" parent="Moon" startPc="268447889">
+<functionEntry accessMode="public" endPc="268448490" name="findMoments" parent="Moon" startPc="268448296">
 <param id="moments"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268448296" name="findLastFullMoon" parent="Moon" startPc="268448108">
+<functionEntry accessMode="public" endPc="268448679" name="findLastFullMoon" parent="Moon" startPc="268448491">
 <param id="moments"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268448531" name="whereMoon" parent="Moon" startPc="268448297">
+<functionEntry accessMode="public" endPc="268448914" name="whereMoon" parent="Moon" startPc="268448680">
 <param id="moments"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268448550" name="getLatitude" parent="Moon" startPc="268448532">
+<functionEntry accessMode="public" endPc="268448933" name="getLatitude" parent="Moon" startPc="268448915">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268448611" name="cutCircle" parent="Moon" startPc="268448551">
+<functionEntry accessMode="public" endPc="268448994" name="cutCircle" parent="Moon" startPc="268448934">
 <param id="radius"/>
 <param id="height"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268448953" name="drawMoon" parent="Moon" startPc="268448612">
+<functionEntry accessMode="public" endPc="268449285" name="drawMoon" parent="Moon" startPc="268448995">
 <param id="dcContext"/>
 <param id="axisX"/>
 <param id="axisY"/>
@@ -1325,32 +1345,32 @@
 <param id="whereMoon"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268453799" name="&lt;init&gt;" parent="Moon" startPc="268449440">
+<functionEntry accessMode="protected" endPc="268454131" name="&lt;init&gt;" parent="Moon" startPc="268449772">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449395" name="&lt;init&gt;" parent="Drawables" startPc="268449395">
+<functionEntry accessMode="protected" endPc="268449727" name="&lt;init&gt;" parent="Drawables" startPc="268449727">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449397" name="&lt;init&gt;" parent="Fonts" startPc="268449397">
+<functionEntry accessMode="protected" endPc="268449729" name="&lt;init&gt;" parent="Fonts" startPc="268449729">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449399" name="&lt;init&gt;" parent="JsonData" startPc="268449399">
+<functionEntry accessMode="protected" endPc="268449731" name="&lt;init&gt;" parent="JsonData" startPc="268449731">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268449180" name="WatchFace" parent="Layouts" startPc="268448954">
+<functionEntry accessMode="public" endPc="268449512" name="WatchFace" parent="Layouts" startPc="268449286">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449398" name="&lt;init&gt;" parent="Layouts" startPc="268449398">
+<functionEntry accessMode="protected" endPc="268449730" name="&lt;init&gt;" parent="Layouts" startPc="268449730">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449396" name="&lt;init&gt;" parent="Menus" startPc="268449396">
+<functionEntry accessMode="protected" endPc="268449728" name="&lt;init&gt;" parent="Menus" startPc="268449728">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449400" name="&lt;init&gt;" parent="Strings" startPc="268449400">
+<functionEntry accessMode="protected" endPc="268449732" name="&lt;init&gt;" parent="Strings" startPc="268449732">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268449394" name="&lt;init&gt;" parent="Rez" startPc="268449371">
+<functionEntry accessMode="protected" endPc="268449726" name="&lt;init&gt;" parent="Rez" startPc="268449703">
 <documentation/>
 </functionEntry>
 </functions>

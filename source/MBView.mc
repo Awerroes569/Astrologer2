@@ -265,7 +265,7 @@ class MBView extends WatchUi.WatchFace {
 
     function drawZodiacGraphic(dcContext,graphics)
     {
-        var bigCorrection=[0,0];
+        var bigCorrection=[20,20];
         var corrections=[[120,0],[120,120],[0,120],[0,0]];
         
         for(var i=0;i<graphics.size();i++)
