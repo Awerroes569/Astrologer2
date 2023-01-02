@@ -10,7 +10,7 @@ import Toybox.Activity;
 
 class MBView extends WatchUi.WatchFace {
 
-    var  center, dcR, zodiacs; //var background, center, dcR, hr_zones, beatColor, mercury, mars, jupiter,mercuriusUp,zodiacs;
+    var  center, dcR, zodiacs, version; 
 
     var GRAY=0xaaaaaa;
     
@@ -27,12 +27,14 @@ class MBView extends WatchUi.WatchFace {
     			320.6, //10
     			350.2 //11
     			];
+    var ALIAS_VERSION=320;
 
 
     function initialize() {
-        WatchFace.initialize();
-        //background = null; 
+        WatchFace.initialize(); 
         zodiacs=[Rez.Drawables.flag1,Rez.Drawables.flag2,Rez.Drawables.flag3,Rez.Drawables.flag4]; 
+        version=System.getDeviceSettings().monkeyVersion;
+        version=version[0]*100+version[1]*10+version[2];
     }
 
     // Load your resources here
@@ -42,6 +44,10 @@ class MBView extends WatchUi.WatchFace {
         dcR = dc;
         dcR.clear();
         dcR.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_WHITE);
+         if (version>=ALIAS_VERSION)
+        {
+            dcR.setAntiAlias(true);
+        }
     }
 
     // Called when this View is brought to the foreground. Restore
@@ -74,7 +80,7 @@ class MBView extends WatchUi.WatchFace {
     
     function drawBackground(){
         
-        dcR.setAntiAlias(true);
+       
 
         var today = Gregorian.info(Time.now(), Time.FORMAT_SHORT);
         var day = today.day;
