@@ -15,13 +15,6 @@ module Planets{
     	"Saturn" => { "initialLongtitude"=>50.1, "dayAngle"=>0.03346,"perihelionLongtitude"=>93.1,"e"=>0.0555,"order"=>6,"arch"=>55,"title"=>[Rez.Drawables.saturnusU,Rez.Drawables.saturnusD],"whereTitle"=>[[-52,-100],[-53,76]]}, // down-47,79	
 		"Earth2" => { "initialLongtitude"=>100.0, "dayAngle"=>0.98561,"perihelionLongtitude"=>102.9,"e"=>0.0167,"order"=>3,"arch"=>67,"title"=>[Rez.Drawables.terraU2,Rez.Drawables.terraD2],"whereTitle"=>[[-33,-100],[-32,84]]}//[-52,-56],[-102,34] arch 47	
 	};
-
-	var PUPI=[
-
-		[1,2,3],
-		[4,5,6]
-
-	];
 	
 	var START_MOMENT = Gregorian.moment({
 		:year => 2000,
@@ -106,9 +99,9 @@ module Planets{
 		var totalAngle=daysFromStart()*dayAngle+initialLongtitude;
 		var totalAngleNormalized=currentAngle(totalAngle);
 		var meanAnomaly=convertToPlus(totalAngleNormalized-perihelionLongtitude);
-		//STOPNIE(2*W5*SIN(RADIANY(V5)))
+		//DEGREES(2*W5*SIN(RADIANS(V5)))
 		var firstCorrection=Math.toDegrees(2*e*Math.sin(Math.toRadians(meanAnomaly)));
-		//STOPNIE(1,25*(W5^2)*SIN(RADIANY(2*V5)))
+		//DEGREES(1,25*(W5^2)*SIN(RADIANS(2*V5)))
 		var secondCorrection= Math.toDegrees(1.25*e*e*Math.sin(Math.toRadians(2*meanAnomaly)));
 		var totalCorrection=firstCorrection+secondCorrection;
 		var precession=1.0f*daysFromStart()/25800;
@@ -131,9 +124,9 @@ module Planets{
 		var totalAngle=daysFromStartOnMoment(moment)*dayAngle+initialLongtitude;
 		var totalAngleNormalized=currentAngle(totalAngle);
 		var meanAnomaly=convertToPlus(totalAngleNormalized-perihelionLongtitude);
-		//STOPNIE(2*W5*SIN(RADIANY(V5)))
+		//DEGREES(2*W5*SIN(RADIANS(V5)))
 		var firstCorrection=Math.toDegrees(2*e*Math.sin(Math.toRadians(meanAnomaly)));
-		//STOPNIE(1,25*(W5^2)*SIN(RADIANY(2*V5)))
+		//DEGREES(1,25*(W5^2)*SIN(RADIANS(2*V5)))
 		var secondCorrection= Math.toDegrees(1.25*e*e*Math.sin(Math.toRadians(2*meanAnomaly)));
 		var totalCorrection=firstCorrection+secondCorrection;
 		var precession=1.0f*daysFromStart()/25800;

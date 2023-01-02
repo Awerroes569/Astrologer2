@@ -79,16 +79,13 @@ class MBView extends WatchUi.WatchFace {
     }
     
     function drawBackground(){
-        
-       
-
         var today = Gregorian.info(Time.now(), Time.FORMAT_SHORT);
         var day = today.day;
         var month=today.month;
         var bigRotation=Pointers.drawPointerHour();
         var smallRotation=Pointers.drawPointerMin();
         var clockTime = System.getClockTime();
-        var minutes=28;//clockTime.min;  
+        var minutes=clockTime.min;  
 
         if(minutes>5 and minutes<12)
         {
@@ -253,13 +250,31 @@ class MBView extends WatchUi.WatchFace {
         dcContext.setPenWidth(1);
 
         //2 ZODIAC GRAPHIC
-        dcContext.drawBitmap(20, 20, WatchUi.loadResource(Rez.Drawables.flag));
-
+        drawZodiacGraphic(dcContext,zodiacs);
+        //toDisplay=null;
         dcContext.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
+        
+        //dcContext.drawBitmap(20, 20, WatchUi.loadResource(Rez.Drawables.flag));
+
+        //dcContext.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
 
         //3 SPIRAL FOR ZODIACS
         creatingSpiral(dcContext,70,120,VIRALS,2);
  	
+    }
+
+    function drawZodiacGraphic(dcContext,graphics)
+    {
+        var bigCorrection=[0,0];
+        var corrections=[[120,0],[120,120],[0,120],[0,0]];
+        
+        for(var i=0;i<graphics.size();i++)
+        {
+            var toLoad=WatchUi.loadResource(graphics[i]);
+            dcContext.drawBitmap(bigCorrection[0]+corrections[i][0], bigCorrection[1]+corrections[i][1], toLoad);
+            toLoad=null;
+        }
+        
     }
 
     function creatingPlanet(dcContext,axisX,axisY,planet,lenght,radius,graphicSize)
@@ -292,7 +307,7 @@ class MBView extends WatchUi.WatchFace {
         title=null;
         where=null;
 
-        // PLANETA 
+        // PLANET
 
         dcR.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dcR.fillCircle(positionPlanet[0], positionPlanet[1], radius);
@@ -353,9 +368,7 @@ function creatingEarthMoon(dcContext,axisX,axisY,planet,lenght,radius,graphicSiz
         else 
         {
             dcContext.drawArc(axisX,axisY,lenght,Graphics.ARC_COUNTER_CLOCKWISE,360-arch,180+arch);
-        }
-
-        
+        } 
 
         dcR.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dcR.fillCircle(positionPlanet[0],positionPlanet[1],31);
@@ -363,7 +376,6 @@ function creatingEarthMoon(dcContext,axisX,axisY,planet,lenght,radius,graphicSiz
         dcR.fillCircle(positionPlanet[0],positionPlanet[1],30);
         dcR.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dcR.fillCircle(positionPlanet[0],positionPlanet[1],29);
-
         
         dcR.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dcR.fillCircle(positionPlanet[0], positionPlanet[1], radius);
