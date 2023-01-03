@@ -28,6 +28,7 @@ class MBView extends WatchUi.WatchFace {
     			350.2 //11
     			];
     var ALIAS_VERSION=320;
+    var MAIN_GRAPHIC=240;
 
 
     function initialize() {
@@ -250,7 +251,7 @@ class MBView extends WatchUi.WatchFace {
         dcContext.setPenWidth(1);
 
         //2 ZODIAC GRAPHIC
-        drawZodiacGraphic(dcContext,zodiacs);
+        drawZodiacGraphic(dcContext,zodiacs,center);
         //toDisplay=null;
         dcContext.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
         
@@ -263,9 +264,9 @@ class MBView extends WatchUi.WatchFace {
  	
     }
 
-    function drawZodiacGraphic(dcContext,graphics)
+    function drawZodiacGraphic(dcContext,graphics,resolution)
     {
-        var bigCorrection=[20,20];
+        var bigCorrection=[resolution[0]-120,resolution[1]-120];
         var corrections=[[120,0],[120,120],[0,120],[0,0]];
         
         for(var i=0;i<graphics.size();i++)
