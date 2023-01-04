@@ -29,6 +29,14 @@ class MBView extends WatchUi.WatchFace {
     			];
     var ALIAS_VERSION=320;
     var MAIN_GRAPHIC=240;
+    var END_TRIAL_MOMENT= Gregorian.moment({
+		:year => 2025,
+		:month => 1,
+		:day => 1,
+		:hour =>0,
+		:minute => 0,
+		:second => 0
+		});
 
 
     function initialize() {
@@ -61,7 +69,15 @@ class MBView extends WatchUi.WatchFace {
     function onUpdate(dc as Dc) as Void {
         dcR.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
         dcR.clear();
-        drawBackground();
+        if (isTrialValid())
+        {
+            drawBackground();
+        }
+        else
+        {
+            dcR.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
+            dcR.drawText(dcR.getWidth()/2, dcR.getHeight()/2.5, Graphics.FONT_LARGE, "Trial expired",Graphics.TEXT_JUSTIFY_CENTER);
+        }
         dcR.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
     }
 
@@ -555,5 +571,18 @@ function creatingEarthMoon(dcContext,axisX,axisY,planet,lenght,radius,graphicSiz
         
         return [newY,newX];
 	}
+
+    function isTrialValid()
+    {
+        var now=Moon.creatingNow();
+        if (now.value()-END_TRIAL_MOMENT.value()>0)
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+    }
 		
 }
